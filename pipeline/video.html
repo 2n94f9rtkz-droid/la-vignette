@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:AB;src:url(node_modules/@fontsource/archivo-black/files/archivo-black-latin-400-normal.woff2)}
+@font-face{font-family:AB;src:url(node_modules/@fontsource/archivo-black/files/archivo-black-latin-ext-400-normal.woff2);unicode-range:U+0100-024F}
+@font-face{font-family:SM;src:url(node_modules/@fontsource/space-mono/files/space-mono-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:SM;src:url(node_modules/@fontsource/space-mono/files/space-mono-latin-700-normal.woff2);font-weight:700}
+html,body{margin:0;background:#000}
+#s{width:405px;height:720px;position:relative;overflow:hidden;background:#F1E6CF;color:#161616;font-family:SM,monospace;
+ background-image:radial-gradient(rgba(22,22,22,.06) 1px,transparent 1.2px);background-size:6px 6px}
+.ab{font-family:AB,sans-serif;text-transform:uppercase}
+.abs{position:absolute}
+.st{background:#fff;border:2px solid #161616;box-sizing:border-box}
+.flag{display:flex;width:24px;height:16px;border:2px solid #161616}
+.flag i{flex:1}
+</style></head><body><div id="s"></div>
+<script>
+const RED='#D7263D',BLUE='#1B3A8C',INK='#161616',PAPER='#F1E6CF',GOLD='#F2C14E';
+let EP={num:0,players:[]},R=[],NUM='000',NEXT='001';
+window.setEp=e=>{EP=e;R=e.players;NUM=String(e.num).padStart(3,'0');NEXT=String(e.num+1).padStart(3,'0');};
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const p=(t,a,d)=>cl((t-a)/d);
+const eob=x=>{const c1=1.70158,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const eo=x=>1-Math.pow(1-x,3);
+function pop(t,a,d=.35){const x=p(t,a,d);return x<=0?'opacity:0;transform:scale(.4)':`opacity:${cl(x*3)};transform:scale(${.4+.6*eob(x)})`}
+const flagOf=d=>!d.flag?'':`<div class="flag" style="flex-direction:${d.flag[0]=='h'?'column':'row'}">${d.flag[1].map(c=>`<i style="background:${c}"></i>`).join('')}</div>`;
+const rot=i=>[-2,1.5,-1,2,-1.5,1][i%6];
+
+function intro(t){
+ const y=-200+200*eo(p(t,0,.5));
+ const lv=['FACILE','MOYEN','EXPERT'].map((l,i)=>`<div class="st ab" style="padding:12px 0;width:104px;text-align:center;font-size:17px;box-shadow:4px 4px 0 ${INK};${pop(t,.9+i*.25)};rotate:${rot(i)*2}deg">${l}<div style="font-family:SM;font-size:10px;text-transform:none;margin-top:2px">joueur ${i+1}/3</div></div>`).join('');
+ return `<div class="abs" style="inset:0;background:${RED};background-image:radial-gradient(rgba(0,0,0,.08) 1px,transparent 1.2px);background-size:6px 6px"></div>
+ <div class="abs" style="left:24px;right:24px;top:40px;display:flex;justify-content:space-between;color:#fff;font-size:12px;letter-spacing:.1em;${'opacity:'+p(t,.2,.3)}"><span>LA VIGNETTE</span><span>N° ${NUM}</span></div>
+ <div class="abs ab" style="left:0;right:0;top:${190+y}px;text-align:center;color:#fff;font-size:76px;line-height:.95">QUI<br>SUIS-JE ?</div>
+ <div class="abs" style="left:0;right:0;top:410px;display:flex;justify-content:center;gap:12px">${lv}</div>
+ <div class="abs" style="left:0;right:0;top:540px;text-align:center;color:#fff;font-size:15px;font-weight:700;${'opacity:'+p(t,1.9,.4)}">3 joueurs · 60 secondes<br>Tu en trouves combien ?</div>`;
+}
+
+function round(r,t){
+ const d=R[r],n=d.clubs.length,cols=3;
+ const cStart=2.0,cEnd=10.4,step=(cEnd-cStart)/(n-1);
+ const cd0=10.6,rv=13.6;
+ let h='';
+ // header
+ const hy=-130+130*eo(p(t,0,.45));
+ h+=`<div class="abs" style="left:0;right:0;top:${hy}px;height:122px;background:${RED};color:#fff;padding:22px 24px 0;box-sizing:border-box">
+   <div style="display:flex;justify-content:space-between;align-items:center;font-size:11px;letter-spacing:.1em"><span>LA VIGNETTE · N° ${NUM} · ${r+1}/3</span>
+   <span class="ab" style="background:${GOLD};color:${INK};border:2px solid ${INK};font-size:12px;letter-spacing:0;padding:4px 8px;rotate:4deg">${d.lvl}</span></div>
+   <div class="ab" style="font-size:36px;line-height:1;margin-top:14px;white-space:nowrap">Qui suis-je ?</div></div>`;
+ // mini card + indices
+ h+=`<div class="abs st" style="left:24px;top:146px;width:92px;height:116px;box-shadow:4px 4px 0 ${INK};rotate:-3deg;display:flex;flex-direction:column;${pop(t,.5)}">
+   <div class="ab" style="flex:1;background:${BLUE};color:${PAPER};display:flex;align-items:center;justify-content:center;font-size:58px">?</div>
+   <div style="font-size:9px;font-weight:700;text-align:center;padding:3px 0">N° ${NUM}-${r+1}</div></div>`;
+ h+=`<div class="abs" style="left:140px;top:156px;display:flex;align-items:center;gap:8px;font-size:13px;font-weight:700;${pop(t,.9)};transform-origin:left">${flagOf(d)}<span>${d.nat}</span></div>`;
+ h+=`<div class="abs" style="left:140px;top:186px;font-size:13px;${pop(t,1.2)};transform-origin:left">Poste : <b>${d.pos.toLowerCase()}</b></div>`;
+ h+=`<div class="abs" style="left:140px;top:214px;font-size:13px;${pop(t,1.5)};transform-origin:left">Indice : son parcours ↓</div>`;
+ h+=`<div class="abs" style="left:24px;top:282px;font-size:11px;letter-spacing:.15em;font-weight:700;opacity:${p(t,1.7,.3)}">SON PARCOURS · ${n} CLUBS</div>`;
+ // grid
+ const rows=Math.ceil(n/cols),gh=Math.min(56,(600-306)/rows-6);
+ d.clubs.forEach((c,i)=>{
+  const col=i%cols,row=Math.floor(i/cols),x=24+col*(119+0),y=306+row*(gh+7);
+  const ta=cStart+i*step,hidden=i===n-1;
+  const name=c[0],fs=name.length>13?9:name.length>11?10:name.length>9?12:14;
+  let inner,extra='';
+  if(hidden && t<rv){
+   inner=`<div class="ab" style="font-size:16px;color:${BLUE};text-align:center;line-height:${gh-16}px">? ? ?</div>`;
+   extra=`background:transparent;border-style:dashed;`;
+  } else {
+   inner=`<div style="font-size:10px">${c[1]}</div><div class="ab" style="font-size:${fs}px;line-height:1.15;white-space:nowrap">${name}</div>`;
+   if(hidden) extra=`box-shadow:3px 3px 0 ${RED};`;
+  }
+  const ps=hidden&&t>=rv?pop(t,rv,.4):pop(t,ta);
+  h+=`<div class="abs st" style="left:${x}px;top:${y}px;width:111px;height:${gh}px;padding:5px 8px;rotate:${rot(i)}deg;${extra}${ps}">${inner}</div>`;
+ });
+ // bottom bar
+ const prog=t<cd0?1:cl(1-(t-cd0)/3);
+ h+=`<div class="abs" style="left:24px;right:24px;bottom:56px;display:flex;align-items:center;gap:12px;opacity:${p(t,1,.3)}">
+   <div style="flex:1;height:14px;border:2px solid ${INK};background:#fff;display:flex"><div style="width:${prog*100}%;background:${RED}"></div></div></div>`;
+ h+=`<div class="abs" style="left:0;right:0;bottom:24px;text-align:center;font-size:12px;font-weight:700;opacity:${p(t,1,.3)}">Ta réponse en commentaire ↓</div>`;
+ // countdown stamp
+ if(t>=cd0&&t<rv){const k=Math.floor(t-cd0),num=3-k;
+  h+=`<div class="abs" style="left:0;right:0;top:250px;display:flex;justify-content:center"><div class="ab" style="width:150px;height:150px;border-radius:50%;background:${GOLD};border:4px solid ${INK};box-shadow:6px 6px 0 ${INK};display:flex;align-items:center;justify-content:center;font-size:90px;${pop(t,cd0+k,.25)};rotate:${k*6-6}deg">${num}</div></div>`;}
+ // reveal
+ if(t>=rv+.5){
+  const a=p(t,rv+.5,.35),f=p(t,rv+.6,.5),sc=f<.5?1-f*2:(f-.5)*2,back=f<.5;
+  h+=`<div class="abs" style="inset:0;background:rgba(22,22,22,${.62*a})"></div>`;
+  h+=`<div class="abs" style="left:0;right:0;top:${150+40*(1-eo(a))}px;display:flex;justify-content:center"><div style="position:relative;width:250px;rotate:-2deg;transform:scaleX(${Math.max(.02,sc)})">`;
+  if(back){h+=`<div class="st" style="height:360px;border:3px solid ${INK};background:${BLUE};box-shadow:7px 7px 0 ${INK};display:flex;align-items:center;justify-content:center"><div class="ab" style="font-size:150px;color:${PAPER}">?</div></div>`;}
+  else{h+=`<div class="st" style="border:3px solid ${INK};box-shadow:7px 7px 0 ${INK}">
+    <div style="height:178px;position:relative;overflow:hidden;border-bottom:3px solid ${INK}"><img src="${d.img}" style="width:100%;height:100%;object-fit:cover;display:block">
+      <div class="abs" style="left:6px;bottom:5px;background:rgba(241,230,207,.92);font-size:7px;padding:1px 4px">${d.credit}</div></div>
+    <div style="background:${RED};color:#fff;padding:14px 12px 12px;text-align:center"><div style="font-size:12px;letter-spacing:.25em">${d.first}</div><div class="ab" style="font-size:${Math.min(46,Math.floor(232/(d.last.length*0.78)))}px;line-height:1">${d.last}</div></div>
+    <div style="display:flex;justify-content:space-between;align-items:center;padding:8px 12px;font-size:11px;font-weight:700"><div style="display:flex;gap:6px;align-items:center">${flagOf(d)}${d.nat}</div><span>${d.pos}</span></div></div>
+    <div class="abs ab" style="right:-26px;top:-24px;width:86px;height:86px;border-radius:50%;background:${GOLD};border:3px solid ${INK};display:flex;align-items:center;justify-content:center;text-align:center;font-size:10px;line-height:1.15;${pop(t,rv+1.4,.35)};rotate:14deg">${d.badge||('<span style="font-size:30px;line-height:1">'+d.clubs.length+'</span><br>CLUBS')}</div>`;}
+  h+=`</div></div>`;
+  h+=`<div class="abs" style="left:24px;right:24px;top:612px;text-align:center;color:#fff;font-size:14px;font-weight:700;opacity:${p(t,rv+1.8,.4)}">${r<2?'Joueur suivant →':'Alors, ton score ?'}</div>`;
+ }
+ return h;
+}
+
+function outro(t){
+ const sc=['0/3','1/3','2/3','3/3'].map((s,i)=>`<div class="st ab" style="width:72px;padding:14px 0;text-align:center;font-size:22px;box-shadow:4px 4px 0 ${INK};${i==3?'background:'+GOLD+';':''}${pop(t,.3+i*.15)};rotate:${rot(i)*2}deg">${s}</div>`).join('');
+ return `<div class="abs" style="inset:0;background:${BLUE};background-image:radial-gradient(rgba(255,255,255,.07) 1px,transparent 1.2px);background-size:6px 6px"></div>
+ <div class="abs ab" style="left:0;right:0;top:150px;text-align:center;color:#fff;font-size:52px;line-height:1;${pop(t,0,.4)}">Ton<br>score ?</div>
+ <div class="abs" style="left:0;right:0;top:320px;display:flex;justify-content:center;gap:10px">${sc}</div>
+ <div class="abs" style="left:0;right:0;top:440px;text-align:center;color:#fff;font-size:15px;font-weight:700;opacity:${p(t,1,.4)}">Dis-le en commentaire ↓</div>
+ <div class="abs" style="left:0;right:0;top:540px;display:flex;justify-content:center;${pop(t,1.4,.4)}"><div class="ab" style="background:${RED};color:#fff;border:3px solid ${INK};box-shadow:5px 5px 0 ${INK};padding:12px 20px;font-size:18px">Abonne-toi</div></div>
+ <div class="abs" style="left:0;right:0;top:625px;text-align:center;color:#fff;font-size:12px;letter-spacing:.1em;opacity:${p(t,1.8,.4)}">DEMAIN : N° ${NEXT}</div>`;
+}
+
+window.render=function(t){
+ let h;
+ if(t<3)h=intro(t);
+ else if(t<57){const r=Math.floor((t-3)/18);h=round(r,t-3-r*18);}
+ else h=outro(t-57);
+ document.getElementById('s').innerHTML=h;
+};
+// events for audio
+window.events=function(){const ev=[];
+ [0.9,1.15,1.4].forEach(x=>ev.push([x,'pop']));
+ R.forEach((d,r)=>{const b=3+r*18,n=d.clubs.length,step=8.4/(n-1);
+  ev.push([b,'whoosh']);
+  for(let i=0;i<n;i++)ev.push([b+2+i*step,'pop']);
+  for(let k=0;k<3;k++)ev.push([b+10.6+k,'tick']);
+  ev.push([b+13.6,'pop']);ev.push([b+14.1,'reveal']);});
+ ev.push([57,'whoosh']);ev.push([58.4,'pop']);
+ return ev;};
+render(0);
+</script></body></html>
