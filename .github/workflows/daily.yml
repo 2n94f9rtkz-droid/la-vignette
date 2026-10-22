@@ -1,0 +1,70 @@
+name: La Vignette - episode du jour
+
+on:
+  schedule:
+    - cron: "20 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-episode
+  cancel-in-progress: false
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Episode deja fabrique aujourd'hui ?
+        id: check
+        run: |
+          TODAY=$(TZ=Europe/Paris date +%F)
+          if [ -f latest.json ] && grep -q "\"date\": \"$TODAY\"" latest.json; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip == 'false'
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        if: steps.check.outputs.skip == 'false'
+        with:
+          node-version: "20"
+
+      - name: Dependances
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q opencv-python-headless==4.10.0.84 pillow numpy
+          cd pipeline && npm install --silent && npx playwright install --with-deps chromium
+
+      - name: Fabrication de l'episode
+        if: steps.check.outputs.skip == 'false'
+        env:
+          TZ: Europe/Paris
+        run: bash pipeline/run_daily.sh
+
+      - name: Publication de la video (branche media)
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          git config user.name "la-vignette-bot"
+          git config user.email "la-vignette-bot@users.noreply.github.com"
+          VID=$(ls out/*.mp4 | head -1)
+          cp "$VID" /tmp/
+          git add data/history.json episodes latest.json
+          git commit -m "Episode $(basename "$VID" .mp4)"
+          git push origin HEAD:main
+          git checkout --orphan media-new
+          git rm -rq --cached . && git clean -fdq -e out
+          cp /tmp/$(basename "$VID") .
+          git add "$(basename "$VID")"
+          git commit -qm "Video $(basename "$VID")"
+          git push -f origin media-new:media
