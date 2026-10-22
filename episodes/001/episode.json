@@ -1,0 +1,204 @@
+{
+ "num": 1,
+ "date": "2026-10-22",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q251683",
+   "name": "Ángel Di María",
+   "first": "ÁNGEL",
+   "last": "DI MARÍA",
+   "pos": "MILIEU",
+   "nat": "ARGENTINE",
+   "flag": [
+    "h",
+    [
+     "#7EB6E6",
+     "#FFFFFF",
+     "#7EB6E6"
+    ]
+   ],
+   "clubs": [
+    [
+     "Rosario Central",
+     2005
+    ],
+    [
+     "Benfica",
+     2007
+    ],
+    [
+     "Real Madrid",
+     2010
+    ],
+    [
+     "Man United",
+     2014
+    ],
+    [
+     "PSG",
+     2015
+    ],
+    [
+     "Juventus",
+     2022
+    ],
+    [
+     "Benfica",
+     2023
+    ],
+    [
+     "Rosario Central",
+     2025
+    ]
+   ],
+   "photo": {
+    "file": "NIG-ARG (5).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NIG-ARG_(5).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NIG-ARG_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Кирилл Венедиктов · CC BY-SA 3.0",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q191139",
+   "name": "Fabien Barthez",
+   "first": "FABIEN",
+   "last": "BARTHEZ",
+   "pos": "GARDIEN",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Toulouse",
+     1990
+    ],
+    [
+     "Marseille",
+     1992
+    ],
+    [
+     "Monaco",
+     1995
+    ],
+    [
+     "Man United",
+     2000
+    ],
+    [
+     "Marseille",
+     2003
+    ],
+    [
+     "Nantes",
+     2006
+    ]
+   ],
+   "photo": {
+    "file": "Fabien Barthez at OM.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fabien_Barthez_at_OM.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fabien_Barthez_at_OM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "artist": "auteur inconnu",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : auteur inconnu · CC BY-SA 3.0",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q1367655",
+   "name": "Tony Vairelles",
+   "first": "TONY",
+   "last": "VAIRELLES",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Nancy",
+     1991
+    ],
+    [
+     "Lens",
+     1995
+    ],
+    [
+     "Lyon",
+     1999
+    ],
+    [
+     "Bordeaux",
+     2001
+    ],
+    [
+     "Bastia",
+     2001
+    ],
+    [
+     "Lens",
+     2002
+    ],
+    [
+     "Rennes",
+     2003
+    ],
+    [
+     "Bastia",
+     2004
+    ],
+    [
+     "Lierse",
+     2005
+    ],
+    [
+     "Tours",
+     2006
+    ],
+    [
+     "CA Bastia",
+     2007
+    ],
+    [
+     "F91 Dudelange",
+     2008
+    ],
+    [
+     "Gueugnon",
+     2009
+    ]
+   ],
+   "photo": {
+    "file": "Tony vairelles fcg.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tony_vairelles_fcg.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tony_vairelles_fcg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "artist": "Antho33",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Antho33 · CC BY-SA 3.0",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #001",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Ángel Di María : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:NIG-ARG_(5).jpg)\n- Fabien Barthez : auteur inconnu, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Fabien_Barthez_at_OM.jpg)\n- Tony Vairelles : Antho33, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Tony_vairelles_fcg.jpg)",
+ "answers": "Ángel Di María, Fabien Barthez, Tony Vairelles"
+}
