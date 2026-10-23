@@ -1,5 +1,36 @@
 {
- "episodes": [{"num": 1, "date": "2026-10-22", "players": ["Ángel Di María", "Fabien Barthez", "Tony Vairelles"]}],
- "used": ["Ángel Di María", "Fabien Barthez", "Tony Vairelles"],
- "rejected": {}
+ "episodes": [
+  {
+   "num": 1,
+   "date": "2026-10-22",
+   "players": [
+    "Ángel Di María",
+    "Fabien Barthez",
+    "Tony Vairelles"
+   ]
+  },
+  {
+   "num": 2,
+   "date": "2026-10-23",
+   "players": [
+    "Kingsley Coman",
+    "Arjen Robben",
+    "Mathieu Bodmer"
+   ]
+  }
+ ],
+ "used": [
+  "Ángel Di María",
+  "Fabien Barthez",
+  "Tony Vairelles",
+  "Kingsley Coman",
+  "Arjen Robben",
+  "Mathieu Bodmer",
+  "Q6413296",
+  "Q43913",
+  "Q266827"
+ ],
+ "rejected": {
+  "Lilian Laslandes": "pas de photo libre"
+ }
 }

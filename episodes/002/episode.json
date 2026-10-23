@@ -1,0 +1,167 @@
+{
+ "num": 2,
+ "date": "2026-10-23",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q6413296",
+   "name": "Kingsley Coman",
+   "first": "KINGSLEY",
+   "last": "COMAN",
+   "pos": "AILIER",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "PSG",
+     2013
+    ],
+    [
+     "Juventus",
+     2014
+    ],
+    [
+     "Bayern",
+     2015
+    ],
+    [
+     "Al Nasr Riyad",
+     2025
+    ]
+   ],
+   "photo": {
+    "file": "Kingsley Coman (2019) (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kingsley_Coman_(2019)_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kingsley_Coman_%282019%29_%28cropped%29.jpg",
+    "artist": "Sven Mandel",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Sven Mandel · CC BY-SA 4.0",
+   "src": "Kingsley Coman",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q43913",
+   "name": "Arjen Robben",
+   "first": "ARJEN",
+   "last": "ROBBEN",
+   "pos": "AILIER",
+   "nat": "PAYS-BAS",
+   "flag": [
+    "h",
+    [
+     "#D7263D",
+     "#FFFFFF",
+     "#1B3A8C"
+    ]
+   ],
+   "clubs": [
+    [
+     "VV Bedum",
+     1989
+    ],
+    [
+     "Groningue",
+     1996
+    ],
+    [
+     "PSV",
+     2002
+    ],
+    [
+     "Chelsea",
+     2004
+    ],
+    [
+     "Real Madrid",
+     2007
+    ],
+    [
+     "Bayern",
+     2009
+    ],
+    [
+     "Groningue",
+     2020
+    ]
+   ],
+   "photo": {
+    "file": "Arjen Robben 2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arjen_Robben_2013.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Arjen_Robben_2013.jpg",
+    "artist": "Дмитрий Садовников",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Дмитрий Садовников · CC BY-SA 3.0",
+   "src": "Arjen Robben",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q266827",
+   "name": "Mathieu Bodmer",
+   "first": "MATHIEU",
+   "last": "BODMER",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Stade Malherbe Caen",
+     2000
+    ],
+    [
+     "Lille",
+     2003
+    ],
+    [
+     "Lyon",
+     2007
+    ],
+    [
+     "PSG",
+     2010
+    ],
+    [
+     "Saint-Étienne",
+     2013
+    ],
+    [
+     "Nice",
+     2013
+    ]
+   ],
+   "photo": {
+    "file": "Bodmer (Lille vs PSG).png",
+    "page": "https://commons.wikimedia.org/wiki/File:Bodmer_(Lille_vs_PSG).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bodmer_%28Lille_vs_PSG%29.png",
+    "artist": "Liondartois",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Liondartois · CC BY-SA 3.0",
+   "src": "Mathieu Bodmer",
+   "raw": "p3_raw.png",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #002",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kingsley Coman : Sven Mandel, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kingsley_Coman_(2019)_(cropped).jpg)\n- Arjen Robben : Дмитрий Садовников, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Arjen_Robben_2013.jpg)\n- Mathieu Bodmer : Liondartois, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Bodmer_(Lille_vs_PSG).png)",
+ "answers": "Kingsley Coman, Arjen Robben, Mathieu Bodmer"
+}
