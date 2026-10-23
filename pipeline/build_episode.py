@@ -4,6 +4,8 @@ récupère et vérifie leur parcours sur Wikidata, télécharge une photo sous l
 Usage : python3 build_episode.py <dossier racine La Vignette>
 Sortie : episodes/NNN/episode.json + photos brutes. Code de sortie 0 si OK."""
 import json, os, re, sys, time, random, urllib.request, urllib.parse, datetime
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import career
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UA = {'User-Agent': 'LaVignette/1.0 (erwan.lievrouw@orange.fr)'}
@@ -59,7 +61,7 @@ SHORT = {
     'AJ Auxerre': 'Auxerre', 'SM Caen': 'Caen', 'Le Havre AC': 'Le Havre', 'FC Lorient': 'Lorient', 'EA Guingamp': 'Guingamp',
     'Grenoble Foot 38': 'Grenoble', 'Football Club de Nantes': 'Nantes', 'AS Nancy-Lorraine': 'Nancy', 'Cercle athlétique bastiais': 'CA Bastia',
     'SC Bastia': 'Bastia', 'Stade Malherbe Caen': 'Caen', 'Stade Malherbe de Caen': 'Caen', 'AS Nancy-Lorraine': 'Nancy',
-    'Al Nasr Riyad': 'Al-Nassr', 'Olympique Gymnaste Club de Nice': 'Nice', 'En Avant Guingamp': 'Guingamp', 'Amiens Sporting Club': 'Amiens', 'Sporting Club de Bastia': 'Bastia', 'Chamois niortais FC': 'Niort', 'Amiens SC': 'Amiens', 'Istres FC': 'Istres', 'Tours FC': 'Tours', 'US Boulogne CO': 'Boulogne',
+    'Al Nasr Riyad': 'Al-Nassr', 'Olympique Gymnaste Club de Nice': 'Nice', 'En Avant Guingamp': 'Guingamp', 'Amiens Sporting Club': 'Amiens', 'En avant Guingamp': 'Guingamp', 'FC Groningue': 'Groningue', 'Fenerbahçe Istanbul': 'Fenerbahçe', 'Sporting Club de Bastia': 'Bastia', 'Chamois niortais FC': 'Niort', 'Amiens SC': 'Amiens', 'Istres FC': 'Istres', 'Tours FC': 'Tours', 'US Boulogne CO': 'Boulogne',
     "Olympique d'Alès": 'Alès', 'Galatasaray SK': 'Galatasaray', 'Fenerbahçe Istanbul': 'Fenerbahçe', 'Fenerbahçe SK': 'Fenerbahçe',
     'Beşiktaş JK': 'Beşiktaş', 'U.S. Salernitana 1919': 'Salernitana', 'ACF Fiorentina': 'Fiorentina', 'SSC Naples': 'Naples',
     'SSC Napoli': 'Naples', 'AS Rome': 'AS Roma', 'SS Lazio': 'Lazio', 'Bolton Wanderers FC': 'Bolton',
@@ -72,9 +74,13 @@ SHORT = {
 }
 STRIP = r'\b(Football Club|Club Atlético|CA|Futbol Club|Fútbol Club|Calcio|FC|F\.C\.|CF|AFC|SC|SK|JK|CFC|SV|VfB|VfL|TSG|1\.|S\.p\.A\.)\b'
 
+SHORT_CI = {}
 def short_club(name):
-    if name in SHORT: return SHORT[name]
+    if not SHORT_CI: SHORT_CI.update({k.lower(): v for k, v in SHORT.items()})
+    if name.lower() in SHORT_CI: return SHORT_CI[name.lower()]
     s = re.sub(STRIP, '', name)
+    s = re.sub(r'\b(FK|SSC|ACF|PFK|NK|GNK|HNK)\b', '', s)
+    s = re.sub(r'\s(18|19|20)\d\d$', '', s)
     s = re.sub(r'\s+', ' ', s).strip(' .-')
     s = re.sub(r'^(de|du|des|d\')\s*', '', s, flags=re.I)
     return s or name
@@ -126,30 +132,16 @@ def find_player(name):
 def build_player(name, level):
     e = find_player(name)
     if not e: raise ValueError('introuvable sur Wikidata')
-    # parcours
-    rows = []
-    for c in e['claims'].get('P54', []):
-        v = c['mainsnak'].get('datavalue', {}).get('value')
-        if not v: continue
-        rows.append((year_of(c, 'P580'), year_of(c, 'P582'), v['id']))
-    ids = list({r[2] for r in rows})
+    # parcours : vérifié par deux sources indépendantes (Wikipedia EN + FR), sinon rejet
+    seq, status = career.verified_career(e.get('sitelinks', {}))
+    if len(seq) < 4: raise ValueError(f'parcours trop court ({len(seq)} clubs)')
+    if len(seq) > 15: raise ValueError('parcours trop long pour l\'écran')
     extra = claim_ids(e, 'P413') + (claim_ids(e, 'P1532') or claim_ids(e, 'P27'))[:1]
+    allids = list(dict.fromkeys([q for _, q in seq] + extra))
     ents = {}
-    for k in range(0, len(ids + extra), 45):
-        chunk = (ids + extra)[k:k + 45]
-        ents.update(wd_api(action='wbgetentities', ids='|'.join(chunk), props='labels|claims', languages='fr|en')['entities'])
-    clubs = []
-    for st, en, cid in sorted([r for r in rows if r[0]], key=lambda r: (r[0], r[1] or 9999)):
-        ce = ents.get(cid, {})
-        nm = label(ce)
-        types = set(claim_ids(ce, 'P31'))
-        if types & NATIONAL_TYPES or re.search(r'^(équipe|selección|national)|national|espoirs|moins de|under-?\d|olympique$', nm, re.I):
-            continue
-        sn = short_club(nm)
-        if clubs and clubs[-1][0] == sn: continue
-        clubs.append([sn, st])
-    if len(clubs) < 4: raise ValueError(f'parcours trop court ({len(clubs)} clubs)')
-    clubs = clubs[-15:]
+    for k in range(0, len(allids), 45):
+        ents.update(wd_api(action='wbgetentities', ids='|'.join(allids[k:k + 45]), props='labels|claims', languages='fr|en')['entities'])
+    clubs = [[short_club(label(ents.get(q, {'id': q}))), y] for y, q in seq]
     pos = position([label(ents[i]) for i in claim_ids(e, 'P413') if i in ents])
     nat_ids = claim_ids(e, 'P1532') or claim_ids(e, 'P27')
     nat = label(ents.get(nat_ids[0], {})) if nat_ids else ''
@@ -171,7 +163,7 @@ def build_player(name, level):
     parts = full.split(' ', 1)
     first, last = (parts[0], parts[1]) if len(parts) == 2 else ('', parts[0])
     return {'lvl': level, 'qid': e['id'], 'name': full, 'first': first.upper(), 'last': last.upper(), 'pos': pos,
-            'nat': nat.upper(), 'flag': FLAGS.get(nat), 'clubs': clubs,
+            'nat': nat.upper(), 'flag': FLAGS.get(nat), 'clubs': clubs, 'status': status,
             'photo': {'file': f, 'page': ii['descriptionurl'], 'url': (ii.get('thumburl') or ii['url']).replace('://thumb.wikimedia.org/', '://upload.wikimedia.org/').split('?')[0], 'artist': artist, 'license': lic},
             'credit': f'Photo : {artist} · {lic}'}
 
