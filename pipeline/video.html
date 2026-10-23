@@ -60,13 +60,13 @@ function round(r,t){
  d.clubs.forEach((c,i)=>{
   const col=i%cols,row=Math.floor(i/cols),x=24+col*(119+0),y=306+row*(gh+7);
   const ta=cStart+i*step,hidden=i===n-1;
-  const name=c[0],fs=name.length>13?9:name.length>11?10:name.length>9?12:14;
+  const name=c[0],fs=name.length>16?10:name.length>13?9:name.length>11?10:name.length>9?12:14,wrap=name.length>16;
   let inner,extra='';
   if(hidden && t<rv){
    inner=`<div class="ab" style="font-size:16px;color:${BLUE};text-align:center;line-height:${gh-16}px">? ? ?</div>`;
    extra=`background:transparent;border-style:dashed;`;
   } else {
-   inner=`<div style="font-size:10px">${c[1]}</div><div class="ab" style="font-size:${fs}px;line-height:1.15;white-space:nowrap">${name}</div>`;
+   inner=`<div style="font-size:10px">${c[1]}</div><div class="ab" style="font-size:${fs}px;line-height:1.05;white-space:${wrap?'normal':'nowrap'}">${name}</div>`;
    if(hidden) extra=`box-shadow:3px 3px 0 ${RED};`;
   }
   const ps=hidden&&t>=rv?pop(t,rv,.4):pop(t,ta);
@@ -91,7 +91,7 @@ function round(r,t){
       <div class="abs" style="left:6px;bottom:5px;background:rgba(241,230,207,.92);font-size:7px;padding:1px 4px">${d.credit}</div></div>
     <div style="background:${RED};color:#fff;padding:14px 12px 12px;text-align:center"><div style="font-size:12px;letter-spacing:.25em">${d.first}</div><div class="ab" style="font-size:${Math.min(46,Math.floor(232/(d.last.length*0.78)))}px;line-height:1">${d.last}</div></div>
     <div style="display:flex;justify-content:space-between;align-items:center;padding:8px 12px;font-size:11px;font-weight:700"><div style="display:flex;gap:6px;align-items:center">${flagOf(d)}${d.nat}</div><span>${d.pos}</span></div></div>
-    <div class="abs ab" style="right:-26px;top:-24px;width:86px;height:86px;border-radius:50%;background:${GOLD};border:3px solid ${INK};display:flex;align-items:center;justify-content:center;text-align:center;font-size:10px;line-height:1.15;${pop(t,rv+1.4,.35)};rotate:14deg">${d.badge||('<span style="font-size:30px;line-height:1">'+d.clubs.length+'</span><br>CLUBS')}</div>`;}
+    <div class="abs ab" style="right:-26px;top:-24px;width:86px;height:86px;border-radius:50%;background:${GOLD};border:3px solid ${INK};display:flex;align-items:center;justify-content:center;text-align:center;font-size:10px;line-height:1.15;${pop(t,rv+1.4,.35)};rotate:14deg">${d.badge||('<div style="line-height:1"><div style="font-size:30px">'+d.clubs.length+'</div>CLUBS</div>')}</div>`;}
   h+=`</div></div>`;
   h+=`<div class="abs" style="left:24px;right:24px;top:612px;text-align:center;color:#fff;font-size:14px;font-weight:700;opacity:${p(t,rv+1.8,.4)}">${r<2?'Joueur suivant →':'Alors, ton score ?'}</div>`;
  }
