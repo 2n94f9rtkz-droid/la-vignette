@@ -16,7 +16,7 @@ python3 - "$EP" "$NUM" "$ROOT" <<'PY'
 import json,sys,os
 ep=json.load(open(os.path.join(sys.argv[1],'episode.json')));num=sys.argv[2];root=sys.argv[3]
 repo=os.environ.get('GITHUB_REPOSITORY','2n94f9rtkz-droid/la-vignette')
-latest={'num':ep['num'],'date':ep['date'],'title':ep['title'],'caption':ep['caption'],'answers':ep['answers'],
+latest={'num':ep['num'],'date':ep['date'],'title':ep['title'],'caption':ep['caption'],'answers':ep['answers'],'players':[{'name':p['name'],'clubs':p['clubs']} for p in ep['players']],
         'video_url':f'https://raw.githubusercontent.com/{repo}/media/la-vignette-{num}.mp4'}
 json.dump(latest,open(os.path.join(root,'latest.json'),'w'),ensure_ascii=False,indent=1)
 print(json.dumps(latest,ensure_ascii=False,indent=1))
