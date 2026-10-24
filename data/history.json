@@ -17,6 +17,15 @@
     "Arjen Robben",
     "Mathieu Bodmer"
    ]
+  },
+  {
+   "num": 3,
+   "date": "2026-10-24",
+   "players": [
+    "Hugo Lloris",
+    "Loïc Rémy",
+    "André Ayew"
+   ]
   }
  ],
  "used": [
@@ -28,9 +37,18 @@
   "Mathieu Bodmer",
   "Q6413296",
   "Q43913",
-  "Q266827"
+  "Q266827",
+  "Hugo Lloris",
+  "Loïc Rémy",
+  "André Ayew",
+  "Q1907",
+  "Q114859",
+  "Q516921"
  ],
  "rejected": {
-  "Lilian Laslandes": "pas de photo libre"
+  "Lilian Laslandes": "pas de photo libre",
+  "Islam Slimani": "parcours trop long pour l'écran",
+  "Djibril Cissé": "parcours EN et FR différents",
+  "Brandão": "parcours EN et FR différents"
  }
 }

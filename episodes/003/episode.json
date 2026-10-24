@@ -1,0 +1,218 @@
+{
+ "num": 3,
+ "date": "2026-10-24",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q1907",
+   "name": "Hugo Lloris",
+   "first": "HUGO",
+   "last": "LLORIS",
+   "pos": "GARDIEN",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Nice",
+     2005
+    ],
+    [
+     "Lyon",
+     2008
+    ],
+    [
+     "Tottenham Hotspur",
+     2012
+    ],
+    [
+     "LAFC",
+     2024
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Lloris 2018 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lloris_2018_%28cropped%29.jpg",
+    "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Кирилл Венедиктов · CC BY-SA 3.0",
+   "src": "Hugo Lloris",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q114859",
+   "name": "Loïc Rémy",
+   "first": "LOÏC",
+   "last": "RÉMY",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lyon",
+     2006
+    ],
+    [
+     "Lens",
+     2008
+    ],
+    [
+     "Nice",
+     2008
+    ],
+    [
+     "Marseille",
+     2010
+    ],
+    [
+     "QP Rangers",
+     2013
+    ],
+    [
+     "Newcastle",
+     2013
+    ],
+    [
+     "Chelsea",
+     2014
+    ],
+    [
+     "Crystal Palace",
+     2016
+    ],
+    [
+     "Unión Deportiva Las Palmas",
+     2017
+    ],
+    [
+     "Getafe",
+     2018
+    ],
+    [
+     "Lille",
+     2018
+    ],
+    [
+     "Çaykur Rizespor",
+     2020
+    ],
+    [
+     "Adana Demirspor",
+     2022
+    ],
+    [
+     "Brest",
+     2023
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Chelsea 2 West Brom 0 The Blues go marching on (15672771328).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chelsea_2_West_Brom_0_The_Blues_go_marching_on_(15672771328).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chelsea_2_West_Brom_0_The_Blues_go_marching_on_%2815672771328%29.jpg/960px-Chelsea_2_West_Brom_0_The_Blues_go_marching_on_%2815672771328%29.jpg",
+    "artist": "CFCUnofficial (Chelsea Debs)",
+    "license": "CC BY-SA 2.0"
+   },
+   "credit": "Photo : CFCUnofficial (Chelsea Debs) · CC BY-SA 2.0",
+   "src": "Loïc Rémy",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q516921",
+   "name": "André Ayew",
+   "first": "ANDRÉ",
+   "last": "AYEW",
+   "pos": "MILIEU",
+   "nat": "GHANA",
+   "flag": [
+    "h",
+    [
+     "#D7263D",
+     "#F2C14E",
+     "#1F7A4D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Marseille",
+     2007
+    ],
+    [
+     "Lorient",
+     2008
+    ],
+    [
+     "Athlétic Club arlésien",
+     2009
+    ],
+    [
+     "Swansea City",
+     2015
+    ],
+    [
+     "West Ham",
+     2016
+    ],
+    [
+     "Swansea City",
+     2018
+    ],
+    [
+     "Fenerbahçe",
+     2018
+    ],
+    [
+     "Al-Sadd",
+     2021
+    ],
+    [
+     "Nottingham Forest",
+     2023
+    ],
+    [
+     "Le Havre",
+     2023
+    ],
+    [
+     "NAC Breda",
+     2026
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "20150331 Mali vs Ghana 170.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20150331_Mali_vs_Ghana_170.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20150331_Mali_vs_Ghana_170.jpg/960px-20150331_Mali_vs_Ghana_170.jpg",
+    "artist": "Pierre-Yves Beaudouin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Pierre-Yves Beaudouin · CC BY-SA 4.0",
+   "src": "André Ayew",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #003",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Hugo Lloris : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg)\n- Loïc Rémy : CFCUnofficial (Chelsea Debs), CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Chelsea_2_West_Brom_0_The_Blues_go_marching_on_(15672771328).jpg)\n- André Ayew : Pierre-Yves Beaudouin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:20150331_Mali_vs_Ghana_170.jpg)",
+ "answers": "Hugo Lloris, Loïc Rémy, André Ayew"
+}

@@ -1,97 +1,141 @@
 {
- "num": 2,
- "date": "2026-10-23",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #002",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kingsley Coman : Sven Mandel, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kingsley_Coman_(2019)_(cropped).jpg)\n- Arjen Robben : Дмитрий Садовников, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Arjen_Robben_2013.jpg)\n- Mathieu Bodmer : Liondartois, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Bodmer_(Lille_vs_PSG).png)",
- "answers": "Kingsley Coman, Arjen Robben, Mathieu Bodmer",
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-002.mp4",
+ "num": 3,
+ "date": "2026-10-24",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #003",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Hugo Lloris : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg)\n- Loïc Rémy : CFCUnofficial (Chelsea Debs), CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Chelsea_2_West_Brom_0_The_Blues_go_marching_on_(15672771328).jpg)\n- André Ayew : Pierre-Yves Beaudouin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:20150331_Mali_vs_Ghana_170.jpg)",
+ "answers": "Hugo Lloris, Loïc Rémy, André Ayew",
  "players": [
   {
-   "name": "Kingsley Coman",
+   "name": "Hugo Lloris",
    "clubs": [
     [
-     "PSG",
-     2013
-    ],
-    [
-     "Juventus",
-     2014
-    ],
-    [
-     "Bayern",
-     2015
-    ],
-    [
-     "Al-Nassr",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Arjen Robben",
-   "clubs": [
-    [
-     "Groningue",
-     2000
-    ],
-    [
-     "PSV",
-     2002
-    ],
-    [
-     "Chelsea",
-     2004
-    ],
-    [
-     "Real Madrid",
-     2007
-    ],
-    [
-     "Bayern",
-     2009
-    ],
-    [
-     "Groningue",
-     2020
-    ]
-   ]
-  },
-  {
-   "name": "Mathieu Bodmer",
-   "clubs": [
-    [
-     "Caen",
-     2000
-    ],
-    [
-     "Lille",
-     2003
+     "Nice",
+     2005
     ],
     [
      "Lyon",
-     2007
+     2008
     ],
     [
-     "PSG",
-     2010
+     "Tottenham Hotspur",
+     2012
     ],
     [
-     "Saint-Étienne",
-     2013
+     "LAFC",
+     2024
+    ]
+   ]
+  },
+  {
+   "name": "Loïc Rémy",
+   "clubs": [
+    [
+     "Lyon",
+     2006
+    ],
+    [
+     "Lens",
+     2008
     ],
     [
      "Nice",
+     2008
+    ],
+    [
+     "Marseille",
+     2010
+    ],
+    [
+     "QP Rangers",
      2013
     ],
     [
-     "Guingamp",
+     "Newcastle",
+     2013
+    ],
+    [
+     "Chelsea",
+     2014
+    ],
+    [
+     "Crystal Palace",
+     2016
+    ],
+    [
+     "Unión Deportiva Las Palmas",
      2017
     ],
     [
-     "Amiens",
-     2017
+     "Getafe",
+     2018
+    ],
+    [
+     "Lille",
+     2018
+    ],
+    [
+     "Çaykur Rizespor",
+     2020
+    ],
+    [
+     "Adana Demirspor",
+     2022
+    ],
+    [
+     "Brest",
+     2023
+    ]
+   ]
+  },
+  {
+   "name": "André Ayew",
+   "clubs": [
+    [
+     "Marseille",
+     2007
+    ],
+    [
+     "Lorient",
+     2008
+    ],
+    [
+     "Athlétic Club arlésien",
+     2009
+    ],
+    [
+     "Swansea City",
+     2015
+    ],
+    [
+     "West Ham",
+     2016
+    ],
+    [
+     "Swansea City",
+     2018
+    ],
+    [
+     "Fenerbahçe",
+     2018
+    ],
+    [
+     "Al-Sadd",
+     2021
+    ],
+    [
+     "Nottingham Forest",
+     2023
+    ],
+    [
+     "Le Havre",
+     2023
+    ],
+    [
+     "NAC Breda",
+     2026
     ]
    ]
   }
- ]
+ ],
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-003.mp4"
 }
