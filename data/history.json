@@ -26,6 +26,15 @@
     "Loïc Rémy",
     "André Ayew"
    ]
+  },
+  {
+   "num": 4,
+   "date": "2026-10-25",
+   "players": [
+    "Cristiano Ronaldo",
+    "Javier Pastore",
+    "Jordan Ayew"
+   ]
   }
  ],
  "used": [
@@ -43,12 +52,19 @@
   "André Ayew",
   "Q1907",
   "Q114859",
-  "Q516921"
+  "Q516921",
+  "Cristiano Ronaldo",
+  "Javier Pastore",
+  "Jordan Ayew",
+  "Q11571",
+  "Q276434",
+  "Q367861"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
   "Islam Slimani": "parcours trop long pour l'écran",
   "Djibril Cissé": "parcours EN et FR différents",
-  "Brandão": "parcours EN et FR différents"
+  "Brandão": "parcours EN et FR différents",
+  "Frédéric Piquionne": "parcours EN et FR différents"
  }
 }

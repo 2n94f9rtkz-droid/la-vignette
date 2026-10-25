@@ -1,141 +1,109 @@
 {
- "num": 3,
- "date": "2026-10-24",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #003",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Hugo Lloris : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg)\n- Loïc Rémy : CFCUnofficial (Chelsea Debs), CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Chelsea_2_West_Brom_0_The_Blues_go_marching_on_(15672771328).jpg)\n- André Ayew : Pierre-Yves Beaudouin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:20150331_Mali_vs_Ghana_170.jpg)",
- "answers": "Hugo Lloris, Loïc Rémy, André Ayew",
+ "num": 4,
+ "date": "2026-10-25",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #004",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Cristiano Ronaldo : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg)\n- Javier Pastore : Богдан Заяц, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:PSG-Shakhter15_(12).jpg)\n- Jordan Ayew : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Jordan_Ayew_England_v_Ghana_23_June_2026-005.jpg)",
+ "answers": "Cristiano Ronaldo, Javier Pastore, Jordan Ayew",
  "players": [
   {
-   "name": "Hugo Lloris",
+   "name": "Cristiano Ronaldo",
    "clubs": [
     [
-     "Nice",
-     2005
+     "Sporting",
+     2002
     ],
     [
-     "Lyon",
-     2008
+     "Man United",
+     2003
     ],
     [
-     "Tottenham Hotspur",
-     2012
-    ],
-    [
-     "LAFC",
-     2024
-    ]
-   ]
-  },
-  {
-   "name": "Loïc Rémy",
-   "clubs": [
-    [
-     "Lyon",
-     2006
-    ],
-    [
-     "Lens",
-     2008
-    ],
-    [
-     "Nice",
-     2008
-    ],
-    [
-     "Marseille",
-     2010
-    ],
-    [
-     "QP Rangers",
-     2013
-    ],
-    [
-     "Newcastle",
-     2013
-    ],
-    [
-     "Chelsea",
-     2014
-    ],
-    [
-     "Crystal Palace",
-     2016
-    ],
-    [
-     "Unión Deportiva Las Palmas",
-     2017
-    ],
-    [
-     "Getafe",
-     2018
-    ],
-    [
-     "Lille",
-     2018
-    ],
-    [
-     "Çaykur Rizespor",
-     2020
-    ],
-    [
-     "Adana Demirspor",
-     2022
-    ],
-    [
-     "Brest",
-     2023
-    ]
-   ]
-  },
-  {
-   "name": "André Ayew",
-   "clubs": [
-    [
-     "Marseille",
-     2007
-    ],
-    [
-     "Lorient",
-     2008
-    ],
-    [
-     "Athlétic Club arlésien",
+     "Real Madrid",
      2009
     ],
     [
-     "Swansea City",
-     2015
-    ],
-    [
-     "West Ham",
-     2016
-    ],
-    [
-     "Swansea City",
+     "Juventus",
      2018
     ],
     [
-     "Fenerbahçe",
-     2018
-    ],
-    [
-     "Al-Sadd",
+     "Man United",
      2021
     ],
     [
-     "Nottingham Forest",
+     "Al-Nassr",
      2023
+    ]
+   ]
+  },
+  {
+   "name": "Javier Pastore",
+   "clubs": [
+    [
+     "Talleres",
+     2007
     ],
     [
-     "Le Havre",
-     2023
+     "Huracán",
+     2008
     ],
     [
-     "NAC Breda",
+     "Palermo F.C",
+     2009
+    ],
+    [
+     "PSG",
+     2011
+    ],
+    [
+     "AS Roma",
+     2018
+    ],
+    [
+     "Elche",
+     2021
+    ],
+    [
+     "Qatar Sports Club",
+     2023
+    ]
+   ]
+  },
+  {
+   "name": "Jordan Ayew",
+   "clubs": [
+    [
+     "Marseille",
+     2009
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2014
+    ],
+    [
+     "Lorient",
+     2014
+    ],
+    [
+     "Aston Villa",
+     2015
+    ],
+    [
+     "Swansea City",
+     2017
+    ],
+    [
+     "Crystal Palace",
+     2018
+    ],
+    [
+     "Leicester City",
+     2024
+    ],
+    [
+     "Sheffield United",
      2026
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-003.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-004.mp4"
 }
