@@ -1,109 +1,105 @@
 {
- "num": 4,
- "date": "2026-10-25",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #004",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Cristiano Ronaldo : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg)\n- Javier Pastore : Богдан Заяц, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:PSG-Shakhter15_(12).jpg)\n- Jordan Ayew : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Jordan_Ayew_England_v_Ghana_23_June_2026-005.jpg)",
- "answers": "Cristiano Ronaldo, Javier Pastore, Jordan Ayew",
+ "num": 5,
+ "date": "2026-10-26",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #005",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Antoine Griezmann : Biser Todorov (User:Biso) from Sofia, Bu, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_(51100409504)_(cropped).jpg)\n- Edin Džeko : Ailura, CC BY-SA 3.0 at (https://commons.wikimedia.org/wiki/File:20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_(cropped).jpg)\n- Yoan Gouffran : Fcgb260, Public domain (https://commons.wikimedia.org/wiki/File:Yoan_Gouffran_7.jpg)",
+ "answers": "Antoine Griezmann, Edin Džeko, Yoan Gouffran",
  "players": [
   {
-   "name": "Cristiano Ronaldo",
+   "name": "Antoine Griezmann",
    "clubs": [
     [
-     "Sporting",
-     2002
-    ],
-    [
-     "Man United",
-     2003
-    ],
-    [
-     "Real Madrid",
+     "Real Sociedad",
      2009
     ],
     [
-     "Juventus",
-     2018
+     "Atlético",
+     2014
     ],
     [
-     "Man United",
+     "Barça",
+     2019
+    ],
+    [
+     "Atlético",
      2021
     ],
     [
-     "Al-Nassr",
-     2023
+     "Orlando City Soccer Club",
+     2026
     ]
    ]
   },
   {
-   "name": "Javier Pastore",
+   "name": "Edin Džeko",
    "clubs": [
     [
-     "Talleres",
+     "Željezničar Sarajevo",
+     2003
+    ],
+    [
+     "Teplice",
+     2005
+    ],
+    [
+     "Ústí nad Labem",
+     2005
+    ],
+    [
+     "Wolfsburg",
      2007
     ],
     [
-     "Huracán",
-     2008
-    ],
-    [
-     "Palermo F.C",
-     2009
-    ],
-    [
-     "PSG",
+     "Man City",
      2011
     ],
     [
      "AS Roma",
-     2018
+     2015
     ],
     [
-     "Elche",
+     "Inter",
      2021
     ],
     [
-     "Qatar Sports Club",
+     "Fenerbahçe",
      2023
+    ],
+    [
+     "Fiorentina",
+     2025
+    ],
+    [
+     "Schalke 04",
+     2026
     ]
    ]
   },
   {
-   "name": "Jordan Ayew",
+   "name": "Yoan Gouffran",
    "clubs": [
     [
-     "Marseille",
-     2009
+     "Caen",
+     2003
     ],
     [
-     "Sochaux-Montbéliard",
-     2014
+     "Bordeaux",
+     2008
     ],
     [
-     "Lorient",
-     2014
+     "Newcastle",
+     2013
     ],
     [
-     "Aston Villa",
-     2015
-    ],
-    [
-     "Swansea City",
+     "Göztepe",
      2017
     ],
     [
-     "Crystal Palace",
-     2018
-    ],
-    [
-     "Leicester City",
-     2024
-    ],
-    [
-     "Sheffield United",
-     2026
+     "Ararat-Armenia",
+     2020
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-004.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-005.mp4"
 }

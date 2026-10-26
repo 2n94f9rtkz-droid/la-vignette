@@ -1,0 +1,181 @@
+{
+ "num": 5,
+ "date": "2026-10-26",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q455462",
+   "name": "Antoine Griezmann",
+   "first": "ANTOINE",
+   "last": "GRIEZMANN",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Real Sociedad",
+     2009
+    ],
+    [
+     "Atlético",
+     2014
+    ],
+    [
+     "Barça",
+     2019
+    ],
+    [
+     "Atlético",
+     2021
+    ],
+    [
+     "Orlando City Soccer Club",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Antoine Griezmann (51100409504) (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_(51100409504)_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Antoine_Griezmann_%2851100409504%29_%28cropped%29.jpg/960px-Antoine_Griezmann_%2851100409504%29_%28cropped%29.jpg",
+    "artist": "Biser Todorov (User:Biso) from Sofia, Bu",
+    "license": "CC BY-SA 2.0"
+   },
+   "credit": "Photo : Biser Todorov (User:Biso) from Sofia, Bu · CC BY-SA 2.0",
+   "src": "Antoine Griezmann",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q153786",
+   "name": "Edin Džeko",
+   "first": "EDIN",
+   "last": "DŽEKO",
+   "pos": "ATTAQUANT",
+   "nat": "BOSNIE-HERZÉGOVINE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#F2C14E"
+    ]
+   ],
+   "clubs": [
+    [
+     "Željezničar Sarajevo",
+     2003
+    ],
+    [
+     "Teplice",
+     2005
+    ],
+    [
+     "Ústí nad Labem",
+     2005
+    ],
+    [
+     "Wolfsburg",
+     2007
+    ],
+    [
+     "Man City",
+     2011
+    ],
+    [
+     "AS Roma",
+     2015
+    ],
+    [
+     "Inter",
+     2021
+    ],
+    [
+     "Fenerbahçe",
+     2023
+    ],
+    [
+     "Fiorentina",
+     2025
+    ],
+    [
+     "Schalke 04",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "20150331 2026 AUT BIH 2177 Edin Džeko (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
+    "artist": "Ailura",
+    "license": "CC BY-SA 3.0 at"
+   },
+   "credit": "Photo : Ailura · CC BY-SA 3.0 at",
+   "src": "Edin Džeko",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q31775",
+   "name": "Yoan Gouffran",
+   "first": "YOAN",
+   "last": "GOUFFRAN",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Caen",
+     2003
+    ],
+    [
+     "Bordeaux",
+     2008
+    ],
+    [
+     "Newcastle",
+     2013
+    ],
+    [
+     "Göztepe",
+     2017
+    ],
+    [
+     "Ararat-Armenia",
+     2020
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Yoan Gouffran 7.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yoan_Gouffran_7.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yoan_Gouffran_7.jpg/960px-Yoan_Gouffran_7.jpg",
+    "artist": "Fcgb260",
+    "license": "Public domain"
+   },
+   "credit": "Photo : Fcgb260 · Public domain",
+   "src": "Yoan Gouffran",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #005",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Antoine Griezmann : Biser Todorov (User:Biso) from Sofia, Bu, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_(51100409504)_(cropped).jpg)\n- Edin Džeko : Ailura, CC BY-SA 3.0 at (https://commons.wikimedia.org/wiki/File:20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_(cropped).jpg)\n- Yoan Gouffran : Fcgb260, Public domain (https://commons.wikimedia.org/wiki/File:Yoan_Gouffran_7.jpg)",
+ "answers": "Antoine Griezmann, Edin Džeko, Yoan Gouffran"
+}

@@ -35,6 +35,15 @@
     "Javier Pastore",
     "Jordan Ayew"
    ]
+  },
+  {
+   "num": 5,
+   "date": "2026-10-26",
+   "players": [
+    "Antoine Griezmann",
+    "Edin Džeko",
+    "Yoan Gouffran"
+   ]
   }
  ],
  "used": [
@@ -58,13 +67,23 @@
   "Jordan Ayew",
   "Q11571",
   "Q276434",
-  "Q367861"
+  "Q367861",
+  "Antoine Griezmann",
+  "Edin Džeko",
+  "Yoan Gouffran",
+  "Q455462",
+  "Q153786",
+  "Q31775"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
   "Islam Slimani": "parcours trop long pour l'écran",
   "Djibril Cissé": "parcours EN et FR différents",
   "Brandão": "parcours EN et FR différents",
-  "Frédéric Piquionne": "parcours EN et FR différents"
+  "Frédéric Piquionne": "parcours EN et FR différents",
+  "Corentin Tolisso": "parcours trop court (3 clubs)",
+  "Sofiane Feghouli": "parcours EN et FR différents",
+  "Pascal Nouma": "parcours EN et FR différents",
+  "Bruno Cheyrou": "parcours EN et FR différents"
  }
 }
