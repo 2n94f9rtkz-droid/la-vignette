@@ -1,0 +1,170 @@
+{
+ "num": 9,
+ "date": "2026-10-26",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q21693199",
+   "name": "Christopher Nkunku",
+   "first": "CHRISTOPHER",
+   "last": "NKUNKU",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "PSG",
+     2015
+    ],
+    [
+     "RB Leipzig",
+     2019
+    ],
+    [
+     "Chelsea",
+     2023
+    ],
+    [
+     "AC Milan",
+     2025
+    ],
+    [
+     "RB Leipzig",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "2022-07-30 Fußball, Männer, DFL-Supercup, RB Leipzig - FC Bayern München 1DX 3321 by Stepro (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_%28cropped%29.jpg/960px-2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_%28cropped%29.jpg",
+    "artist": "Steffen Prößdorf",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Steffen Prößdorf · CC BY-SA 4.0",
+   "src": "Christopher Nkunku",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q66737676",
+   "name": "Djibril Sidibé",
+   "first": "DJIBRIL",
+   "last": "SIDIBÉ",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "ES Troyes AC",
+     2010
+    ],
+    [
+     "Lille",
+     2012
+    ],
+    [
+     "Monaco",
+     2016
+    ],
+    [
+     "Everton",
+     2019
+    ],
+    [
+     "AEK Athènes",
+     2022
+    ],
+    [
+     "Toulouse",
+     2024
+    ],
+    [
+     "Le Mans",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Djibril Sidibé.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Djibril_Sidib%C3%A9.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Djibril_Sidib%C3%A9.jpg",
+    "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Кирилл Венедиктов · CC BY-SA 3.0",
+   "src": "Djibril Sidibé",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q1922",
+   "name": "Anthony Réveillère",
+   "first": "ANTHONY",
+   "last": "RÉVEILLÈRE",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Rennes",
+     1998
+    ],
+    [
+     "Valence",
+     2003
+    ],
+    [
+     "Lyon",
+     2003
+    ],
+    [
+     "Società Sportiva Napoli",
+     2013
+    ],
+    [
+     "Sunderland",
+     2014
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Anthony Réveillère Euro 2012 vs Spain cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anthony_R%C3%A9veill%C3%A8re_Euro_2012_vs_Spain_cropped.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Anthony_R%C3%A9veill%C3%A8re_Euro_2012_vs_Spain_cropped.jpg",
+    "artist": "Anthony_Réveillère_Euro_2012_vs_Spain.jp",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Anthony_Réveillère_Euro_2012_vs_Spain.jp · CC BY-SA 3.0",
+   "src": "Anthony Réveillère",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #009",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Christopher Nkunku : Steffen Prößdorf, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_(cropped).jpg)\n- Djibril Sidibé : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Djibril_Sidib%C3%A9.jpg)\n- Anthony Réveillère : Anthony_Réveillère_Euro_2012_vs_Spain.jp, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Anthony_R%C3%A9veill%C3%A8re_Euro_2012_vs_Spain_cropped.jpg)",
+ "answers": "Christopher Nkunku, Djibril Sidibé, Anthony Réveillère"
+}

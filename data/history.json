@@ -71,6 +71,15 @@
     "Arturo Vidal",
     "Jordan Veretout"
    ]
+  },
+  {
+   "num": 9,
+   "date": "2026-10-26",
+   "players": [
+    "Christopher Nkunku",
+    "Djibril Sidibé",
+    "Anthony Réveillère"
+   ]
   }
  ],
  "used": [
@@ -118,7 +127,13 @@
   "Jordan Veretout",
   "Q10520",
   "Q192671",
-  "Q722348"
+  "Q722348",
+  "Christopher Nkunku",
+  "Djibril Sidibé",
+  "Anthony Réveillère",
+  "Q21693199",
+  "Q66737676",
+  "Q1922"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -131,6 +146,8 @@
   "Pascal Nouma": "parcours EN et FR différents",
   "Bruno Cheyrou": "parcours EN et FR différents",
   "Aruna Dindane": "parcours EN et FR différents",
-  "Rio Mavuba": "parcours EN et FR différents"
+  "Rio Mavuba": "parcours EN et FR différents",
+  "Laurent Robert": "infobox FR introuvable",
+  "Toifilou Maoulida": "pas de photo libre"
  }
 }

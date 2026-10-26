@@ -1,117 +1,93 @@
 {
- "num": 8,
+ "num": 9,
  "date": "2026-10-26",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #008",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- David Beckham : Soccer Aid for Unicef, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped).jpg)\n- Arturo Vidal : Дмитрий Садовников, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Chile_VS._Australia_(13)_2017-6-25_Arturo_Vidal.jpg)\n- Jordan Veretout : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Veretout_asse_ol_2425.png)",
- "answers": "David Beckham, Arturo Vidal, Jordan Veretout",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #009",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Christopher Nkunku : Steffen Prößdorf, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_(cropped).jpg)\n- Djibril Sidibé : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Djibril_Sidib%C3%A9.jpg)\n- Anthony Réveillère : Anthony_Réveillère_Euro_2012_vs_Spain.jp, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Anthony_R%C3%A9veill%C3%A8re_Euro_2012_vs_Spain_cropped.jpg)",
+ "answers": "Christopher Nkunku, Djibril Sidibé, Anthony Réveillère",
  "players": [
   {
-   "name": "David Beckham",
+   "name": "Christopher Nkunku",
    "clubs": [
-    [
-     "Man United",
-     1992
-    ],
-    [
-     "Preston North End",
-     1995
-    ],
-    [
-     "Real Madrid",
-     2003
-    ],
-    [
-     "Galaxy de Los Angeles",
-     2007
-    ],
-    [
-     "AC Milan",
-     2009
-    ],
     [
      "PSG",
-     2013
-    ]
-   ]
-  },
-  {
-   "name": "Arturo Vidal",
-   "clubs": [
-    [
-     "Colo-Colo",
-     2005
-    ],
-    [
-     "Bayer Leverkusen",
-     2007
-    ],
-    [
-     "Juventus",
-     2011
-    ],
-    [
-     "Bayern",
      2015
     ],
     [
-     "Barça",
-     2018
-    ],
-    [
-     "Inter",
-     2020
-    ],
-    [
-     "Clube de Regatas do Flamengo",
-     2022
-    ],
-    [
-     "Clube Atlético Paranaense",
-     2023
-    ],
-    [
-     "Colo-Colo",
-     2024
-    ]
-   ]
-  },
-  {
-   "name": "Jordan Veretout",
-   "clubs": [
-    [
-     "Nantes",
-     2011
-    ],
-    [
-     "Aston Villa",
-     2015
-    ],
-    [
-     "Saint-Étienne",
-     2016
-    ],
-    [
-     "Fiorentina",
-     2017
-    ],
-    [
-     "AS Roma",
+     "RB Leipzig",
      2019
     ],
     [
-     "Marseille",
+     "Chelsea",
+     2023
+    ],
+    [
+     "AC Milan",
+     2025
+    ],
+    [
+     "RB Leipzig",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Djibril Sidibé",
+   "clubs": [
+    [
+     "ES Troyes AC",
+     2010
+    ],
+    [
+     "Lille",
+     2012
+    ],
+    [
+     "Monaco",
+     2016
+    ],
+    [
+     "Everton",
+     2019
+    ],
+    [
+     "AEK Athènes",
      2022
     ],
     [
-     "Lyon",
+     "Toulouse",
      2024
     ],
     [
-     "Al-Arabi",
-     2025
+     "Le Mans",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Anthony Réveillère",
+   "clubs": [
+    [
+     "Rennes",
+     1998
+    ],
+    [
+     "Valence",
+     2003
+    ],
+    [
+     "Lyon",
+     2003
+    ],
+    [
+     "Società Sportiva Napoli",
+     2013
+    ],
+    [
+     "Sunderland",
+     2014
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-008.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-009.mp4"
 }
