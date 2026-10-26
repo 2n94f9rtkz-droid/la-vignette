@@ -1,125 +1,117 @@
 {
- "num": 7,
+ "num": 8,
  "date": "2026-10-26",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #007",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Florian Thauvin : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:FRA-ARG_(6).jpg)\n- Kévin Gameiro : Aleksandr Osipov from Ukraine, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Kevin_Gameiro_2016_(cropped).jpg)\n- Pierre-Alain Frau : Liondartois, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Pierre_Alain_Frau_contre_Valence.jpg)",
- "answers": "Florian Thauvin, Kévin Gameiro, Pierre-Alain Frau",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #008",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- David Beckham : Soccer Aid for Unicef, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped).jpg)\n- Arturo Vidal : Дмитрий Садовников, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Chile_VS._Australia_(13)_2017-6-25_Arturo_Vidal.jpg)\n- Jordan Veretout : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Veretout_asse_ol_2425.png)",
+ "answers": "David Beckham, Arturo Vidal, Jordan Veretout",
  "players": [
   {
-   "name": "Florian Thauvin",
+   "name": "David Beckham",
    "clubs": [
     [
-     "Grenoble",
-     2010
+     "Man United",
+     1992
     ],
     [
-     "Bastia",
+     "Preston North End",
+     1995
+    ],
+    [
+     "Real Madrid",
+     2003
+    ],
+    [
+     "Galaxy de Los Angeles",
+     2007
+    ],
+    [
+     "AC Milan",
+     2009
+    ],
+    [
+     "PSG",
+     2013
+    ]
+   ]
+  },
+  {
+   "name": "Arturo Vidal",
+   "clubs": [
+    [
+     "Colo-Colo",
+     2005
+    ],
+    [
+     "Bayer Leverkusen",
+     2007
+    ],
+    [
+     "Juventus",
      2011
     ],
     [
-     "Lille",
-     2013
-    ],
-    [
-     "Bastia",
-     2013
-    ],
-    [
-     "Marseille",
-     2013
-    ],
-    [
-     "Newcastle",
+     "Bayern",
      2015
     ],
     [
-     "Marseille",
-     2016
-    ],
-    [
-     "Tigres de la UANL",
-     2021
-    ],
-    [
-     "Udinese",
-     2023
-    ],
-    [
-     "Lens",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Kévin Gameiro",
-   "clubs": [
-    [
-     "Strasbourg",
-     2005
-    ],
-    [
-     "Lorient",
-     2008
-    ],
-    [
-     "PSG",
-     2011
-    ],
-    [
-     "Sevilla",
-     2013
-    ],
-    [
-     "Atlético",
-     2016
-    ],
-    [
-     "Valence",
+     "Barça",
      2018
     ],
     [
-     "Strasbourg",
-     2021
+     "Inter",
+     2020
+    ],
+    [
+     "Clube de Regatas do Flamengo",
+     2022
+    ],
+    [
+     "Clube Atlético Paranaense",
+     2023
+    ],
+    [
+     "Colo-Colo",
+     2024
     ]
    ]
   },
   {
-   "name": "Pierre-Alain Frau",
+   "name": "Jordan Veretout",
    "clubs": [
     [
-     "Sochaux-Montbéliard",
-     1997
-    ],
-    [
-     "Lyon",
-     2004
-    ],
-    [
-     "Lens",
-     2005
-    ],
-    [
-     "PSG",
-     2006
-    ],
-    [
-     "Lille",
-     2008
-    ],
-    [
-     "Caen",
+     "Nantes",
      2011
     ],
     [
-     "Al-Wakrah Sports Club",
-     2012
+     "Aston Villa",
+     2015
     ],
     [
-     "Sochaux-Montbéliard",
-     2013
+     "Saint-Étienne",
+     2016
+    ],
+    [
+     "Fiorentina",
+     2017
+    ],
+    [
+     "AS Roma",
+     2019
+    ],
+    [
+     "Marseille",
+     2022
+    ],
+    [
+     "Lyon",
+     2024
+    ],
+    [
+     "Al-Arabi",
+     2025
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-007.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-008.mp4"
 }

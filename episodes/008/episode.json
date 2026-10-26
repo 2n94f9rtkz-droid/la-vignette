@@ -1,0 +1,193 @@
+{
+ "num": 8,
+ "date": "2026-10-26",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q10520",
+   "name": "David Beckham",
+   "first": "DAVID",
+   "last": "BECKHAM",
+   "pos": "MILIEU",
+   "nat": "ANGLETERRE",
+   "flag": [
+    "h",
+    [
+     "#FFFFFF",
+     "#D7263D",
+     "#FFFFFF"
+    ]
+   ],
+   "clubs": [
+    [
+     "Man United",
+     1992
+    ],
+    [
+     "Preston North End",
+     1995
+    ],
+    [
+     "Real Madrid",
+     2003
+    ],
+    [
+     "Galaxy de Los Angeles",
+     2007
+    ],
+    [
+     "AC Milan",
+     2009
+    ],
+    [
+     "PSG",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "David Beckham UNICEF (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/David_Beckham_UNICEF_%28cropped%29.jpg/960px-David_Beckham_UNICEF_%28cropped%29.jpg",
+    "artist": "Soccer Aid for Unicef",
+    "license": "CC BY 3.0"
+   },
+   "credit": "Photo : Soccer Aid for Unicef · CC BY 3.0",
+   "src": "David Beckham",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q192671",
+   "name": "Arturo Vidal",
+   "first": "ARTURO",
+   "last": "VIDAL",
+   "pos": "MILIEU",
+   "nat": "CHILI",
+   "flag": [
+    "h",
+    [
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Colo-Colo",
+     2005
+    ],
+    [
+     "Bayer Leverkusen",
+     2007
+    ],
+    [
+     "Juventus",
+     2011
+    ],
+    [
+     "Bayern",
+     2015
+    ],
+    [
+     "Barça",
+     2018
+    ],
+    [
+     "Inter",
+     2020
+    ],
+    [
+     "Clube de Regatas do Flamengo",
+     2022
+    ],
+    [
+     "Clube Atlético Paranaense",
+     2023
+    ],
+    [
+     "Colo-Colo",
+     2024
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Chile VS. Australia (13) 2017-6-25 Arturo Vidal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chile_VS._Australia_(13)_2017-6-25_Arturo_Vidal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chile_VS._Australia_%2813%29_2017-6-25_Arturo_Vidal.jpg",
+    "artist": "Дмитрий Садовников",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Дмитрий Садовников · CC BY-SA 3.0",
+   "src": "Arturo Vidal",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q722348",
+   "name": "Jordan Veretout",
+   "first": "JORDAN",
+   "last": "VERETOUT",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Nantes",
+     2011
+    ],
+    [
+     "Aston Villa",
+     2015
+    ],
+    [
+     "Saint-Étienne",
+     2016
+    ],
+    [
+     "Fiorentina",
+     2017
+    ],
+    [
+     "AS Roma",
+     2019
+    ],
+    [
+     "Marseille",
+     2022
+    ],
+    [
+     "Lyon",
+     2024
+    ],
+    [
+     "Al-Arabi",
+     2025
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Veretout asse ol 2425.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Veretout_asse_ol_2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Veretout_asse_ol_2425.png",
+    "artist": "Paté kroute",
+    "license": "CC0"
+   },
+   "credit": "Photo : Paté kroute · CC0",
+   "src": "Jordan Veretout",
+   "raw": "p3_raw.png",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #008",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- David Beckham : Soccer Aid for Unicef, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped).jpg)\n- Arturo Vidal : Дмитрий Садовников, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Chile_VS._Australia_(13)_2017-6-25_Arturo_Vidal.jpg)\n- Jordan Veretout : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Veretout_asse_ol_2425.png)",
+ "answers": "David Beckham, Arturo Vidal, Jordan Veretout"
+}

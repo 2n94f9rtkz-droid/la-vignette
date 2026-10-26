@@ -62,6 +62,15 @@
     "Kévin Gameiro",
     "Pierre-Alain Frau"
    ]
+  },
+  {
+   "num": 8,
+   "date": "2026-10-26",
+   "players": [
+    "David Beckham",
+    "Arturo Vidal",
+    "Jordan Veretout"
+   ]
   }
  ],
  "used": [
@@ -103,7 +112,13 @@
   "Pierre-Alain Frau",
   "Q27476",
   "Q314028",
-  "Q723943"
+  "Q723943",
+  "David Beckham",
+  "Arturo Vidal",
+  "Jordan Veretout",
+  "Q10520",
+  "Q192671",
+  "Q722348"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
