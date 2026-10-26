@@ -1,0 +1,202 @@
+{
+ "num": 7,
+ "date": "2026-10-26",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q27476",
+   "name": "Florian Thauvin",
+   "first": "FLORIAN",
+   "last": "THAUVIN",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Grenoble",
+     2010
+    ],
+    [
+     "Bastia",
+     2011
+    ],
+    [
+     "Lille",
+     2013
+    ],
+    [
+     "Bastia",
+     2013
+    ],
+    [
+     "Marseille",
+     2013
+    ],
+    [
+     "Newcastle",
+     2015
+    ],
+    [
+     "Marseille",
+     2016
+    ],
+    [
+     "Tigres de la UANL",
+     2021
+    ],
+    [
+     "Udinese",
+     2023
+    ],
+    [
+     "Lens",
+     2025
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "FRA-ARG (6).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FRA-ARG_(6).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/FRA-ARG_%286%29.jpg",
+    "artist": "Антон Зайцев",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Антон Зайцев · CC BY-SA 3.0",
+   "src": "Florian Thauvin",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q314028",
+   "name": "Kévin Gameiro",
+   "first": "KÉVIN",
+   "last": "GAMEIRO",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Strasbourg",
+     2005
+    ],
+    [
+     "Lorient",
+     2008
+    ],
+    [
+     "PSG",
+     2011
+    ],
+    [
+     "Sevilla",
+     2013
+    ],
+    [
+     "Atlético",
+     2016
+    ],
+    [
+     "Valence",
+     2018
+    ],
+    [
+     "Strasbourg",
+     2021
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Kevin Gameiro 2016 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_Gameiro_2016_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kevin_Gameiro_2016_%28cropped%29.jpg",
+    "artist": "Aleksandr Osipov from Ukraine",
+    "license": "CC BY-SA 2.0"
+   },
+   "credit": "Photo : Aleksandr Osipov from Ukraine · CC BY-SA 2.0",
+   "src": "Kevin Gameiro",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q723943",
+   "name": "Pierre-Alain Frau",
+   "first": "PIERRE-ALAIN",
+   "last": "FRAU",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Sochaux-Montbéliard",
+     1997
+    ],
+    [
+     "Lyon",
+     2004
+    ],
+    [
+     "Lens",
+     2005
+    ],
+    [
+     "PSG",
+     2006
+    ],
+    [
+     "Lille",
+     2008
+    ],
+    [
+     "Caen",
+     2011
+    ],
+    [
+     "Al-Wakrah Sports Club",
+     2012
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Pierre Alain Frau contre Valence.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pierre_Alain_Frau_contre_Valence.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pierre_Alain_Frau_contre_Valence.jpg",
+    "artist": "Liondartois",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Liondartois · CC BY-SA 3.0",
+   "src": "Pierre-Alain Frau",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #007",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Florian Thauvin : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:FRA-ARG_(6).jpg)\n- Kévin Gameiro : Aleksandr Osipov from Ukraine, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Kevin_Gameiro_2016_(cropped).jpg)\n- Pierre-Alain Frau : Liondartois, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Pierre_Alain_Frau_contre_Valence.jpg)",
+ "answers": "Florian Thauvin, Kévin Gameiro, Pierre-Alain Frau"
+}

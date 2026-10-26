@@ -1,125 +1,125 @@
 {
- "num": 6,
+ "num": 7,
  "date": "2026-10-26",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #006",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- William Saliba : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:William_Saliba_France_v_Senegal_16_June_2026-336_(cropped).jpg)\n- Nicolas Anelka : Amarhgil, Attribution (https://commons.wikimedia.org/wiki/File:Nicolas_Anelka_4720.jpg)\n- Morgan Amalfitano : joshjdss, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Morgan_Amalfitano_West_Ham_Vs_Birkrikara_(19933738812)_(cropped).jpg)",
- "answers": "William Saliba, Nicolas Anelka, Morgan Amalfitano",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #007",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Florian Thauvin : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:FRA-ARG_(6).jpg)\n- Kévin Gameiro : Aleksandr Osipov from Ukraine, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Kevin_Gameiro_2016_(cropped).jpg)\n- Pierre-Alain Frau : Liondartois, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Pierre_Alain_Frau_contre_Valence.jpg)",
+ "answers": "Florian Thauvin, Kévin Gameiro, Pierre-Alain Frau",
  "players": [
   {
-   "name": "William Saliba",
+   "name": "Florian Thauvin",
    "clubs": [
     [
-     "Saint-Étienne",
-     2018
+     "Grenoble",
+     2010
     ],
     [
-     "Arsenal",
-     2019
+     "Bastia",
+     2011
     ],
     [
-     "Saint-Étienne",
-     2019
+     "Lille",
+     2013
     ],
     [
-     "Nice",
-     2021
+     "Bastia",
+     2013
     ],
     [
      "Marseille",
+     2013
+    ],
+    [
+     "Newcastle",
+     2015
+    ],
+    [
+     "Marseille",
+     2016
+    ],
+    [
+     "Tigres de la UANL",
      2021
+    ],
+    [
+     "Udinese",
+     2023
+    ],
+    [
+     "Lens",
+     2025
     ]
    ]
   },
   {
-   "name": "Nicolas Anelka",
+   "name": "Kévin Gameiro",
    "clubs": [
     [
-     "PSG",
-     1996
-    ],
-    [
-     "Arsenal",
-     1997
-    ],
-    [
-     "Real Madrid",
-     1999
-    ],
-    [
-     "PSG",
-     2000
-    ],
-    [
-     "Liverpool",
-     2001
-    ],
-    [
-     "Man City",
-     2002
-    ],
-    [
-     "Fenerbahçe",
+     "Strasbourg",
      2005
-    ],
-    [
-     "Bolton",
-     2006
-    ],
-    [
-     "Chelsea",
-     2008
-    ],
-    [
-     "Shanghai",
-     2012
-    ],
-    [
-     "Juventus",
-     2013
-    ],
-    [
-     "West Brom",
-     2013
-    ],
-    [
-     "Mumbai City",
-     2014
-    ]
-   ]
-  },
-  {
-   "name": "Morgan Amalfitano",
-   "clubs": [
-    [
-     "CS Sedan Ardennes",
-     2003
     ],
     [
      "Lorient",
      2008
     ],
     [
-     "Marseille",
+     "PSG",
      2011
     ],
     [
-     "West Brom",
+     "Sevilla",
      2013
     ],
     [
-     "West Ham",
-     2014
-    ],
-    [
-     "Lille",
+     "Atlético",
      2016
     ],
     [
-     "Rennes",
-     2017
+     "Valence",
+     2018
+    ],
+    [
+     "Strasbourg",
+     2021
+    ]
+   ]
+  },
+  {
+   "name": "Pierre-Alain Frau",
+   "clubs": [
+    [
+     "Sochaux-Montbéliard",
+     1997
+    ],
+    [
+     "Lyon",
+     2004
+    ],
+    [
+     "Lens",
+     2005
+    ],
+    [
+     "PSG",
+     2006
+    ],
+    [
+     "Lille",
+     2008
+    ],
+    [
+     "Caen",
+     2011
+    ],
+    [
+     "Al-Wakrah Sports Club",
+     2012
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2013
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-006.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-007.mp4"
 }

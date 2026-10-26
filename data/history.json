@@ -53,6 +53,15 @@
     "Nicolas Anelka",
     "Morgan Amalfitano"
    ]
+  },
+  {
+   "num": 7,
+   "date": "2026-10-26",
+   "players": [
+    "Florian Thauvin",
+    "Kévin Gameiro",
+    "Pierre-Alain Frau"
+   ]
   }
  ],
  "used": [
@@ -88,7 +97,13 @@
   "Morgan Amalfitano",
   "Q56868118",
   "Q1939",
-  "Q438081"
+  "Q438081",
+  "Florian Thauvin",
+  "Kevin Gameiro",
+  "Pierre-Alain Frau",
+  "Q27476",
+  "Q314028",
+  "Q723943"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
