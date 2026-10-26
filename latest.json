@@ -1,105 +1,125 @@
 {
- "num": 5,
+ "num": 6,
  "date": "2026-10-26",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #005",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Antoine Griezmann : Biser Todorov (User:Biso) from Sofia, Bu, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_(51100409504)_(cropped).jpg)\n- Edin Džeko : Ailura, CC BY-SA 3.0 at (https://commons.wikimedia.org/wiki/File:20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_(cropped).jpg)\n- Yoan Gouffran : Fcgb260, Public domain (https://commons.wikimedia.org/wiki/File:Yoan_Gouffran_7.jpg)",
- "answers": "Antoine Griezmann, Edin Džeko, Yoan Gouffran",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #006",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- William Saliba : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:William_Saliba_France_v_Senegal_16_June_2026-336_(cropped).jpg)\n- Nicolas Anelka : Amarhgil, Attribution (https://commons.wikimedia.org/wiki/File:Nicolas_Anelka_4720.jpg)\n- Morgan Amalfitano : joshjdss, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Morgan_Amalfitano_West_Ham_Vs_Birkrikara_(19933738812)_(cropped).jpg)",
+ "answers": "William Saliba, Nicolas Anelka, Morgan Amalfitano",
  "players": [
   {
-   "name": "Antoine Griezmann",
+   "name": "William Saliba",
    "clubs": [
     [
-     "Real Sociedad",
-     2009
+     "Saint-Étienne",
+     2018
     ],
     [
-     "Atlético",
-     2014
-    ],
-    [
-     "Barça",
+     "Arsenal",
      2019
     ],
     [
-     "Atlético",
+     "Saint-Étienne",
+     2019
+    ],
+    [
+     "Nice",
      2021
     ],
     [
-     "Orlando City Soccer Club",
-     2026
+     "Marseille",
+     2021
     ]
    ]
   },
   {
-   "name": "Edin Džeko",
+   "name": "Nicolas Anelka",
    "clubs": [
     [
-     "Željezničar Sarajevo",
-     2003
+     "PSG",
+     1996
     ],
     [
-     "Teplice",
-     2005
+     "Arsenal",
+     1997
     ],
     [
-     "Ústí nad Labem",
-     2005
+     "Real Madrid",
+     1999
     ],
     [
-     "Wolfsburg",
-     2007
+     "PSG",
+     2000
+    ],
+    [
+     "Liverpool",
+     2001
     ],
     [
      "Man City",
-     2011
-    ],
-    [
-     "AS Roma",
-     2015
-    ],
-    [
-     "Inter",
-     2021
+     2002
     ],
     [
      "Fenerbahçe",
-     2023
+     2005
     ],
     [
-     "Fiorentina",
-     2025
+     "Bolton",
+     2006
     ],
     [
-     "Schalke 04",
-     2026
+     "Chelsea",
+     2008
+    ],
+    [
+     "Shanghai",
+     2012
+    ],
+    [
+     "Juventus",
+     2013
+    ],
+    [
+     "West Brom",
+     2013
+    ],
+    [
+     "Mumbai City",
+     2014
     ]
    ]
   },
   {
-   "name": "Yoan Gouffran",
+   "name": "Morgan Amalfitano",
    "clubs": [
     [
-     "Caen",
+     "CS Sedan Ardennes",
      2003
     ],
     [
-     "Bordeaux",
+     "Lorient",
      2008
     ],
     [
-     "Newcastle",
+     "Marseille",
+     2011
+    ],
+    [
+     "West Brom",
      2013
     ],
     [
-     "Göztepe",
-     2017
+     "West Ham",
+     2014
     ],
     [
-     "Ararat-Armenia",
-     2020
+     "Lille",
+     2016
+    ],
+    [
+     "Rennes",
+     2017
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-005.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-006.mp4"
 }

@@ -44,6 +44,15 @@
     "Edin Džeko",
     "Yoan Gouffran"
    ]
+  },
+  {
+   "num": 6,
+   "date": "2026-10-26",
+   "players": [
+    "William Saliba",
+    "Nicolas Anelka",
+    "Morgan Amalfitano"
+   ]
   }
  ],
  "used": [
@@ -73,7 +82,13 @@
   "Yoan Gouffran",
   "Q455462",
   "Q153786",
-  "Q31775"
+  "Q31775",
+  "William Saliba",
+  "Nicolas Anelka",
+  "Morgan Amalfitano",
+  "Q56868118",
+  "Q1939",
+  "Q438081"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -84,6 +99,8 @@
   "Corentin Tolisso": "parcours trop court (3 clubs)",
   "Sofiane Feghouli": "parcours EN et FR différents",
   "Pascal Nouma": "parcours EN et FR différents",
-  "Bruno Cheyrou": "parcours EN et FR différents"
+  "Bruno Cheyrou": "parcours EN et FR différents",
+  "Aruna Dindane": "parcours EN et FR différents",
+  "Rio Mavuba": "parcours EN et FR différents"
  }
 }
