@@ -80,6 +80,15 @@
     "Djibril Sidibé",
     "Anthony Réveillère"
    ]
+  },
+  {
+   "num": 10,
+   "date": "2026-10-27",
+   "players": [
+    "Luka Modrić",
+    "Laurent Koscielny",
+    "Steed Malbranque"
+   ]
   }
  ],
  "used": [
@@ -133,7 +142,13 @@
   "Anthony Réveillère",
   "Q21693199",
   "Q66737676",
-  "Q1922"
+  "Q1922",
+  "Luka Modrić",
+  "Laurent Koscielny",
+  "Steed Malbranque",
+  "Q483837",
+  "Q1915",
+  "Q13054"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
