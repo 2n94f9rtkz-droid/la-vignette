@@ -1,0 +1,170 @@
+{
+ "num": 11,
+ "date": "2026-10-28",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q16665941",
+   "name": "N'Golo Kanté",
+   "first": "N'GOLO",
+   "last": "KANTÉ",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Boulogne",
+     2012
+    ],
+    [
+     "Caen",
+     2013
+    ],
+    [
+     "Leicester City",
+     2015
+    ],
+    [
+     "Chelsea",
+     2016
+    ],
+    [
+     "Ittihad",
+     2023
+    ],
+    [
+     "Fenerbahçe",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "N'Golo Kanté 91 Fenerbahçe 20260805 (2) (cropped).JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_(2)_(cropped).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_%282%29_%28cropped%29.JPG/960px-N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_%282%29_%28cropped%29.JPG",
+    "artist": "User:Zafer",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : User:Zafer · CC BY-SA 4.0",
+   "src": "N'Golo Kanté",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q1921",
+   "name": "Blaise Matuidi",
+   "first": "BLAISE",
+   "last": "MATUIDI",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "ES Troyes AC",
+     2004
+    ],
+    [
+     "Saint-Étienne",
+     2007
+    ],
+    [
+     "PSG",
+     2011
+    ],
+    [
+     "Juventus",
+     2017
+    ],
+    [
+     "Inter Miami",
+     2020
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Matuidi PSG.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Matuidi_PSG.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Matuidi_PSG.jpg",
+    "artist": "Илья Хохлов",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Илья Хохлов · CC BY-SA 3.0",
+   "src": "Blaise Matuidi",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q5134192",
+   "name": "Clinton Njie",
+   "first": "CLINTON",
+   "last": "NJIE",
+   "pos": "ATTAQUANT",
+   "nat": "CAMEROUN",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#D7263D",
+     "#F2C14E"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lyon",
+     2012
+    ],
+    [
+     "Tottenham Hotspur",
+     2015
+    ],
+    [
+     "Marseille",
+     2016
+    ],
+    [
+     "Dynamo Moscou",
+     2019
+    ],
+    [
+     "Sivasspor",
+     2022
+    ],
+    [
+     "Rapid Bucarest",
+     2024
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Clinton N'Jie 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clinton_N%27Jie_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Clinton_N%27Jie_2019.jpg",
+    "artist": "Анна Нэсси",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Анна Нэсси · CC BY-SA 3.0",
+   "src": "Clinton Njie",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #011",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- N'Golo Kanté : User:Zafer, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_(2)_(cropped).JPG)\n- Blaise Matuidi : Илья Хохлов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Matuidi_PSG.jpg)\n- Clinton Njie : Анна Нэсси, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Clinton_N%27Jie_2019.jpg)",
+ "answers": "N'Golo Kanté, Blaise Matuidi, Clinton Njie"
+}

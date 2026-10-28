@@ -1,105 +1,93 @@
 {
- "num": 10,
- "date": "2026-10-27",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #010",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Luka Modrić : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg)\n- Laurent Koscielny : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Laurent_Koscielny_-_France_-_2018.jpg)\n- Steed Malbranque : S. Plaine, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:SM_Caen_vs_UNFP,_July_30th_2016_-_Steed_Malbranque_1.jpg)",
- "answers": "Luka Modrić, Laurent Koscielny, Steed Malbranque",
+ "num": 11,
+ "date": "2026-10-28",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #011",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- N'Golo Kanté : User:Zafer, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_(2)_(cropped).JPG)\n- Blaise Matuidi : Илья Хохлов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Matuidi_PSG.jpg)\n- Clinton Njie : Анна Нэсси, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Clinton_N%27Jie_2019.jpg)",
+ "answers": "N'Golo Kanté, Blaise Matuidi, Clinton Njie",
  "players": [
   {
-   "name": "Luka Modrić",
+   "name": "N'Golo Kanté",
    "clubs": [
     [
-     "Dinamo Zagreb",
-     2003
-    ],
-    [
-     "HŠK Zrinjski Mostar",
-     2003
-    ],
-    [
-     "Inter Zaprešić",
-     2004
-    ],
-    [
-     "Tottenham Hotspur",
-     2008
-    ],
-    [
-     "Real Madrid",
-     2012
-    ],
-    [
-     "AC Milan",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Laurent Koscielny",
-   "clubs": [
-    [
-     "Guingamp",
-     2004
-    ],
-    [
-     "Tours",
-     2007
-    ],
-    [
-     "Lorient",
-     2009
-    ],
-    [
-     "Arsenal",
-     2010
-    ],
-    [
-     "Bordeaux",
-     2019
-    ]
-   ]
-  },
-  {
-   "name": "Steed Malbranque",
-   "clubs": [
-    [
-     "Lyon",
-     1997
-    ],
-    [
-     "Fulham",
-     2001
-    ],
-    [
-     "Tottenham Hotspur",
-     2006
-    ],
-    [
-     "Sunderland",
-     2008
-    ],
-    [
-     "Saint-Étienne",
-     2011
-    ],
-    [
-     "Lyon",
+     "Boulogne",
      2012
     ],
     [
      "Caen",
+     2013
+    ],
+    [
+     "Leicester City",
+     2015
+    ],
+    [
+     "Chelsea",
      2016
     ],
     [
-     "Grand Ouest Association Lyonnaise",
+     "Ittihad",
+     2023
+    ],
+    [
+     "Fenerbahçe",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Blaise Matuidi",
+   "clubs": [
+    [
+     "ES Troyes AC",
+     2004
+    ],
+    [
+     "Saint-Étienne",
+     2007
+    ],
+    [
+     "PSG",
+     2011
+    ],
+    [
+     "Juventus",
      2017
     ],
     [
-     "Limonest Dardilly Saint-Didier",
+     "Inter Miami",
      2020
+    ]
+   ]
+  },
+  {
+   "name": "Clinton Njie",
+   "clubs": [
+    [
+     "Lyon",
+     2012
+    ],
+    [
+     "Tottenham Hotspur",
+     2015
+    ],
+    [
+     "Marseille",
+     2016
+    ],
+    [
+     "Dynamo Moscou",
+     2019
+    ],
+    [
+     "Sivasspor",
+     2022
+    ],
+    [
+     "Rapid Bucarest",
+     2024
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-010.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-011.mp4"
 }

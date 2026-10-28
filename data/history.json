@@ -89,6 +89,15 @@
     "Laurent Koscielny",
     "Steed Malbranque"
    ]
+  },
+  {
+   "num": 11,
+   "date": "2026-10-28",
+   "players": [
+    "N'Golo Kanté",
+    "Blaise Matuidi",
+    "Clinton Njie"
+   ]
   }
  ],
  "used": [
@@ -148,7 +157,13 @@
   "Steed Malbranque",
   "Q483837",
   "Q1915",
-  "Q13054"
+  "Q13054",
+  "N'Golo Kanté",
+  "Blaise Matuidi",
+  "Clinton Njie",
+  "Q16665941",
+  "Q1921",
+  "Q5134192"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -163,6 +178,10 @@
   "Aruna Dindane": "parcours EN et FR différents",
   "Rio Mavuba": "parcours EN et FR différents",
   "Laurent Robert": "infobox FR introuvable",
-  "Toifilou Maoulida": "pas de photo libre"
+  "Toifilou Maoulida": "pas de photo libre",
+  "André-Pierre Gignac": "années EN et FR différentes",
+  "Wesley Fofana": "parcours trop court (3 clubs)",
+  "Vincent Enyeama": "club non identifiable",
+  "Jonathan Bamba": "années EN et FR différentes"
  }
 }
