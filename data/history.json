@@ -98,6 +98,15 @@
     "Blaise Matuidi",
     "Clinton Njie"
    ]
+  },
+  {
+   "num": 12,
+   "date": "2026-10-29",
+   "players": [
+    "Raphaël Varane",
+    "Louis Saha",
+    "Kevin Mirallas"
+   ]
   }
  ],
  "used": [
@@ -163,7 +172,13 @@
   "Clinton Njie",
   "Q16665941",
   "Q1921",
-  "Q5134192"
+  "Q5134192",
+  "Raphaël Varane",
+  "Louis Saha",
+  "Kevin Mirallas",
+  "Q489039",
+  "Q484968",
+  "Q316917"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -182,6 +197,9 @@
   "André-Pierre Gignac": "années EN et FR différentes",
   "Wesley Fofana": "parcours trop court (3 clubs)",
   "Vincent Enyeama": "club non identifiable",
-  "Jonathan Bamba": "années EN et FR différentes"
+  "Jonathan Bamba": "années EN et FR différentes",
+  "Mike Maignan": "parcours EN et FR différents",
+  "Alexandre Lacazette": "parcours EN et FR différents",
+  "Claude Makélélé": "parcours EN et FR différents"
  }
 }

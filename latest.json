@@ -1,93 +1,113 @@
 {
- "num": 11,
- "date": "2026-10-28",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #011",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- N'Golo Kanté : User:Zafer, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:N%27Golo_Kant%C3%A9_91_Fenerbah%C3%A7e_20260805_(2)_(cropped).JPG)\n- Blaise Matuidi : Илья Хохлов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Matuidi_PSG.jpg)\n- Clinton Njie : Анна Нэсси, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Clinton_N%27Jie_2019.jpg)",
- "answers": "N'Golo Kanté, Blaise Matuidi, Clinton Njie",
+ "num": 12,
+ "date": "2026-10-29",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #012",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Raphaël Varane : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Liver-RM_(8)_(Varane).jpg)\n- Louis Saha : Web Summit, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Louis_Saha_(cropped).jpg)\n- Kevin Mirallas : Майоров Владимир, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Kevin_Mirallas.jpg)",
+ "answers": "Raphaël Varane, Louis Saha, Kevin Mirallas",
  "players": [
   {
-   "name": "N'Golo Kanté",
+   "name": "Raphaël Varane",
    "clubs": [
     [
-     "Boulogne",
-     2012
+     "Lens",
+     2010
     ],
     [
-     "Caen",
-     2013
+     "Real Madrid",
+     2011
     ],
     [
-     "Leicester City",
-     2015
+     "Man United",
+     2021
     ],
     [
-     "Chelsea",
-     2016
-    ],
-    [
-     "Ittihad",
-     2023
-    ],
-    [
-     "Fenerbahçe",
-     2026
+     "Côme",
+     2024
     ]
    ]
   },
   {
-   "name": "Blaise Matuidi",
+   "name": "Louis Saha",
    "clubs": [
     [
-     "ES Troyes AC",
+     "Metz",
+     1997
+    ],
+    [
+     "Newcastle",
+     1999
+    ],
+    [
+     "Fulham",
+     2000
+    ],
+    [
+     "Man United",
+     2004
+    ],
+    [
+     "Everton",
+     2008
+    ],
+    [
+     "Tottenham Hotspur",
+     2012
+    ],
+    [
+     "Sunderland",
+     2012
+    ],
+    [
+     "Società Sportiva Lazio",
+     2013
+    ]
+   ]
+  },
+  {
+   "name": "Kevin Mirallas",
+   "clubs": [
+    [
+     "Lille",
      2004
     ],
     [
      "Saint-Étienne",
-     2007
+     2008
     ],
     [
-     "PSG",
-     2011
+     "Olympiakós",
+     2010
     ],
     [
-     "Juventus",
-     2017
-    ],
-    [
-     "Inter Miami",
-     2020
-    ]
-   ]
-  },
-  {
-   "name": "Clinton Njie",
-   "clubs": [
-    [
-     "Lyon",
+     "Everton",
      2012
     ],
     [
-     "Tottenham Hotspur",
-     2015
+     "Olympiakós",
+     2018
     ],
     [
-     "Marseille",
-     2016
+     "Fiorentina",
+     2018
     ],
     [
-     "Dynamo Moscou",
+     "Royal Antwerp",
      2019
     ],
     [
-     "Sivasspor",
+     "Gaziantep Büyükşehir Belediyespor",
+     2020
+    ],
+    [
+     "Moreirense Futebol Clube",
      2022
     ],
     [
-     "Rapid Bucarest",
-     2024
+     "AEL Limassol",
+     2022
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-011.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-012.mp4"
 }

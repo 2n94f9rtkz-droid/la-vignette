@@ -1,0 +1,190 @@
+{
+ "num": 12,
+ "date": "2026-10-29",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q489039",
+   "name": "Raphaël Varane",
+   "first": "RAPHAËL",
+   "last": "VARANE",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lens",
+     2010
+    ],
+    [
+     "Real Madrid",
+     2011
+    ],
+    [
+     "Man United",
+     2021
+    ],
+    [
+     "Côme",
+     2024
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Liver-RM (8) (Varane).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liver-RM_(8)_(Varane).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Liver-RM_%288%29_%28Varane%29.jpg",
+    "artist": "Антон Зайцев",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Антон Зайцев · CC BY-SA 3.0",
+   "src": "Raphaël Varane",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q484968",
+   "name": "Louis Saha",
+   "first": "LOUIS",
+   "last": "SAHA",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Metz",
+     1997
+    ],
+    [
+     "Newcastle",
+     1999
+    ],
+    [
+     "Fulham",
+     2000
+    ],
+    [
+     "Man United",
+     2004
+    ],
+    [
+     "Everton",
+     2008
+    ],
+    [
+     "Tottenham Hotspur",
+     2012
+    ],
+    [
+     "Sunderland",
+     2012
+    ],
+    [
+     "Società Sportiva Lazio",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Louis Saha (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Louis_Saha_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louis_Saha_%28cropped%29.jpg/960px-Louis_Saha_%28cropped%29.jpg",
+    "artist": "Web Summit",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : Web Summit · CC BY 2.0",
+   "src": "Louis Saha",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q316917",
+   "name": "Kevin Mirallas",
+   "first": "KEVIN",
+   "last": "MIRALLAS",
+   "pos": "MILIEU",
+   "nat": "BELGIQUE",
+   "flag": [
+    "v",
+    [
+     "#161616",
+     "#F2C14E",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lille",
+     2004
+    ],
+    [
+     "Saint-Étienne",
+     2008
+    ],
+    [
+     "Olympiakós",
+     2010
+    ],
+    [
+     "Everton",
+     2012
+    ],
+    [
+     "Olympiakós",
+     2018
+    ],
+    [
+     "Fiorentina",
+     2018
+    ],
+    [
+     "Royal Antwerp",
+     2019
+    ],
+    [
+     "Gaziantep Büyükşehir Belediyespor",
+     2020
+    ],
+    [
+     "Moreirense Futebol Clube",
+     2022
+    ],
+    [
+     "AEL Limassol",
+     2022
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Kevin Mirallas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_Mirallas.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Kevin_Mirallas.jpg",
+    "artist": "Майоров Владимир",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Майоров Владимир · CC BY-SA 3.0",
+   "src": "Kevin Mirallas",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #012",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Raphaël Varane : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Liver-RM_(8)_(Varane).jpg)\n- Louis Saha : Web Summit, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Louis_Saha_(cropped).jpg)\n- Kevin Mirallas : Майоров Владимир, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Kevin_Mirallas.jpg)",
+ "answers": "Raphaël Varane, Louis Saha, Kevin Mirallas"
+}
