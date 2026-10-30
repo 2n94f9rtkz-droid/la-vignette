@@ -1,0 +1,200 @@
+{
+ "num": 13,
+ "date": "2026-10-30",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q23759917",
+   "name": "Alexander Isak",
+   "first": "ALEXANDER",
+   "last": "ISAK",
+   "pos": "ATTAQUANT",
+   "nat": "SUÈDE",
+   "flag": [
+    "h",
+    [
+     "#1B3A8C",
+     "#F2C14E",
+     "#1B3A8C"
+    ]
+   ],
+   "clubs": [
+    [
+     "AIK Solna",
+     2016
+    ],
+    [
+     "BV 09 Borussia Dortmund",
+     2017
+    ],
+    [
+     "Real Sociedad",
+     2019
+    ],
+    [
+     "Newcastle",
+     2022
+    ],
+    [
+     "Liverpool",
+     2025
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Alexander Isak France v Sweden 6.30.26-043.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alexander_Isak_France_v_Sweden_6.30.26-043.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alexander_Isak_France_v_Sweden_6.30.26-043.jpg/960px-Alexander_Isak_France_v_Sweden_6.30.26-043.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Alexander Isak",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q180553",
+   "name": "Alexis Sánchez",
+   "first": "ALEXIS",
+   "last": "SÁNCHEZ",
+   "pos": "MILIEU",
+   "nat": "CHILI",
+   "flag": [
+    "h",
+    [
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Club de Deportes Cobreloa",
+     2005
+    ],
+    [
+     "Udinese",
+     2006
+    ],
+    [
+     "Colo-Colo",
+     2006
+    ],
+    [
+     "River Plate",
+     2007
+    ],
+    [
+     "Barça",
+     2011
+    ],
+    [
+     "Arsenal",
+     2014
+    ],
+    [
+     "Man United",
+     2018
+    ],
+    [
+     "Inter",
+     2019
+    ],
+    [
+     "Marseille",
+     2022
+    ],
+    [
+     "Inter",
+     2023
+    ],
+    [
+     "Udinese",
+     2024
+    ],
+    [
+     "Sevilla",
+     2025
+    ],
+    [
+     "Montréal",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Alexis Sanchez Arsenal Vs Burnley (24736448805) (cropped) (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alexis_Sanchez_Arsenal_Vs_Burnley_(24736448805)_(cropped)_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alexis_Sanchez_Arsenal_Vs_Burnley_%2824736448805%29_%28cropped%29_%28cropped%29.jpg/960px-Alexis_Sanchez_Arsenal_Vs_Burnley_%2824736448805%29_%28cropped%29_%28cropped%29.jpg",
+    "artist": "joshjdss",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : joshjdss · CC BY 2.0",
+   "src": "Alexis Sánchez",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q434436",
+   "name": "Jonathan Pitroipa",
+   "first": "JONATHAN",
+   "last": "PITROIPA",
+   "pos": "MILIEU",
+   "nat": "BURKINA FASO",
+   "flag": [
+    "h",
+    [
+     "#D7263D",
+     "#1F7A4D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Fribourg",
+     2004
+    ],
+    [
+     "Hambourg",
+     2008
+    ],
+    [
+     "Rennes",
+     2011
+    ],
+    [
+     "Al-Jazira Club",
+     2014
+    ],
+    [
+     "Al-Nasr Dubaï",
+     2015
+    ],
+    [
+     "Royal Antwerp",
+     2018
+    ],
+    [
+     "Paris",
+     2018
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Jonathan Pitroipa 2010 HSVgFCN.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jonathan_Pitroipa_2010_HSVgFCN.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jonathan_Pitroipa_2010_HSVgFCN.jpg/960px-Jonathan_Pitroipa_2010_HSVgFCN.jpg",
+    "artist": "Seemu",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Seemu · CC BY-SA 3.0",
+   "src": "Jonathan Pitroipa",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #013",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Alexander Isak : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Alexander_Isak_France_v_Sweden_6.30.26-043.jpg)\n- Alexis Sánchez : joshjdss, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Alexis_Sanchez_Arsenal_Vs_Burnley_(24736448805)_(cropped)_(cropped).jpg)\n- Jonathan Pitroipa : Seemu, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Jonathan_Pitroipa_2010_HSVgFCN.jpg)",
+ "answers": "Alexander Isak, Alexis Sánchez, Jonathan Pitroipa"
+}

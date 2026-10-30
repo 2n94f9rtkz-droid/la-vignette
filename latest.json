@@ -1,113 +1,125 @@
 {
- "num": 12,
- "date": "2026-10-29",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #012",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Raphaël Varane : Антон Зайцев, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Liver-RM_(8)_(Varane).jpg)\n- Louis Saha : Web Summit, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Louis_Saha_(cropped).jpg)\n- Kevin Mirallas : Майоров Владимир, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Kevin_Mirallas.jpg)",
- "answers": "Raphaël Varane, Louis Saha, Kevin Mirallas",
+ "num": 13,
+ "date": "2026-10-30",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #013",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Alexander Isak : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Alexander_Isak_France_v_Sweden_6.30.26-043.jpg)\n- Alexis Sánchez : joshjdss, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Alexis_Sanchez_Arsenal_Vs_Burnley_(24736448805)_(cropped)_(cropped).jpg)\n- Jonathan Pitroipa : Seemu, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Jonathan_Pitroipa_2010_HSVgFCN.jpg)",
+ "answers": "Alexander Isak, Alexis Sánchez, Jonathan Pitroipa",
  "players": [
   {
-   "name": "Raphaël Varane",
+   "name": "Alexander Isak",
    "clubs": [
     [
-     "Lens",
-     2010
+     "AIK Solna",
+     2016
     ],
     [
-     "Real Madrid",
-     2011
+     "BV 09 Borussia Dortmund",
+     2017
     ],
     [
-     "Man United",
-     2021
-    ],
-    [
-     "Côme",
-     2024
-    ]
-   ]
-  },
-  {
-   "name": "Louis Saha",
-   "clubs": [
-    [
-     "Metz",
-     1997
-    ],
-    [
-     "Newcastle",
-     1999
-    ],
-    [
-     "Fulham",
-     2000
-    ],
-    [
-     "Man United",
-     2004
-    ],
-    [
-     "Everton",
-     2008
-    ],
-    [
-     "Tottenham Hotspur",
-     2012
-    ],
-    [
-     "Sunderland",
-     2012
-    ],
-    [
-     "Società Sportiva Lazio",
-     2013
-    ]
-   ]
-  },
-  {
-   "name": "Kevin Mirallas",
-   "clubs": [
-    [
-     "Lille",
-     2004
-    ],
-    [
-     "Saint-Étienne",
-     2008
-    ],
-    [
-     "Olympiakós",
-     2010
-    ],
-    [
-     "Everton",
-     2012
-    ],
-    [
-     "Olympiakós",
-     2018
-    ],
-    [
-     "Fiorentina",
-     2018
-    ],
-    [
-     "Royal Antwerp",
+     "Real Sociedad",
      2019
     ],
     [
-     "Gaziantep Büyükşehir Belediyespor",
-     2020
-    ],
-    [
-     "Moreirense Futebol Clube",
+     "Newcastle",
      2022
     ],
     [
-     "AEL Limassol",
+     "Liverpool",
+     2025
+    ]
+   ]
+  },
+  {
+   "name": "Alexis Sánchez",
+   "clubs": [
+    [
+     "Club de Deportes Cobreloa",
+     2005
+    ],
+    [
+     "Udinese",
+     2006
+    ],
+    [
+     "Colo-Colo",
+     2006
+    ],
+    [
+     "River Plate",
+     2007
+    ],
+    [
+     "Barça",
+     2011
+    ],
+    [
+     "Arsenal",
+     2014
+    ],
+    [
+     "Man United",
+     2018
+    ],
+    [
+     "Inter",
+     2019
+    ],
+    [
+     "Marseille",
      2022
+    ],
+    [
+     "Inter",
+     2023
+    ],
+    [
+     "Udinese",
+     2024
+    ],
+    [
+     "Sevilla",
+     2025
+    ],
+    [
+     "Montréal",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Jonathan Pitroipa",
+   "clubs": [
+    [
+     "Fribourg",
+     2004
+    ],
+    [
+     "Hambourg",
+     2008
+    ],
+    [
+     "Rennes",
+     2011
+    ],
+    [
+     "Al-Jazira Club",
+     2014
+    ],
+    [
+     "Al-Nasr Dubaï",
+     2015
+    ],
+    [
+     "Royal Antwerp",
+     2018
+    ],
+    [
+     "Paris",
+     2018
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-012.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-013.mp4"
 }

@@ -107,6 +107,15 @@
     "Louis Saha",
     "Kevin Mirallas"
    ]
+  },
+  {
+   "num": 13,
+   "date": "2026-10-30",
+   "players": [
+    "Alexander Isak",
+    "Alexis Sánchez",
+    "Jonathan Pitroipa"
+   ]
   }
  ],
  "used": [
@@ -178,7 +187,13 @@
   "Kevin Mirallas",
   "Q489039",
   "Q484968",
-  "Q316917"
+  "Q316917",
+  "Alexander Isak",
+  "Alexis Sánchez",
+  "Jonathan Pitroipa",
+  "Q23759917",
+  "Q180553",
+  "Q434436"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -200,6 +215,8 @@
   "Jonathan Bamba": "années EN et FR différentes",
   "Mike Maignan": "parcours EN et FR différents",
   "Alexandre Lacazette": "parcours EN et FR différents",
-  "Claude Makélélé": "parcours EN et FR différents"
+  "Claude Makélélé": "parcours EN et FR différents",
+  "Sidney Govou": "parcours EN et FR différents",
+  "Anthony Le Tallec": "parcours EN et FR différents"
  }
 }
