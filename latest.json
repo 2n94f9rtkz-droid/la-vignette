@@ -1,44 +1,48 @@
 {
- "num": 14,
+ "num": 15,
  "date": "2026-10-30",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #014",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Sergio Ramos : Real Madrid, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Sergio_Ramos_Interview_2021_(cropped).jpg)\n- Michael Essien : @cfcunofficial (Chelsea Debs) London fro, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Chelsea_Legends_1_Inter_Forever_4_(28453496098)_(cropped).jpg)\n- Olivier Kapo : Nicola Genati, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Olivier_Kapo_2005.jpg)",
- "answers": "Sergio Ramos, Michael Essien, Olivier Kapo",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #015",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Sadio Mané : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg)\n- Florent Malouda : Stanislav Vedmid, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Malouda2012.JPG)\n- Nolan Roux : Dizcoke, Public domain (https://commons.wikimedia.org/wiki/File:Nolan_Roux.jpg)",
+ "answers": "Sadio Mané, Florent Malouda, Nolan Roux",
  "players": [
   {
-   "name": "Sergio Ramos",
+   "name": "Sadio Mané",
    "clubs": [
     [
-     "Sevilla Atlético Club",
-     2003
+     "Metz",
+     2011
     ],
     [
-     "Sevilla",
-     2004
+     "Red Bull Salzbourg",
+     2012
     ],
     [
-     "Real Madrid",
-     2005
+     "Southampton",
+     2014
     ],
     [
-     "PSG",
-     2021
+     "Liverpool",
+     2016
     ],
     [
-     "Sevilla",
+     "Bayern",
+     2022
+    ],
+    [
+     "Al-Nassr",
      2023
-    ],
-    [
-     "Monterrey",
-     2025
     ]
    ]
   },
   {
-   "name": "Michael Essien",
+   "name": "Florent Malouda",
    "clubs": [
     [
-     "Bastia",
+     "LB Châteauroux",
+     1996
+    ],
+    [
+     "Guingamp",
      2000
     ],
     [
@@ -47,83 +51,67 @@
     ],
     [
      "Chelsea",
-     2005
+     2007
     ],
     [
-     "Real Madrid",
-     2012
+     "Trabzonspor",
+     2013
     ],
     [
-     "AC Milan",
+     "Metz",
      2014
     ],
     [
-     "Panathinaïkós",
+     "Odisha",
      2015
     ],
     [
-     "Persib Maung Bandung",
-     2017
+     "Wadi Degla Sporting Club",
+     2016
     ],
     [
-     "Sabail",
-     2019
+     "Differdange 03",
+     2018
     ]
    ]
   },
   {
-   "name": "Olivier Kapo",
+   "name": "Nolan Roux",
    "clubs": [
     [
-     "Auxerre",
-     1999
-    ],
-    [
-     "Juventus",
-     2004
-    ],
-    [
-     "Monaco",
-     2005
-    ],
-    [
-     "Levante UD",
-     2006
-    ],
-    [
-     "Birmingham City",
-     2007
-    ],
-    [
-     "Wigan Athletic",
+     "Lens",
      2008
     ],
     [
-     "Boulogne",
-     2010
+     "Brest",
+     2009
     ],
     [
-     "Celtic",
-     2010
-    ],
-    [
-     "Al-Ahli Sports Club",
-     2011
-    ],
-    [
-     "Auxerre",
+     "Lille",
      2012
     ],
     [
-     "APO Levadiakos",
-     2013
+     "Saint-Étienne",
+     2015
     ],
     [
-     "Korona Kielce",
-     2014
+     "Metz",
+     2017
+    ],
+    [
+     "Guingamp",
+     2018
+    ],
+    [
+     "Nîmes Olympique",
+     2020
+    ],
+    [
+     "LB Châteauroux",
+     2021
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-014.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-015.mp4"
 }

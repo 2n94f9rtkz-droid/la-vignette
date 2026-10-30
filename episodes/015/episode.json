@@ -1,0 +1,194 @@
+{
+ "num": 15,
+ "date": "2026-10-30",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q209942",
+   "name": "Sadio Mané",
+   "first": "SADIO",
+   "last": "MANÉ",
+   "pos": "AILIER",
+   "nat": "SÉNÉGAL",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#F2C14E",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Metz",
+     2011
+    ],
+    [
+     "Red Bull Salzbourg",
+     2012
+    ],
+    [
+     "Southampton",
+     2014
+    ],
+    [
+     "Liverpool",
+     2016
+    ],
+    [
+     "Bayern",
+     2022
+    ],
+    [
+     "Al-Nassr",
+     2023
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Sadio Mane France v Senegal 16 June 2026-450.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg/960px-Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Sadio Mané",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q1913",
+   "name": "Florent Malouda",
+   "first": "FLORENT",
+   "last": "MALOUDA",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "LB Châteauroux",
+     1996
+    ],
+    [
+     "Guingamp",
+     2000
+    ],
+    [
+     "Lyon",
+     2003
+    ],
+    [
+     "Chelsea",
+     2007
+    ],
+    [
+     "Trabzonspor",
+     2013
+    ],
+    [
+     "Metz",
+     2014
+    ],
+    [
+     "Odisha",
+     2015
+    ],
+    [
+     "Wadi Degla Sporting Club",
+     2016
+    ],
+    [
+     "Differdange 03",
+     2018
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Malouda2012.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Malouda2012.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Malouda2012.JPG",
+    "artist": "Stanislav Vedmid",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Stanislav Vedmid · CC BY-SA 3.0",
+   "src": "Florent Malouda",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q561020",
+   "name": "Nolan Roux",
+   "first": "NOLAN",
+   "last": "ROUX",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lens",
+     2008
+    ],
+    [
+     "Brest",
+     2009
+    ],
+    [
+     "Lille",
+     2012
+    ],
+    [
+     "Saint-Étienne",
+     2015
+    ],
+    [
+     "Metz",
+     2017
+    ],
+    [
+     "Guingamp",
+     2018
+    ],
+    [
+     "Nîmes Olympique",
+     2020
+    ],
+    [
+     "LB Châteauroux",
+     2021
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Nolan Roux.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nolan_Roux.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nolan_Roux.jpg",
+    "artist": "Dizcoke",
+    "license": "Public domain"
+   },
+   "credit": "Photo : Dizcoke · Public domain",
+   "src": "Nolan Roux",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #015",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Sadio Mané : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg)\n- Florent Malouda : Stanislav Vedmid, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Malouda2012.JPG)\n- Nolan Roux : Dizcoke, Public domain (https://commons.wikimedia.org/wiki/File:Nolan_Roux.jpg)",
+ "answers": "Sadio Mané, Florent Malouda, Nolan Roux"
+}

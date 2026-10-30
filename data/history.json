@@ -125,6 +125,15 @@
     "Michael Essien",
     "Olivier Kapo"
    ]
+  },
+  {
+   "num": 15,
+   "date": "2026-10-30",
+   "players": [
+    "Sadio Mané",
+    "Florent Malouda",
+    "Nolan Roux"
+   ]
   }
  ],
  "used": [
@@ -208,7 +217,13 @@
   "Olivier Kapo",
   "Q483309",
   "Q969520",
-  "Q331914"
+  "Q331914",
+  "Sadio Mané",
+  "Florent Malouda",
+  "Nolan Roux",
+  "Q209942",
+  "Q1913",
+  "Q561020"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
