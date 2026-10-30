@@ -1,125 +1,129 @@
 {
- "num": 13,
+ "num": 14,
  "date": "2026-10-30",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #013",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Alexander Isak : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Alexander_Isak_France_v_Sweden_6.30.26-043.jpg)\n- Alexis Sánchez : joshjdss, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Alexis_Sanchez_Arsenal_Vs_Burnley_(24736448805)_(cropped)_(cropped).jpg)\n- Jonathan Pitroipa : Seemu, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Jonathan_Pitroipa_2010_HSVgFCN.jpg)",
- "answers": "Alexander Isak, Alexis Sánchez, Jonathan Pitroipa",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #014",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Sergio Ramos : Real Madrid, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Sergio_Ramos_Interview_2021_(cropped).jpg)\n- Michael Essien : @cfcunofficial (Chelsea Debs) London fro, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Chelsea_Legends_1_Inter_Forever_4_(28453496098)_(cropped).jpg)\n- Olivier Kapo : Nicola Genati, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Olivier_Kapo_2005.jpg)",
+ "answers": "Sergio Ramos, Michael Essien, Olivier Kapo",
  "players": [
   {
-   "name": "Alexander Isak",
+   "name": "Sergio Ramos",
    "clubs": [
     [
-     "AIK Solna",
-     2016
-    ],
-    [
-     "BV 09 Borussia Dortmund",
-     2017
-    ],
-    [
-     "Real Sociedad",
-     2019
-    ],
-    [
-     "Newcastle",
-     2022
-    ],
-    [
-     "Liverpool",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Alexis Sánchez",
-   "clubs": [
-    [
-     "Club de Deportes Cobreloa",
-     2005
-    ],
-    [
-     "Udinese",
-     2006
-    ],
-    [
-     "Colo-Colo",
-     2006
-    ],
-    [
-     "River Plate",
-     2007
-    ],
-    [
-     "Barça",
-     2011
-    ],
-    [
-     "Arsenal",
-     2014
-    ],
-    [
-     "Man United",
-     2018
-    ],
-    [
-     "Inter",
-     2019
-    ],
-    [
-     "Marseille",
-     2022
-    ],
-    [
-     "Inter",
-     2023
-    ],
-    [
-     "Udinese",
-     2024
+     "Sevilla Atlético Club",
+     2003
     ],
     [
      "Sevilla",
-     2025
+     2004
     ],
     [
-     "Montréal",
-     2026
+     "Real Madrid",
+     2005
+    ],
+    [
+     "PSG",
+     2021
+    ],
+    [
+     "Sevilla",
+     2023
+    ],
+    [
+     "Monterrey",
+     2025
     ]
    ]
   },
   {
-   "name": "Jonathan Pitroipa",
+   "name": "Michael Essien",
    "clubs": [
     [
-     "Fribourg",
-     2004
+     "Bastia",
+     2000
     ],
     [
-     "Hambourg",
-     2008
+     "Lyon",
+     2003
     ],
     [
-     "Rennes",
-     2011
+     "Chelsea",
+     2005
     ],
     [
-     "Al-Jazira Club",
+     "Real Madrid",
+     2012
+    ],
+    [
+     "AC Milan",
      2014
     ],
     [
-     "Al-Nasr Dubaï",
+     "Panathinaïkós",
      2015
     ],
     [
-     "Royal Antwerp",
-     2018
+     "Persib Maung Bandung",
+     2017
     ],
     [
-     "Paris",
-     2018
+     "Sabail",
+     2019
+    ]
+   ]
+  },
+  {
+   "name": "Olivier Kapo",
+   "clubs": [
+    [
+     "Auxerre",
+     1999
+    ],
+    [
+     "Juventus",
+     2004
+    ],
+    [
+     "Monaco",
+     2005
+    ],
+    [
+     "Levante UD",
+     2006
+    ],
+    [
+     "Birmingham City",
+     2007
+    ],
+    [
+     "Wigan Athletic",
+     2008
+    ],
+    [
+     "Boulogne",
+     2010
+    ],
+    [
+     "Celtic",
+     2010
+    ],
+    [
+     "Al-Ahli Sports Club",
+     2011
+    ],
+    [
+     "Auxerre",
+     2012
+    ],
+    [
+     "APO Levadiakos",
+     2013
+    ],
+    [
+     "Korona Kielce",
+     2014
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-013.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-014.mp4"
 }

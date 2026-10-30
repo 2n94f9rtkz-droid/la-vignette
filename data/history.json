@@ -116,6 +116,15 @@
     "Alexis Sánchez",
     "Jonathan Pitroipa"
    ]
+  },
+  {
+   "num": 14,
+   "date": "2026-10-30",
+   "players": [
+    "Sergio Ramos",
+    "Michael Essien",
+    "Olivier Kapo"
+   ]
   }
  ],
  "used": [
@@ -193,7 +202,13 @@
   "Jonathan Pitroipa",
   "Q23759917",
   "Q180553",
-  "Q434436"
+  "Q434436",
+  "Sergio Ramos",
+  "Michael Essien",
+  "Olivier Kapo",
+  "Q483309",
+  "Q969520",
+  "Q331914"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
