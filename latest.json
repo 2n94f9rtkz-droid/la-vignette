@@ -1,117 +1,137 @@
 {
- "num": 15,
- "date": "2026-10-30",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #015",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Sadio Mané : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg)\n- Florent Malouda : Stanislav Vedmid, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Malouda2012.JPG)\n- Nolan Roux : Dizcoke, Public domain (https://commons.wikimedia.org/wiki/File:Nolan_Roux.jpg)",
- "answers": "Sadio Mané, Florent Malouda, Nolan Roux",
+ "num": 16,
+ "date": "2026-10-31",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #016",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Dimitri Payet : Egghead06, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Payet_April_2016.jpeg)\n- Ludovic Giuly : Ludovic GIULY, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Ludovic_GIULY_-_AS_Monaco_(cropped).jpg)\n- Stéphane Dalmat : S. Plaine, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Dalmat.jpg)",
+ "answers": "Dimitri Payet, Ludovic Giuly, Stéphane Dalmat",
  "players": [
   {
-   "name": "Sadio Mané",
+   "name": "Dimitri Payet",
    "clubs": [
     [
-     "Metz",
+     "AS Excelsior",
+     2004
+    ],
+    [
+     "Nantes",
+     2005
+    ],
+    [
+     "Saint-Étienne",
+     2007
+    ],
+    [
+     "Lille",
      2011
     ],
     [
-     "Red Bull Salzbourg",
-     2012
+     "Marseille",
+     2013
     ],
     [
-     "Southampton",
-     2014
+     "West Ham",
+     2015
     ],
     [
-     "Liverpool",
-     2016
+     "Marseille",
+     2017
     ],
     [
-     "Bayern",
-     2022
-    ],
-    [
-     "Al-Nassr",
+     "CR Vasco da Gama",
      2023
     ]
    ]
   },
   {
-   "name": "Florent Malouda",
+   "name": "Ludovic Giuly",
    "clubs": [
     [
-     "LB Châteauroux",
-     1996
-    ],
-    [
-     "Guingamp",
-     2000
-    ],
-    [
      "Lyon",
-     2003
+     1994
     ],
     [
-     "Chelsea",
+     "Monaco",
+     1998
+    ],
+    [
+     "Barça",
+     2004
+    ],
+    [
+     "AS Roma",
      2007
     ],
     [
-     "Trabzonspor",
+     "PSG",
+     2008
+    ],
+    [
+     "Monaco",
+     2011
+    ],
+    [
+     "Lorient",
+     2012
+    ],
+    [
+     "Grand Ouest Association Lyonnaise",
      2013
-    ],
-    [
-     "Metz",
-     2014
-    ],
-    [
-     "Odisha",
-     2015
-    ],
-    [
-     "Wadi Degla Sporting Club",
-     2016
-    ],
-    [
-     "Differdange 03",
-     2018
     ]
    ]
   },
   {
-   "name": "Nolan Roux",
+   "name": "Stéphane Dalmat",
    "clubs": [
     [
+     "LB Châteauroux",
+     1997
+    ],
+    [
      "Lens",
-     2008
+     1998
     ],
     [
-     "Brest",
-     2009
+     "Marseille",
+     1999
     ],
     [
-     "Lille",
-     2012
+     "PSG",
+     2000
     ],
     [
-     "Saint-Étienne",
-     2015
+     "Inter",
+     2001
     ],
     [
-     "Metz",
-     2017
+     "Tottenham Hotspur",
+     2003
     ],
     [
-     "Guingamp",
-     2018
+     "Toulouse",
+     2004
+    ],
+    [
+     "Racing de Santander",
+     2005
+    ],
+    [
+     "Bordeaux",
+     2006
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2007
+    ],
+    [
+     "Rennes",
+     2010
     ],
     [
      "Nîmes Olympique",
-     2020
-    ],
-    [
-     "LB Châteauroux",
-     2021
+     2012
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-015.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-016.mp4"
 }

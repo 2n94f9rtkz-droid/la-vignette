@@ -1,0 +1,214 @@
+{
+ "num": 16,
+ "date": "2026-10-31",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q376247",
+   "name": "Dimitri Payet",
+   "first": "DIMITRI",
+   "last": "PAYET",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "AS Excelsior",
+     2004
+    ],
+    [
+     "Nantes",
+     2005
+    ],
+    [
+     "Saint-Étienne",
+     2007
+    ],
+    [
+     "Lille",
+     2011
+    ],
+    [
+     "Marseille",
+     2013
+    ],
+    [
+     "West Ham",
+     2015
+    ],
+    [
+     "Marseille",
+     2017
+    ],
+    [
+     "CR Vasco da Gama",
+     2023
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Payet April 2016.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Payet_April_2016.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Payet_April_2016.jpeg",
+    "artist": "Egghead06",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Egghead06 · CC BY-SA 4.0",
+   "src": "Dimitri Payet",
+   "raw": "p1_raw.jpeg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q219771",
+   "name": "Ludovic Giuly",
+   "first": "LUDOVIC",
+   "last": "GIULY",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lyon",
+     1994
+    ],
+    [
+     "Monaco",
+     1998
+    ],
+    [
+     "Barça",
+     2004
+    ],
+    [
+     "AS Roma",
+     2007
+    ],
+    [
+     "PSG",
+     2008
+    ],
+    [
+     "Monaco",
+     2011
+    ],
+    [
+     "Lorient",
+     2012
+    ],
+    [
+     "Grand Ouest Association Lyonnaise",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Ludovic GIULY - AS Monaco (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ludovic_GIULY_-_AS_Monaco_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ludovic_GIULY_-_AS_Monaco_%28cropped%29.jpg",
+    "artist": "Ludovic GIULY",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Ludovic GIULY · CC BY-SA 4.0",
+   "src": "Ludovic Giuly",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q703959",
+   "name": "Stéphane Dalmat",
+   "first": "STÉPHANE",
+   "last": "DALMAT",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "LB Châteauroux",
+     1997
+    ],
+    [
+     "Lens",
+     1998
+    ],
+    [
+     "Marseille",
+     1999
+    ],
+    [
+     "PSG",
+     2000
+    ],
+    [
+     "Inter",
+     2001
+    ],
+    [
+     "Tottenham Hotspur",
+     2003
+    ],
+    [
+     "Toulouse",
+     2004
+    ],
+    [
+     "Racing de Santander",
+     2005
+    ],
+    [
+     "Bordeaux",
+     2006
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2007
+    ],
+    [
+     "Rennes",
+     2010
+    ],
+    [
+     "Nîmes Olympique",
+     2012
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Dalmat.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dalmat.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dalmat.jpg/960px-Dalmat.jpg",
+    "artist": "S. Plaine",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : S. Plaine · CC BY-SA 3.0",
+   "src": "Stéphane Dalmat",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #016",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Dimitri Payet : Egghead06, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Payet_April_2016.jpeg)\n- Ludovic Giuly : Ludovic GIULY, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Ludovic_GIULY_-_AS_Monaco_(cropped).jpg)\n- Stéphane Dalmat : S. Plaine, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Dalmat.jpg)",
+ "answers": "Dimitri Payet, Ludovic Giuly, Stéphane Dalmat"
+}

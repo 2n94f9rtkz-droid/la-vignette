@@ -134,6 +134,15 @@
     "Florent Malouda",
     "Nolan Roux"
    ]
+  },
+  {
+   "num": 16,
+   "date": "2026-10-31",
+   "players": [
+    "Dimitri Payet",
+    "Ludovic Giuly",
+    "Stéphane Dalmat"
+   ]
   }
  ],
  "used": [
@@ -223,7 +232,13 @@
   "Nolan Roux",
   "Q209942",
   "Q1913",
-  "Q561020"
+  "Q561020",
+  "Dimitri Payet",
+  "Ludovic Giuly",
+  "Stéphane Dalmat",
+  "Q376247",
+  "Q219771",
+  "Q703959"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -247,6 +262,10 @@
   "Alexandre Lacazette": "parcours EN et FR différents",
   "Claude Makélélé": "parcours EN et FR différents",
   "Sidney Govou": "parcours EN et FR différents",
-  "Anthony Le Tallec": "parcours EN et FR différents"
+  "Anthony Le Tallec": "parcours EN et FR différents",
+  "Andrés Iniesta": "parcours trop court (3 clubs)",
+  "Eduardo Camavinga": "parcours trop court (2 clubs)",
+  "Randal Kolo Muani": "années EN et FR différentes",
+  "Adil Rami": "parcours EN et FR différents"
  }
 }
