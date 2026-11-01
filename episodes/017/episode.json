@@ -1,0 +1,163 @@
+{
+ "num": 17,
+ "date": "2026-11-01",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q3192187",
+   "name": "Kalidou Koulibaly",
+   "first": "KALIDOU",
+   "last": "KOULIBALY",
+   "pos": "DÉFENSEUR",
+   "nat": "SÉNÉGAL",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#F2C14E",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Metz",
+     2010
+    ],
+    [
+     "KRC Genk",
+     2012
+    ],
+    [
+     "Società Sportiva Napoli",
+     2014
+    ],
+    [
+     "Chelsea",
+     2022
+    ],
+    [
+     "Al-Hilal SFC",
+     2023
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Kalidou Koulibaly France v Senegal 16 June 2026-370 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_%28cropped%29.jpg/960px-Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_%28cropped%29.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Kalidou Koulibaly",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q78541955",
+   "name": "Georges Mikautadze",
+   "first": "GEORGES",
+   "last": "MIKAUTADZE",
+   "pos": "ATTAQUANT",
+   "nat": "GÉORGIE",
+   "flag": null,
+   "clubs": [
+    [
+     "Metz",
+     2019
+    ],
+    [
+     "RFC Seraing",
+     2020
+    ],
+    [
+     "Ajax Amsterdam",
+     2023
+    ],
+    [
+     "Metz",
+     2024
+    ],
+    [
+     "Lyon",
+     2024
+    ],
+    [
+     "Villarreal Club de Fútbol",
+     2025
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Mikautadze asse ol 2425.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Mikautadze_asse_ol_2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mikautadze_asse_ol_2425.png",
+    "artist": "Paté kroute",
+    "license": "CC0"
+   },
+   "credit": "Photo : Paté kroute · CC0",
+   "src": "Georges Mikautadze",
+   "raw": "p2_raw.png",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q360315",
+   "name": "Souleymane Diawara",
+   "first": "SOULEYMANE",
+   "last": "DIAWARA",
+   "pos": "DÉFENSEUR",
+   "nat": "SÉNÉGAL",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#F2C14E",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Le Havre",
+     1998
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2003
+    ],
+    [
+     "Charlton Athletic",
+     2006
+    ],
+    [
+     "Bordeaux",
+     2007
+    ],
+    [
+     "Marseille",
+     2009
+    ],
+    [
+     "Nice",
+     2014
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Souleymane Diawara 5337.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Souleymane_Diawara_5337.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Souleymane_Diawara_5337.jpg",
+    "artist": "Amarhgil",
+    "license": "Attribution"
+   },
+   "credit": "Photo : Amarhgil · Attribution",
+   "src": "Souleymane Diawara",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #017",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kalidou Koulibaly : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_(cropped).jpg)\n- Georges Mikautadze : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Mikautadze_asse_ol_2425.png)\n- Souleymane Diawara : Amarhgil, Attribution (https://commons.wikimedia.org/wiki/File:Souleymane_Diawara_5337.jpg)",
+ "answers": "Kalidou Koulibaly, Georges Mikautadze, Souleymane Diawara"
+}

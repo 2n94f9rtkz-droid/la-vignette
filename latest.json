@@ -1,137 +1,93 @@
 {
- "num": 16,
- "date": "2026-10-31",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #016",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Dimitri Payet : Egghead06, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Payet_April_2016.jpeg)\n- Ludovic Giuly : Ludovic GIULY, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Ludovic_GIULY_-_AS_Monaco_(cropped).jpg)\n- Stéphane Dalmat : S. Plaine, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Dalmat.jpg)",
- "answers": "Dimitri Payet, Ludovic Giuly, Stéphane Dalmat",
+ "num": 17,
+ "date": "2026-11-01",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #017",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kalidou Koulibaly : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_(cropped).jpg)\n- Georges Mikautadze : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Mikautadze_asse_ol_2425.png)\n- Souleymane Diawara : Amarhgil, Attribution (https://commons.wikimedia.org/wiki/File:Souleymane_Diawara_5337.jpg)",
+ "answers": "Kalidou Koulibaly, Georges Mikautadze, Souleymane Diawara",
  "players": [
   {
-   "name": "Dimitri Payet",
+   "name": "Kalidou Koulibaly",
    "clubs": [
     [
-     "AS Excelsior",
-     2004
+     "Metz",
+     2010
     ],
     [
-     "Nantes",
-     2005
+     "KRC Genk",
+     2012
     ],
     [
-     "Saint-Étienne",
-     2007
+     "Società Sportiva Napoli",
+     2014
     ],
     [
-     "Lille",
-     2011
+     "Chelsea",
+     2022
     ],
     [
-     "Marseille",
-     2013
-    ],
-    [
-     "West Ham",
-     2015
-    ],
-    [
-     "Marseille",
-     2017
-    ],
-    [
-     "CR Vasco da Gama",
+     "Al-Hilal SFC",
      2023
     ]
    ]
   },
   {
-   "name": "Ludovic Giuly",
+   "name": "Georges Mikautadze",
    "clubs": [
     [
+     "Metz",
+     2019
+    ],
+    [
+     "RFC Seraing",
+     2020
+    ],
+    [
+     "Ajax Amsterdam",
+     2023
+    ],
+    [
+     "Metz",
+     2024
+    ],
+    [
      "Lyon",
-     1994
+     2024
     ],
     [
-     "Monaco",
-     1998
-    ],
-    [
-     "Barça",
-     2004
-    ],
-    [
-     "AS Roma",
-     2007
-    ],
-    [
-     "PSG",
-     2008
-    ],
-    [
-     "Monaco",
-     2011
-    ],
-    [
-     "Lorient",
-     2012
-    ],
-    [
-     "Grand Ouest Association Lyonnaise",
-     2013
+     "Villarreal Club de Fútbol",
+     2025
     ]
    ]
   },
   {
-   "name": "Stéphane Dalmat",
+   "name": "Souleymane Diawara",
    "clubs": [
     [
-     "LB Châteauroux",
-     1997
-    ],
-    [
-     "Lens",
+     "Le Havre",
      1998
     ],
     [
-     "Marseille",
-     1999
-    ],
-    [
-     "PSG",
-     2000
-    ],
-    [
-     "Inter",
-     2001
-    ],
-    [
-     "Tottenham Hotspur",
+     "Sochaux-Montbéliard",
      2003
     ],
     [
-     "Toulouse",
-     2004
-    ],
-    [
-     "Racing de Santander",
-     2005
-    ],
-    [
-     "Bordeaux",
+     "Charlton Athletic",
      2006
     ],
     [
-     "Sochaux-Montbéliard",
+     "Bordeaux",
      2007
     ],
     [
-     "Rennes",
-     2010
+     "Marseille",
+     2009
     ],
     [
-     "Nîmes Olympique",
-     2012
+     "Nice",
+     2014
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-016.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-017.mp4"
 }

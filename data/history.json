@@ -143,6 +143,15 @@
     "Ludovic Giuly",
     "Stéphane Dalmat"
    ]
+  },
+  {
+   "num": 17,
+   "date": "2026-11-01",
+   "players": [
+    "Kalidou Koulibaly",
+    "Georges Mikautadze",
+    "Souleymane Diawara"
+   ]
   }
  ],
  "used": [
@@ -238,7 +247,13 @@
   "Stéphane Dalmat",
   "Q376247",
   "Q219771",
-  "Q703959"
+  "Q703959",
+  "Kalidou Koulibaly",
+  "Georges Mikautadze",
+  "Souleymane Diawara",
+  "Q3192187",
+  "Q78541955",
+  "Q360315"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
