@@ -1,0 +1,167 @@
+{
+ "num": 18,
+ "date": "2026-11-02",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q184586",
+   "name": "Gareth Bale",
+   "first": "GARETH",
+   "last": "BALE",
+   "pos": "MILIEU",
+   "nat": "PAYS DE GALLES",
+   "flag": null,
+   "clubs": [
+    [
+     "Southampton",
+     2006
+    ],
+    [
+     "Tottenham Hotspur",
+     2007
+    ],
+    [
+     "Real Madrid",
+     2013
+    ],
+    [
+     "Tottenham Hotspur",
+     2020
+    ],
+    [
+     "LAFC",
+     2022
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "2022 FIFA World Cup United States 1–1 Wales - (32) (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_(32)_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg",
+    "artist": "حسین ظهروند",
+    "license": "CC BY 4.0"
+   },
+   "credit": "Photo : حسین ظهروند · CC BY 4.0",
+   "src": "Gareth Bale",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q21484766",
+   "name": "Ademola Lookman Triplé",
+   "first": "ADEMOLA",
+   "last": "LOOKMAN TRIPLÉ",
+   "pos": "AILIER",
+   "nat": "ANGLETERRE",
+   "flag": [
+    "h",
+    [
+     "#FFFFFF",
+     "#D7263D",
+     "#FFFFFF"
+    ]
+   ],
+   "clubs": [
+    [
+     "Charlton Athletic",
+     2015
+    ],
+    [
+     "Everton",
+     2017
+    ],
+    [
+     "RB Leipzig",
+     2018
+    ],
+    [
+     "Fulham",
+     2020
+    ],
+    [
+     "Leicester City",
+     2021
+    ],
+    [
+     "Atalanta Bergame",
+     2022
+    ],
+    [
+     "Atlético",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "2019-10-23 Fußball, Männer, UEFA Champions League, RB Leipzig - FC Zenit St. Petersburg 1DX 2586 by Stepro.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2019-10-23_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_FC_Zenit_St._Petersburg_1DX_2586_by_Stepro.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2019-10-23_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_FC_Zenit_St._Petersburg_1DX_2586_by_Stepro.jpg/960px-2019-10-23_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_FC_Zenit_St._Petersburg_1DX_2586_by_Stepro.jpg",
+    "artist": "Steffen Prößdorf",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Steffen Prößdorf · CC BY-SA 4.0",
+   "src": "Ademola Lookman",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q1908",
+   "name": "Mathieu Debuchy",
+   "first": "MATHIEU",
+   "last": "DEBUCHY",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lille",
+     2003
+    ],
+    [
+     "Newcastle",
+     2013
+    ],
+    [
+     "Arsenal",
+     2014
+    ],
+    [
+     "Bordeaux",
+     2016
+    ],
+    [
+     "Saint-Étienne",
+     2018
+    ],
+    [
+     "Valenciennes",
+     2021
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Mathieu Debuchy, 2015-05-31.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Mathieu_Debuchy,_2015-05-31.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mathieu_Debuchy%2C_2015-05-31.JPG/960px-Mathieu_Debuchy%2C_2015-05-31.JPG",
+    "artist": "Ed g2s",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Ed g2s · CC BY-SA 4.0",
+   "src": "Mathieu Debuchy",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #018",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Gareth Bale : حسین ظهروند, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_(32)_(cropped).jpg)\n- Ademola Lookman Triplé : Steffen Prößdorf, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2019-10-23_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_FC_Zenit_St._Petersburg_1DX_2586_by_Stepro.jpg)\n- Mathieu Debuchy : Ed g2s, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mathieu_Debuchy,_2015-05-31.JPG)",
+ "answers": "Gareth Bale, Ademola Lookman Triplé, Mathieu Debuchy"
+}

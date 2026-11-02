@@ -152,6 +152,15 @@
     "Georges Mikautadze",
     "Souleymane Diawara"
    ]
+  },
+  {
+   "num": 18,
+   "date": "2026-11-02",
+   "players": [
+    "Gareth Bale",
+    "Ademola Lookman Triplé",
+    "Mathieu Debuchy"
+   ]
   }
  ],
  "used": [
@@ -253,7 +262,13 @@
   "Souleymane Diawara",
   "Q3192187",
   "Q78541955",
-  "Q360315"
+  "Q360315",
+  "Gareth Bale",
+  "Ademola Lookman",
+  "Mathieu Debuchy",
+  "Q184586",
+  "Q21484766",
+  "Q1908"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -281,6 +296,9 @@
   "Andrés Iniesta": "parcours trop court (3 clubs)",
   "Eduardo Camavinga": "parcours trop court (2 clubs)",
   "Randal Kolo Muani": "années EN et FR différentes",
-  "Adil Rami": "parcours EN et FR différents"
+  "Adil Rami": "parcours EN et FR différents",
+  "Nicolas Jackson": "parcours EN et FR différents",
+  "Radamel Falcao": "parcours EN et FR différents",
+  "Andy Delort": "parcours EN et FR différents"
  }
 }
