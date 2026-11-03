@@ -161,6 +161,15 @@
     "Ademola Lookman Triplé",
     "Mathieu Debuchy"
    ]
+  },
+  {
+   "num": 19,
+   "date": "2026-11-03",
+   "players": [
+    "Patrice Évra",
+    "Emmanuel Petit",
+    "Jérôme Leroy"
+   ]
   }
  ],
  "used": [
@@ -268,7 +277,13 @@
   "Mathieu Debuchy",
   "Q184586",
   "Q21484766",
-  "Q1908"
+  "Q1908",
+  "Patrice Evra",
+  "Emmanuel Petit",
+  "Jérôme Leroy",
+  "Q1916",
+  "Q269883",
+  "Q2383031"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -299,6 +314,8 @@
   "Adil Rami": "parcours EN et FR différents",
   "Nicolas Jackson": "parcours EN et FR différents",
   "Radamel Falcao": "parcours EN et FR différents",
-  "Andy Delort": "parcours EN et FR différents"
+  "Andy Delort": "parcours EN et FR différents",
+  "Jules Koundé": "parcours trop court (3 clubs)",
+  "Alassane Pléa": "parcours EN et FR différents"
  }
 }

@@ -1,97 +1,125 @@
 {
- "num": 18,
- "date": "2026-11-02",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #018",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Gareth Bale : حسین ظهروند, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_(32)_(cropped).jpg)\n- Ademola Lookman Triplé : Steffen Prößdorf, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2019-10-23_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_FC_Zenit_St._Petersburg_1DX_2586_by_Stepro.jpg)\n- Mathieu Debuchy : Ed g2s, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mathieu_Debuchy,_2015-05-31.JPG)",
- "answers": "Gareth Bale, Ademola Lookman Triplé, Mathieu Debuchy",
+ "num": 19,
+ "date": "2026-11-03",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #019",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Patrice Évra : Web Summit, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Patrice_Evra_(52472689279)_(cropped).jpg)\n- Emmanuel Petit : Christophe95, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Emmanuel_Petit.jpg)\n- Jérôme Leroy : Yannick Bouvard, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%B4me_Leroy.jpg)",
+ "answers": "Patrice Évra, Emmanuel Petit, Jérôme Leroy",
  "players": [
   {
-   "name": "Gareth Bale",
+   "name": "Patrice Évra",
    "clubs": [
     [
-     "Southampton",
+     "Marsala",
+     1998
+    ],
+    [
+     "AC Monza",
+     1999
+    ],
+    [
+     "Nice",
+     2000
+    ],
+    [
+     "Monaco",
+     2002
+    ],
+    [
+     "Man United",
      2006
     ],
     [
-     "Tottenham Hotspur",
-     2007
-    ],
-    [
-     "Real Madrid",
-     2013
-    ],
-    [
-     "Tottenham Hotspur",
-     2020
-    ],
-    [
-     "LAFC",
-     2022
-    ]
-   ]
-  },
-  {
-   "name": "Ademola Lookman Triplé",
-   "clubs": [
-    [
-     "Charlton Athletic",
-     2015
-    ],
-    [
-     "Everton",
-     2017
-    ],
-    [
-     "RB Leipzig",
-     2018
-    ],
-    [
-     "Fulham",
-     2020
-    ],
-    [
-     "Leicester City",
-     2021
-    ],
-    [
-     "Atalanta Bergame",
-     2022
-    ],
-    [
-     "Atlético",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Mathieu Debuchy",
-   "clubs": [
-    [
-     "Lille",
-     2003
-    ],
-    [
-     "Newcastle",
-     2013
-    ],
-    [
-     "Arsenal",
+     "Juventus",
      2014
     ],
     [
-     "Bordeaux",
-     2016
+     "Marseille",
+     2017
     ],
     [
-     "Saint-Étienne",
+     "West Ham",
      2018
+    ]
+   ]
+  },
+  {
+   "name": "Emmanuel Petit",
+   "clubs": [
+    [
+     "Monaco",
+     1988
     ],
     [
-     "Valenciennes",
-     2021
+     "Arsenal",
+     1997
+    ],
+    [
+     "Barça",
+     2000
+    ],
+    [
+     "Chelsea",
+     2001
+    ]
+   ]
+  },
+  {
+   "name": "Jérôme Leroy",
+   "clubs": [
+    [
+     "PSG",
+     1994
+    ],
+    [
+     "Stade Lavallois MFC",
+     1995
+    ],
+    [
+     "Marseille",
+     2000
+    ],
+    [
+     "PSG",
+     2002
+    ],
+    [
+     "Guingamp",
+     2003
+    ],
+    [
+     "Lens",
+     2004
+    ],
+    [
+     "Betar Jérusalem",
+     2006
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2006
+    ],
+    [
+     "Rennes",
+     2007
+    ],
+    [
+     "Thonon Évian Grand Genève",
+     2011
+    ],
+    [
+     "Istres",
+     2013
+    ],
+    [
+     "Le Havre",
+     2014
+    ],
+    [
+     "LB Châteauroux",
+     2015
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-018.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-019.mp4"
 }
