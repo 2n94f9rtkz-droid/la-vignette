@@ -1,0 +1,177 @@
+{
+ "num": 20,
+ "date": "2026-11-04",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q8338725",
+   "name": "Riyad Mahrez",
+   "first": "RIYAD",
+   "last": "MAHREZ",
+   "pos": "MILIEU",
+   "nat": "ALGÉRIE",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#FFFFFF"
+    ]
+   ],
+   "clubs": [
+    [
+     "Quimper Kerfeunteun",
+     2009
+    ],
+    [
+     "Le Havre",
+     2011
+    ],
+    [
+     "Leicester City",
+     2014
+    ],
+    [
+     "Man City",
+     2018
+    ],
+    [
+     "Al-Ahli",
+     2023
+    ],
+    [
+     "Al Shamal",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Mahrez 2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahrez_2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
+    "artist": "Jeanpierrekepseu",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Jeanpierrekepseu · CC BY-SA 4.0",
+   "src": "Riyad Mahrez",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q191080",
+   "name": "Seydou Keita",
+   "first": "SEYDOU",
+   "last": "KEITA",
+   "pos": "MILIEU",
+   "nat": "MALI",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#F2C14E",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Marseille",
+     1999
+    ],
+    [
+     "Lorient",
+     2000
+    ],
+    [
+     "Lens",
+     2002
+    ],
+    [
+     "Sevilla",
+     2007
+    ],
+    [
+     "Barça",
+     2008
+    ],
+    [
+     "Dalian Professional",
+     2012
+    ],
+    [
+     "Valence",
+     2014
+    ],
+    [
+     "AS Roma",
+     2014
+    ],
+    [
+     "Al Jaish",
+     2016
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Keita August 2008 Joan Gamper Trophy.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Keita_August_2008_Joan_Gamper_Trophy.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Keita_August_2008_Joan_Gamper_Trophy.jpg",
+    "artist": "Shay",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Shay · CC BY-SA 3.0",
+   "src": "Seydou Keita",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q462812",
+   "name": "Sammy Traoré",
+   "first": "SAMMY",
+   "last": "TRAORÉ",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "US Créteil-Lusitanos",
+     1994
+    ],
+    [
+     "Nice",
+     2002
+    ],
+    [
+     "PSG",
+     2006
+    ],
+    [
+     "Auxerre",
+     2007
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Sammy Traoré.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sammy_Traor%C3%A9.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sammy_Traor%C3%A9.jpg",
+    "artist": "PieRRoMaN",
+    "license": "CC BY-SA 1.0"
+   },
+   "credit": "Photo : PieRRoMaN · CC BY-SA 1.0",
+   "src": "Sammy Traoré",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #020",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Riyad Mahrez : Jeanpierrekepseu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mahrez_2021.jpg)\n- Seydou Keita : Shay, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Keita_August_2008_Joan_Gamper_Trophy.jpg)\n- Sammy Traoré : PieRRoMaN, CC BY-SA 1.0 (https://commons.wikimedia.org/wiki/File:Sammy_Traor%C3%A9.jpg)",
+ "answers": "Riyad Mahrez, Seydou Keita, Sammy Traoré"
+}

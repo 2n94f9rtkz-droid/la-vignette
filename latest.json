@@ -1,125 +1,101 @@
 {
- "num": 19,
- "date": "2026-11-03",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #019",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Patrice Évra : Web Summit, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Patrice_Evra_(52472689279)_(cropped).jpg)\n- Emmanuel Petit : Christophe95, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Emmanuel_Petit.jpg)\n- Jérôme Leroy : Yannick Bouvard, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%B4me_Leroy.jpg)",
- "answers": "Patrice Évra, Emmanuel Petit, Jérôme Leroy",
+ "num": 20,
+ "date": "2026-11-04",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #020",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Riyad Mahrez : Jeanpierrekepseu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mahrez_2021.jpg)\n- Seydou Keita : Shay, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Keita_August_2008_Joan_Gamper_Trophy.jpg)\n- Sammy Traoré : PieRRoMaN, CC BY-SA 1.0 (https://commons.wikimedia.org/wiki/File:Sammy_Traor%C3%A9.jpg)",
+ "answers": "Riyad Mahrez, Seydou Keita, Sammy Traoré",
  "players": [
   {
-   "name": "Patrice Évra",
+   "name": "Riyad Mahrez",
    "clubs": [
     [
-     "Marsala",
-     1998
-    ],
-    [
-     "AC Monza",
-     1999
-    ],
-    [
-     "Nice",
-     2000
-    ],
-    [
-     "Monaco",
-     2002
-    ],
-    [
-     "Man United",
-     2006
-    ],
-    [
-     "Juventus",
-     2014
-    ],
-    [
-     "Marseille",
-     2017
-    ],
-    [
-     "West Ham",
-     2018
-    ]
-   ]
-  },
-  {
-   "name": "Emmanuel Petit",
-   "clubs": [
-    [
-     "Monaco",
-     1988
-    ],
-    [
-     "Arsenal",
-     1997
-    ],
-    [
-     "Barça",
-     2000
-    ],
-    [
-     "Chelsea",
-     2001
-    ]
-   ]
-  },
-  {
-   "name": "Jérôme Leroy",
-   "clubs": [
-    [
-     "PSG",
-     1994
-    ],
-    [
-     "Stade Lavallois MFC",
-     1995
-    ],
-    [
-     "Marseille",
-     2000
-    ],
-    [
-     "PSG",
-     2002
-    ],
-    [
-     "Guingamp",
-     2003
-    ],
-    [
-     "Lens",
-     2004
-    ],
-    [
-     "Betar Jérusalem",
-     2006
-    ],
-    [
-     "Sochaux-Montbéliard",
-     2006
-    ],
-    [
-     "Rennes",
-     2007
-    ],
-    [
-     "Thonon Évian Grand Genève",
-     2011
-    ],
-    [
-     "Istres",
-     2013
+     "Quimper Kerfeunteun",
+     2009
     ],
     [
      "Le Havre",
+     2011
+    ],
+    [
+     "Leicester City",
      2014
     ],
     [
-     "LB Châteauroux",
-     2015
+     "Man City",
+     2018
+    ],
+    [
+     "Al-Ahli",
+     2023
+    ],
+    [
+     "Al Shamal",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Seydou Keita",
+   "clubs": [
+    [
+     "Marseille",
+     1999
+    ],
+    [
+     "Lorient",
+     2000
+    ],
+    [
+     "Lens",
+     2002
+    ],
+    [
+     "Sevilla",
+     2007
+    ],
+    [
+     "Barça",
+     2008
+    ],
+    [
+     "Dalian Professional",
+     2012
+    ],
+    [
+     "Valence",
+     2014
+    ],
+    [
+     "AS Roma",
+     2014
+    ],
+    [
+     "Al Jaish",
+     2016
+    ]
+   ]
+  },
+  {
+   "name": "Sammy Traoré",
+   "clubs": [
+    [
+     "US Créteil-Lusitanos",
+     1994
+    ],
+    [
+     "Nice",
+     2002
+    ],
+    [
+     "PSG",
+     2006
+    ],
+    [
+     "Auxerre",
+     2007
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-019.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-020.mp4"
 }
