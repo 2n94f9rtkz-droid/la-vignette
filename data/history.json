@@ -188,6 +188,15 @@
     "Gaël Clichy",
     "Rémy Cabella"
    ]
+  },
+  {
+   "num": 22,
+   "date": "2026-11-05",
+   "players": [
+    "Gianluigi Buffon",
+    "Steven Nzonzi",
+    "Vikash Dhorasoo"
+   ]
   }
  ],
  "used": [
@@ -313,7 +322,13 @@
   "Rémy Cabella",
   "Q1255625",
   "Q1929",
-  "Q716134"
+  "Q716134",
+  "Gianluigi Buffon",
+  "Steven Nzonzi",
+  "Vikash Dhorasoo",
+  "Q68060",
+  "Q442492",
+  "Q298338"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",

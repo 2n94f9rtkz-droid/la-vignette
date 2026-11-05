@@ -1,141 +1,117 @@
 {
- "num": 21,
+ "num": 22,
  "date": "2026-11-05",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #021",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Samuel Eto'o : BACHELOR45, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sammuel_Eto%27o_Fils_02.jpg)\n- Gaël Clichy : Stuart Grout from Manchester, UK, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Gael_Clichy,_Premier_League_parade_11-12_(cropped).jpg)\n- Rémy Cabella : Дмитрий Пукалик, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Remy_Cabella_2019.jpg)",
- "answers": "Samuel Eto'o, Gaël Clichy, Rémy Cabella",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #022",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Gianluigi Buffon : Original: Doha Stadium Plus Qatar from D, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Gianluigi_Buffon_(31784615942)_(cropped).jpg)\n- Steven Nzonzi : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Steven_Nzonzi_2018.jpg)\n- Vikash Dhorasoo : Manuel Menal, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Vikash_Dhorasoo_(cropped).jpg)",
+ "answers": "Gianluigi Buffon, Steven Nzonzi, Vikash Dhorasoo",
  "players": [
   {
-   "name": "Samuel Eto'o",
+   "name": "Gianluigi Buffon",
    "clubs": [
     [
-     "Real Madrid",
-     1997
+     "Parme",
+     1995
     ],
     [
-     "Club Deportivo Leganés",
-     1997
+     "Juventus",
+     2001
     ],
     [
-     "RCD Espanyol",
-     1999
-    ],
-    [
-     "RCD Majorque",
-     2000
-    ],
-    [
-     "Barça",
-     2004
-    ],
-    [
-     "Inter",
-     2009
-    ],
-    [
-     "Anji Makhatchkala",
-     2011
-    ],
-    [
-     "Chelsea",
-     2013
-    ],
-    [
-     "Everton",
-     2014
-    ],
-    [
-     "UC Sampdoria",
-     2015
-    ],
-    [
-     "Antalyaspor",
-     2015
-    ],
-    [
-     "Konyaspor",
+     "PSG",
      2018
     ],
     [
-     "Qatar Sports Club",
-     2018
-    ]
-   ]
-  },
-  {
-   "name": "Gaël Clichy",
-   "clubs": [
-    [
-     "AS Cannes",
-     2002
-    ],
-    [
-     "Arsenal",
-     2003
-    ],
-    [
-     "Man City",
-     2011
-    ],
-    [
-     "İstanbul BB",
-     2017
-    ],
-    [
-     "Servette",
-     2020
-    ]
-   ]
-  },
-  {
-   "name": "Rémy Cabella",
-   "clubs": [
-    [
-     "Montpellier",
-     2009
-    ],
-    [
-     "Athlétic Club arlésien",
-     2010
-    ],
-    [
-     "Newcastle",
-     2014
-    ],
-    [
-     "Marseille",
-     2015
-    ],
-    [
-     "Saint-Étienne",
-     2017
-    ],
-    [
-     "Krasnodar",
+     "Juventus",
      2019
     ],
     [
-     "Montpellier",
-     2022
+     "Parme",
+     2021
+    ]
+   ]
+  },
+  {
+   "name": "Steven Nzonzi",
+   "clubs": [
+    [
+     "Amiens",
+     2007
     ],
     [
-     "Lille",
-     2022
+     "Blackburn Rovers",
+     2009
     ],
     [
-     "Olympiakós",
+     "Stoke City",
+     2012
+    ],
+    [
+     "Sevilla",
+     2015
+    ],
+    [
+     "AS Roma",
+     2018
+    ],
+    [
+     "Galatasaray",
+     2019
+    ],
+    [
+     "Rennes",
+     2020
+    ],
+    [
+     "Al-Rayyan",
+     2021
+    ],
+    [
+     "Konyaspor",
+     2023
+    ],
+    [
+     "Sepahan Ispahan",
+     2024
+    ],
+    [
+     "Stoke City",
      2025
     ],
     [
-     "Nantes",
+     "USL Dunkerque",
      2026
+    ]
+   ]
+  },
+  {
+   "name": "Vikash Dhorasoo",
+   "clubs": [
+    [
+     "Le Havre",
+     1993
     ],
     [
-     "Vólos",
-     2026
+     "Lyon",
+     1998
+    ],
+    [
+     "Bordeaux",
+     2001
+    ],
+    [
+     "AC Milan",
+     2004
+    ],
+    [
+     "PSG",
+     2005
+    ],
+    [
+     "US Livourne",
+     2007
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-021.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-022.mp4"
 }
