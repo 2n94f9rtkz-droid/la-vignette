@@ -179,6 +179,15 @@
     "Seydou Keita",
     "Sammy Traoré"
    ]
+  },
+  {
+   "num": 21,
+   "date": "2026-11-05",
+   "players": [
+    "Samuel Eto'o",
+    "Gaël Clichy",
+    "Rémy Cabella"
+   ]
   }
  ],
  "used": [
@@ -298,7 +307,13 @@
   "Sammy Traoré",
   "Q8338725",
   "Q191080",
-  "Q462812"
+  "Q462812",
+  "Samuel Eto'o",
+  "Gaël Clichy",
+  "Rémy Cabella",
+  "Q1255625",
+  "Q1929",
+  "Q716134"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",

@@ -1,0 +1,218 @@
+{
+ "num": 21,
+ "date": "2026-11-05",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q1255625",
+   "name": "Samuel Eto'o",
+   "first": "SAMUEL",
+   "last": "ETO'O",
+   "pos": "ATTAQUANT",
+   "nat": "CAMEROUN",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#D7263D",
+     "#F2C14E"
+    ]
+   ],
+   "clubs": [
+    [
+     "Real Madrid",
+     1997
+    ],
+    [
+     "Club Deportivo Leganés",
+     1997
+    ],
+    [
+     "RCD Espanyol",
+     1999
+    ],
+    [
+     "RCD Majorque",
+     2000
+    ],
+    [
+     "Barça",
+     2004
+    ],
+    [
+     "Inter",
+     2009
+    ],
+    [
+     "Anji Makhatchkala",
+     2011
+    ],
+    [
+     "Chelsea",
+     2013
+    ],
+    [
+     "Everton",
+     2014
+    ],
+    [
+     "UC Sampdoria",
+     2015
+    ],
+    [
+     "Antalyaspor",
+     2015
+    ],
+    [
+     "Konyaspor",
+     2018
+    ],
+    [
+     "Qatar Sports Club",
+     2018
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Sammuel Eto'o Fils 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sammuel_Eto%27o_Fils_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sammuel_Eto%27o_Fils_02.jpg/960px-Sammuel_Eto%27o_Fils_02.jpg",
+    "artist": "BACHELOR45",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : BACHELOR45 · CC BY-SA 4.0",
+   "src": "Samuel Eto'o",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q1929",
+   "name": "Gaël Clichy",
+   "first": "GAËL",
+   "last": "CLICHY",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "AS Cannes",
+     2002
+    ],
+    [
+     "Arsenal",
+     2003
+    ],
+    [
+     "Man City",
+     2011
+    ],
+    [
+     "İstanbul BB",
+     2017
+    ],
+    [
+     "Servette",
+     2020
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Gael Clichy, Premier League parade 11-12 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gael_Clichy,_Premier_League_parade_11-12_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gael_Clichy%2C_Premier_League_parade_11-12_%28cropped%29.jpg/960px-Gael_Clichy%2C_Premier_League_parade_11-12_%28cropped%29.jpg",
+    "artist": "Stuart Grout from Manchester, UK",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : Stuart Grout from Manchester, UK · CC BY 2.0",
+   "src": "Gaël Clichy",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q716134",
+   "name": "Rémy Cabella",
+   "first": "RÉMY",
+   "last": "CABELLA",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Montpellier",
+     2009
+    ],
+    [
+     "Athlétic Club arlésien",
+     2010
+    ],
+    [
+     "Newcastle",
+     2014
+    ],
+    [
+     "Marseille",
+     2015
+    ],
+    [
+     "Saint-Étienne",
+     2017
+    ],
+    [
+     "Krasnodar",
+     2019
+    ],
+    [
+     "Montpellier",
+     2022
+    ],
+    [
+     "Lille",
+     2022
+    ],
+    [
+     "Olympiakós",
+     2025
+    ],
+    [
+     "Nantes",
+     2026
+    ],
+    [
+     "Vólos",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Remy Cabella 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Remy_Cabella_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Remy_Cabella_2019.jpg",
+    "artist": "Дмитрий Пукалик",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Дмитрий Пукалик · CC BY-SA 3.0",
+   "src": "Rémy Cabella",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #021",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Samuel Eto'o : BACHELOR45, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sammuel_Eto%27o_Fils_02.jpg)\n- Gaël Clichy : Stuart Grout from Manchester, UK, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Gael_Clichy,_Premier_League_parade_11-12_(cropped).jpg)\n- Rémy Cabella : Дмитрий Пукалик, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Remy_Cabella_2019.jpg)",
+ "answers": "Samuel Eto'o, Gaël Clichy, Rémy Cabella"
+}

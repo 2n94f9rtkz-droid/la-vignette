@@ -1,101 +1,141 @@
 {
- "num": 20,
- "date": "2026-11-04",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #020",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Riyad Mahrez : Jeanpierrekepseu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Mahrez_2021.jpg)\n- Seydou Keita : Shay, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Keita_August_2008_Joan_Gamper_Trophy.jpg)\n- Sammy Traoré : PieRRoMaN, CC BY-SA 1.0 (https://commons.wikimedia.org/wiki/File:Sammy_Traor%C3%A9.jpg)",
- "answers": "Riyad Mahrez, Seydou Keita, Sammy Traoré",
+ "num": 21,
+ "date": "2026-11-05",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #021",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Samuel Eto'o : BACHELOR45, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Sammuel_Eto%27o_Fils_02.jpg)\n- Gaël Clichy : Stuart Grout from Manchester, UK, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Gael_Clichy,_Premier_League_parade_11-12_(cropped).jpg)\n- Rémy Cabella : Дмитрий Пукалик, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Remy_Cabella_2019.jpg)",
+ "answers": "Samuel Eto'o, Gaël Clichy, Rémy Cabella",
  "players": [
   {
-   "name": "Riyad Mahrez",
+   "name": "Samuel Eto'o",
    "clubs": [
     [
-     "Quimper Kerfeunteun",
-     2009
+     "Real Madrid",
+     1997
     ],
     [
-     "Le Havre",
-     2011
+     "Club Deportivo Leganés",
+     1997
     ],
     [
-     "Leicester City",
-     2014
-    ],
-    [
-     "Man City",
-     2018
-    ],
-    [
-     "Al-Ahli",
-     2023
-    ],
-    [
-     "Al Shamal",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Seydou Keita",
-   "clubs": [
-    [
-     "Marseille",
+     "RCD Espanyol",
      1999
     ],
     [
-     "Lorient",
+     "RCD Majorque",
      2000
     ],
     [
-     "Lens",
-     2002
-    ],
-    [
-     "Sevilla",
-     2007
-    ],
-    [
      "Barça",
-     2008
+     2004
     ],
     [
-     "Dalian Professional",
-     2012
+     "Inter",
+     2009
     ],
     [
-     "Valence",
+     "Anji Makhatchkala",
+     2011
+    ],
+    [
+     "Chelsea",
+     2013
+    ],
+    [
+     "Everton",
      2014
     ],
     [
-     "AS Roma",
-     2014
+     "UC Sampdoria",
+     2015
     ],
     [
-     "Al Jaish",
-     2016
+     "Antalyaspor",
+     2015
+    ],
+    [
+     "Konyaspor",
+     2018
+    ],
+    [
+     "Qatar Sports Club",
+     2018
     ]
    ]
   },
   {
-   "name": "Sammy Traoré",
+   "name": "Gaël Clichy",
    "clubs": [
     [
-     "US Créteil-Lusitanos",
-     1994
-    ],
-    [
-     "Nice",
+     "AS Cannes",
      2002
     ],
     [
-     "PSG",
-     2006
+     "Arsenal",
+     2003
     ],
     [
-     "Auxerre",
-     2007
+     "Man City",
+     2011
+    ],
+    [
+     "İstanbul BB",
+     2017
+    ],
+    [
+     "Servette",
+     2020
+    ]
+   ]
+  },
+  {
+   "name": "Rémy Cabella",
+   "clubs": [
+    [
+     "Montpellier",
+     2009
+    ],
+    [
+     "Athlétic Club arlésien",
+     2010
+    ],
+    [
+     "Newcastle",
+     2014
+    ],
+    [
+     "Marseille",
+     2015
+    ],
+    [
+     "Saint-Étienne",
+     2017
+    ],
+    [
+     "Krasnodar",
+     2019
+    ],
+    [
+     "Montpellier",
+     2022
+    ],
+    [
+     "Lille",
+     2022
+    ],
+    [
+     "Olympiakós",
+     2025
+    ],
+    [
+     "Nantes",
+     2026
+    ],
+    [
+     "Vólos",
+     2026
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-020.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-021.mp4"
 }
