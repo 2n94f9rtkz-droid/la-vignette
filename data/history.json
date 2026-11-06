@@ -197,6 +197,15 @@
     "Steven Nzonzi",
     "Vikash Dhorasoo"
    ]
+  },
+  {
+   "num": 23,
+   "date": "2026-11-06",
+   "players": [
+    "Neal Maupay",
+    "Bixente Lizarazu",
+    "Sébastien Squillaci"
+   ]
   }
  ],
  "used": [
@@ -328,7 +337,13 @@
   "Vikash Dhorasoo",
   "Q68060",
   "Q442492",
-  "Q298338"
+  "Q298338",
+  "Neal Maupay",
+  "Bixente Lizarazu",
+  "Sébastien Squillaci",
+  "Q1101455",
+  "Q44073",
+  "Q1942"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",

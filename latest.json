@@ -1,117 +1,109 @@
 {
- "num": 22,
- "date": "2026-11-05",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #022",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Gianluigi Buffon : Original: Doha Stadium Plus Qatar from D, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Gianluigi_Buffon_(31784615942)_(cropped).jpg)\n- Steven Nzonzi : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Steven_Nzonzi_2018.jpg)\n- Vikash Dhorasoo : Manuel Menal, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Vikash_Dhorasoo_(cropped).jpg)",
- "answers": "Gianluigi Buffon, Steven Nzonzi, Vikash Dhorasoo",
+ "num": 23,
+ "date": "2026-11-06",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #023",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Neal Maupay : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Maupay_asse_om_2425.png)\n- Bixente Lizarazu : Oscar Alonso Algote, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Bixente_Lizarazu_(cropped).jpg)\n- Sébastien Squillaci : Ronnie Macdonald, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg)",
+ "answers": "Neal Maupay, Bixente Lizarazu, Sébastien Squillaci",
  "players": [
   {
-   "name": "Gianluigi Buffon",
+   "name": "Neal Maupay",
    "clubs": [
     [
-     "Parme",
-     1995
-    ],
-    [
-     "Juventus",
-     2001
-    ],
-    [
-     "PSG",
-     2018
-    ],
-    [
-     "Juventus",
-     2019
-    ],
-    [
-     "Parme",
-     2021
-    ]
-   ]
-  },
-  {
-   "name": "Steven Nzonzi",
-   "clubs": [
-    [
-     "Amiens",
-     2007
-    ],
-    [
-     "Blackburn Rovers",
-     2009
-    ],
-    [
-     "Stoke City",
+     "Nice",
      2012
     ],
     [
-     "Sevilla",
+     "Saint-Étienne",
      2015
     ],
     [
-     "AS Roma",
-     2018
+     "Brest",
+     2016
     ],
     [
-     "Galatasaray",
+     "Brentford",
+     2017
+    ],
+    [
+     "Brighton & Hove",
      2019
     ],
     [
-     "Rennes",
-     2020
+     "Everton",
+     2022
     ],
     [
-     "Al-Rayyan",
-     2021
-    ],
-    [
-     "Konyaspor",
+     "Brentford",
      2023
     ],
     [
-     "Sepahan Ispahan",
+     "Marseille",
      2024
     ],
     [
-     "Stoke City",
-     2025
-    ],
-    [
-     "USL Dunkerque",
+     "Sevilla",
      2026
     ]
    ]
   },
   {
-   "name": "Vikash Dhorasoo",
+   "name": "Bixente Lizarazu",
    "clubs": [
     [
-     "Le Havre",
-     1993
-    ],
-    [
-     "Lyon",
-     1998
-    ],
-    [
      "Bordeaux",
-     2001
+     1988
     ],
     [
-     "AC Milan",
+     "Athletic Bilbao",
+     1996
+    ],
+    [
+     "Bayern",
+     1997
+    ],
+    [
+     "Marseille",
      2004
     ],
     [
-     "PSG",
+     "Bayern",
      2005
+    ]
+   ]
+  },
+  {
+   "name": "Sébastien Squillaci",
+   "clubs": [
+    [
+     "Toulon",
+     1997
     ],
     [
-     "US Livourne",
-     2007
+     "Monaco",
+     1998
+    ],
+    [
+     "Athletic club ajaccien",
+     2000
+    ],
+    [
+     "Lyon",
+     2006
+    ],
+    [
+     "Sevilla",
+     2008
+    ],
+    [
+     "Arsenal",
+     2010
+    ],
+    [
+     "Bastia",
+     2013
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-022.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-023.mp4"
 }

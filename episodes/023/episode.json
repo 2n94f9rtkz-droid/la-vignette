@@ -1,0 +1,186 @@
+{
+ "num": 23,
+ "date": "2026-11-06",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q1101455",
+   "name": "Neal Maupay",
+   "first": "NEAL",
+   "last": "MAUPAY",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Nice",
+     2012
+    ],
+    [
+     "Saint-Étienne",
+     2015
+    ],
+    [
+     "Brest",
+     2016
+    ],
+    [
+     "Brentford",
+     2017
+    ],
+    [
+     "Brighton & Hove",
+     2019
+    ],
+    [
+     "Everton",
+     2022
+    ],
+    [
+     "Brentford",
+     2023
+    ],
+    [
+     "Marseille",
+     2024
+    ],
+    [
+     "Sevilla",
+     2026
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Maupay asse om 2425.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Maupay_asse_om_2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Maupay_asse_om_2425.png",
+    "artist": "Paté kroute",
+    "license": "CC0"
+   },
+   "credit": "Photo : Paté kroute · CC0",
+   "src": "Neal Maupay",
+   "raw": "p1_raw.png",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q44073",
+   "name": "Bixente Lizarazu",
+   "first": "BIXENTE",
+   "last": "LIZARAZU",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Bordeaux",
+     1988
+    ],
+    [
+     "Athletic Bilbao",
+     1996
+    ],
+    [
+     "Bayern",
+     1997
+    ],
+    [
+     "Marseille",
+     2004
+    ],
+    [
+     "Bayern",
+     2005
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Bixente Lizarazu (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bixente_Lizarazu_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bixente_Lizarazu_%28cropped%29.jpg/960px-Bixente_Lizarazu_%28cropped%29.jpg",
+    "artist": "Oscar Alonso Algote",
+    "license": "CC BY-SA 2.0"
+   },
+   "credit": "Photo : Oscar Alonso Algote · CC BY-SA 2.0",
+   "src": "Bixente Lizarazu",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q1942",
+   "name": "Sébastien Squillaci",
+   "first": "SÉBASTIEN",
+   "last": "SQUILLACI",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Toulon",
+     1997
+    ],
+    [
+     "Monaco",
+     1998
+    ],
+    [
+     "Athletic club ajaccien",
+     2000
+    ],
+    [
+     "Lyon",
+     2006
+    ],
+    [
+     "Sevilla",
+     2008
+    ],
+    [
+     "Arsenal",
+     2010
+    ],
+    [
+     "Bastia",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Sebastien Squillaci Arsenal vs Birmingham 2010-11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg/960px-Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg",
+    "artist": "Ronnie Macdonald",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : Ronnie Macdonald · CC BY 2.0",
+   "src": "Sébastien Squillaci",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #023",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Neal Maupay : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Maupay_asse_om_2425.png)\n- Bixente Lizarazu : Oscar Alonso Algote, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Bixente_Lizarazu_(cropped).jpg)\n- Sébastien Squillaci : Ronnie Macdonald, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg)",
+ "answers": "Neal Maupay, Bixente Lizarazu, Sébastien Squillaci"
+}
