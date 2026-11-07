@@ -1,109 +1,121 @@
 {
- "num": 23,
- "date": "2026-11-06",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #023",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Neal Maupay : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Maupay_asse_om_2425.png)\n- Bixente Lizarazu : Oscar Alonso Algote, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:Bixente_Lizarazu_(cropped).jpg)\n- Sébastien Squillaci : Ronnie Macdonald, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Sebastien_Squillaci_Arsenal_vs_Birmingham_2010-11.jpg)",
- "answers": "Neal Maupay, Bixente Lizarazu, Sébastien Squillaci",
+ "num": 24,
+ "date": "2026-11-07",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #024",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Romelu Lukaku : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_Belgium_v_USA_6_July_2026-038.jpg)\n- Mohamed Bayo : Fédération Guinéenne Football, Public domain (https://commons.wikimedia.org/wiki/File:Mohamed_Bayo3.jpg)\n- Mamadou Samassa : Ciscouf, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Mamadou_Samassa.jpg)",
+ "answers": "Romelu Lukaku, Mohamed Bayo, Mamadou Samassa",
  "players": [
   {
-   "name": "Neal Maupay",
+   "name": "Romelu Lukaku",
    "clubs": [
     [
-     "Nice",
+     "Anderlecht",
+     2009
+    ],
+    [
+     "Chelsea",
+     2011
+    ],
+    [
+     "West Brom",
      2012
     ],
     [
-     "Saint-Étienne",
-     2015
+     "Everton",
+     2013
     ],
     [
-     "Brest",
-     2016
-    ],
-    [
-     "Brentford",
+     "Man United",
      2017
     ],
     [
-     "Brighton & Hove",
+     "Inter",
      2019
     ],
     [
-     "Everton",
+     "Chelsea",
+     2021
+    ],
+    [
+     "Inter",
      2022
     ],
     [
-     "Brentford",
+     "AS Roma",
      2023
     ],
     [
-     "Marseille",
+     "Società Sportiva Napoli",
      2024
     ],
     [
-     "Sevilla",
+     "Fenerbahçe",
      2026
     ]
    ]
   },
   {
-   "name": "Bixente Lizarazu",
+   "name": "Mohamed Bayo",
    "clubs": [
     [
-     "Bordeaux",
-     1988
+     "Clermont Foot 63",
+     2018
     ],
     [
-     "Athletic Bilbao",
-     1996
+     "USL Dunkerque",
+     2019
     ],
     [
-     "Bayern",
-     1997
+     "Lille",
+     2022
     ],
     [
-     "Marseille",
-     2004
+     "Le Havre",
+     2023
     ],
     [
-     "Bayern",
-     2005
+     "Royal Antwerp",
+     2025
+    ],
+    [
+     "Gaziantep Büyükşehir Belediyespor",
+     2025
+    ],
+    [
+     "Samsunspor",
+     2026
     ]
    ]
   },
   {
-   "name": "Sébastien Squillaci",
+   "name": "Mamadou Samassa",
    "clubs": [
     [
-     "Toulon",
-     1997
+     "Guingamp",
+     2009
     ],
     [
-     "Monaco",
-     1998
+     "ES Troyes AC",
+     2016
     ],
     [
-     "Athletic club ajaccien",
-     2000
+     "Sivasspor",
+     2019
     ],
     [
-     "Lyon",
-     2006
+     "APO Levadiakos",
+     2021
     ],
     [
-     "Sevilla",
-     2008
+     "Pahang FA",
+     2022
     ],
     [
-     "Arsenal",
-     2010
-    ],
-    [
-     "Bastia",
-     2013
+     "Stade Lavallois MFC",
+     2023
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-023.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-024.mp4"
 }

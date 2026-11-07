@@ -206,6 +206,15 @@
     "Bixente Lizarazu",
     "Sébastien Squillaci"
    ]
+  },
+  {
+   "num": 24,
+   "date": "2026-11-07",
+   "players": [
+    "Romelu Lukaku",
+    "Mohamed Bayo",
+    "Mamadou Samassa"
+   ]
   }
  ],
  "used": [
@@ -343,7 +352,13 @@
   "Sébastien Squillaci",
   "Q1101455",
   "Q44073",
-  "Q1942"
+  "Q1942",
+  "Romelu Lukaku",
+  "Mohamed Bayo",
+  "Mamadou Samassa",
+  "Q313316",
+  "Q55819463",
+  "Q2944686"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -377,6 +392,9 @@
   "Andy Delort": "parcours EN et FR différents",
   "Jules Koundé": "parcours trop court (3 clubs)",
   "Alassane Pléa": "parcours EN et FR différents",
-  "Dimitri Liénard": "pas de photo libre"
+  "Dimitri Liénard": "pas de photo libre",
+  "Mathieu Valbuena": "parcours EN et FR différents",
+  "Benjamin Moukandjo": "parcours EN et FR différents",
+  "Yohan Mollo": "infobox EN illisible"
  }
 }
