@@ -1,121 +1,129 @@
 {
- "num": 24,
- "date": "2026-11-07",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #024",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Romelu Lukaku : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_Belgium_v_USA_6_July_2026-038.jpg)\n- Mohamed Bayo : Fédération Guinéenne Football, Public domain (https://commons.wikimedia.org/wiki/File:Mohamed_Bayo3.jpg)\n- Mamadou Samassa : Ciscouf, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Mamadou_Samassa.jpg)",
- "answers": "Romelu Lukaku, Mohamed Bayo, Mamadou Samassa",
+ "num": 25,
+ "date": "2026-11-08",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #025",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Pierre-Emerick Aubameyang : Chensiyuan, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:1_Pierre-Emerick_Aubameyang_(cropped).jpg)\n- Moussa Sow : Екатерина Лаут, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Moussa_Sow.jpg)\n- Kévin Monnet-Paquet : User Kermaguer on Flickr : https://www.f, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:FC_Lorient_2010-2011_-_K%C3%A9vin_Monnet-Paquet.jpg)",
+ "answers": "Pierre-Emerick Aubameyang, Moussa Sow, Kévin Monnet-Paquet",
  "players": [
   {
-   "name": "Romelu Lukaku",
+   "name": "Pierre-Emerick Aubameyang",
    "clubs": [
     [
-     "Anderlecht",
-     2009
+     "AC Milan",
+     2008
     ],
     [
-     "Chelsea",
-     2011
-    ],
-    [
-     "West Brom",
-     2012
-    ],
-    [
-     "Everton",
-     2013
-    ],
-    [
-     "Man United",
-     2017
-    ],
-    [
-     "Inter",
-     2019
-    ],
-    [
-     "Chelsea",
-     2021
-    ],
-    [
-     "Inter",
-     2022
-    ],
-    [
-     "AS Roma",
-     2023
-    ],
-    [
-     "Società Sportiva Napoli",
-     2024
-    ],
-    [
-     "Fenerbahçe",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Mohamed Bayo",
-   "clubs": [
-    [
-     "Clermont Foot 63",
-     2018
-    ],
-    [
-     "USL Dunkerque",
-     2019
+     "Dijon FCO",
+     2008
     ],
     [
      "Lille",
+     2009
+    ],
+    [
+     "Monaco",
+     2010
+    ],
+    [
+     "Saint-Étienne",
+     2011
+    ],
+    [
+     "BV 09 Borussia Dortmund",
+     2013
+    ],
+    [
+     "Arsenal",
+     2018
+    ],
+    [
+     "Barça",
      2022
     ],
     [
-     "Le Havre",
+     "Chelsea",
+     2022
+    ],
+    [
+     "Marseille",
      2023
     ],
     [
-     "Royal Antwerp",
+     "Al-Qadsiah",
+     2024
+    ],
+    [
+     "Marseille",
      2025
     ],
     [
-     "Gaziantep Büyükşehir Belediyespor",
-     2025
-    ],
-    [
-     "Samsunspor",
+     "portivo LC",
      2026
     ]
    ]
   },
   {
-   "name": "Mamadou Samassa",
+   "name": "Moussa Sow",
    "clubs": [
     [
-     "Guingamp",
-     2009
+     "Rennes",
+     2004
     ],
     [
-     "ES Troyes AC",
+     "CS Sedan Ardennes",
+     2007
+    ],
+    [
+     "Lille",
+     2010
+    ],
+    [
+     "Fenerbahçe",
+     2012
+    ],
+    [
+     "Al-Ahli Dubaï",
+     2015
+    ],
+    [
+     "Fenerbahçe",
      2016
     ],
     [
-     "Sivasspor",
+     "Bursaspor",
+     2018
+    ],
+    [
+     "Gaziantep Büyükşehir Belediyespor",
      2019
     ],
     [
-     "APO Levadiakos",
+     "Ümraniyespor",
+     2020
+    ]
+   ]
+  },
+  {
+   "name": "Kévin Monnet-Paquet",
+   "clubs": [
+    [
+     "Lens",
+     2006
+    ],
+    [
+     "Lorient",
+     2010
+    ],
+    [
+     "Saint-Étienne",
+     2014
+    ],
+    [
+     "Aris Limassol",
      2021
-    ],
-    [
-     "Pahang FA",
-     2022
-    ],
-    [
-     "Stade Lavallois MFC",
-     2023
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-024.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-025.mp4"
 }

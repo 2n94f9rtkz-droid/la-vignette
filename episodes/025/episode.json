@@ -1,0 +1,206 @@
+{
+ "num": 25,
+ "date": "2026-11-08",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q44977",
+   "name": "Pierre-Emerick Aubameyang",
+   "first": "PIERRE-EMERICK",
+   "last": "AUBAMEYANG",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "AC Milan",
+     2008
+    ],
+    [
+     "Dijon FCO",
+     2008
+    ],
+    [
+     "Lille",
+     2009
+    ],
+    [
+     "Monaco",
+     2010
+    ],
+    [
+     "Saint-Étienne",
+     2011
+    ],
+    [
+     "BV 09 Borussia Dortmund",
+     2013
+    ],
+    [
+     "Arsenal",
+     2018
+    ],
+    [
+     "Barça",
+     2022
+    ],
+    [
+     "Chelsea",
+     2022
+    ],
+    [
+     "Marseille",
+     2023
+    ],
+    [
+     "Al-Qadsiah",
+     2024
+    ],
+    [
+     "Marseille",
+     2025
+    ],
+    [
+     "portivo LC",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "1 Pierre-Emerick Aubameyang (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1_Pierre-Emerick_Aubameyang_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/1_Pierre-Emerick_Aubameyang_%28cropped%29.jpg/960px-1_Pierre-Emerick_Aubameyang_%28cropped%29.jpg",
+    "artist": "Chensiyuan",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Chensiyuan · CC BY-SA 4.0",
+   "src": "Pierre-Emerick Aubameyang",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q314373",
+   "name": "Moussa Sow",
+   "first": "MOUSSA",
+   "last": "SOW",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Rennes",
+     2004
+    ],
+    [
+     "CS Sedan Ardennes",
+     2007
+    ],
+    [
+     "Lille",
+     2010
+    ],
+    [
+     "Fenerbahçe",
+     2012
+    ],
+    [
+     "Al-Ahli Dubaï",
+     2015
+    ],
+    [
+     "Fenerbahçe",
+     2016
+    ],
+    [
+     "Bursaspor",
+     2018
+    ],
+    [
+     "Gaziantep Büyükşehir Belediyespor",
+     2019
+    ],
+    [
+     "Ümraniyespor",
+     2020
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Moussa Sow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moussa_Sow.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Moussa_Sow.jpg",
+    "artist": "Екатерина Лаут",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Екатерина Лаут · CC BY-SA 3.0",
+   "src": "Moussa Sow",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q568977",
+   "name": "Kévin Monnet-Paquet",
+   "first": "KÉVIN",
+   "last": "MONNET-PAQUET",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lens",
+     2006
+    ],
+    [
+     "Lorient",
+     2010
+    ],
+    [
+     "Saint-Étienne",
+     2014
+    ],
+    [
+     "Aris Limassol",
+     2021
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "FC Lorient 2010-2011 - Kévin Monnet-Paquet.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FC_Lorient_2010-2011_-_K%C3%A9vin_Monnet-Paquet.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FC_Lorient_2010-2011_-_K%C3%A9vin_Monnet-Paquet.jpg",
+    "artist": "User Kermaguer on Flickr : https://www.f",
+    "license": "CC BY-SA 2.0"
+   },
+   "credit": "Photo : User Kermaguer on Flickr : https://www.f · CC BY-SA 2.0",
+   "src": "Kévin Monnet-Paquet",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #025",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Pierre-Emerick Aubameyang : Chensiyuan, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:1_Pierre-Emerick_Aubameyang_(cropped).jpg)\n- Moussa Sow : Екатерина Лаут, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Moussa_Sow.jpg)\n- Kévin Monnet-Paquet : User Kermaguer on Flickr : https://www.f, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:FC_Lorient_2010-2011_-_K%C3%A9vin_Monnet-Paquet.jpg)",
+ "answers": "Pierre-Emerick Aubameyang, Moussa Sow, Kévin Monnet-Paquet"
+}

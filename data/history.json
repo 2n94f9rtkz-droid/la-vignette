@@ -215,6 +215,15 @@
     "Mohamed Bayo",
     "Mamadou Samassa"
    ]
+  },
+  {
+   "num": 25,
+   "date": "2026-11-08",
+   "players": [
+    "Pierre-Emerick Aubameyang",
+    "Moussa Sow",
+    "Kévin Monnet-Paquet"
+   ]
   }
  ],
  "used": [
@@ -358,7 +367,13 @@
   "Mamadou Samassa",
   "Q313316",
   "Q55819463",
-  "Q2944686"
+  "Q2944686",
+  "Pierre-Emerick Aubameyang",
+  "Moussa Sow",
+  "Kévin Monnet-Paquet",
+  "Q44977",
+  "Q314373",
+  "Q568977"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -395,6 +410,7 @@
   "Dimitri Liénard": "pas de photo libre",
   "Mathieu Valbuena": "parcours EN et FR différents",
   "Benjamin Moukandjo": "parcours EN et FR différents",
-  "Yohan Mollo": "infobox EN illisible"
+  "Yohan Mollo": "infobox EN illisible",
+  "Robert Lewandowski": "infobox EN illisible"
  }
 }
