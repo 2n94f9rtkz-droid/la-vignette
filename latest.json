@@ -1,105 +1,109 @@
 {
- "num": 31,
+ "num": 32,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #031",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Zinedine Zidane : Hadi Abyar, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg)\n- Terem Moffi : Sese le Merlu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Terem_Moffi.jpg)\n- Jérémie Bréchet : Lempkesfabriek, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%A9mie_Br%C3%A9che.jpg)",
- "answers": "Zinedine Zidane, Terem Moffi, Jérémie Bréchet",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #032",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kevin De Bruyne : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg)\n- Arnaud Kalimuendo : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Kalimuendo_asse_srfc_2425.png)\n- Cheick Diabaté : Mehdi Zare/Fars, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Persepolis_vs_Zob_Ahan_20_Jan_2023_03.jpg)",
+ "answers": "Kevin De Bruyne, Arnaud Kalimuendo, Cheick Diabaté",
  "players": [
   {
-   "name": "Zinedine Zidane",
+   "name": "Kevin De Bruyne",
    "clubs": [
     [
-     "AS Cannes",
-     1989
-    ],
-    [
-     "Bordeaux",
-     1992
-    ],
-    [
-     "Juventus",
-     1996
-    ],
-    [
-     "Real Madrid",
-     2001
-    ]
-   ]
-  },
-  {
-   "name": "Terem Moffi",
-   "clubs": [
-    [
-     "Spyris Kaunas",
-     2017
-    ],
-    [
-     "Riteriai",
-     2019
-    ],
-    [
-     "KV Courtrai",
-     2020
-    ],
-    [
-     "Lorient",
-     2020
-    ],
-    [
-     "Nice",
-     2023
-    ],
-    [
-     "Futebol Clube do Porto",
-     2026
-    ],
-    [
-     "Hambourg",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Jérémie Bréchet",
-   "clubs": [
-    [
-     "Lyon",
-     1998
-    ],
-    [
-     "Inter",
-     2003
-    ],
-    [
-     "Real Sociedad",
-     2004
-    ],
-    [
-     "Sochaux-Montbéliard",
-     2006
-    ],
-    [
-     "PSV",
+     "KRC Genk",
      2008
     ],
     [
-     "Sochaux-Montbéliard",
-     2009
-    ],
-    [
-     "ES Troyes AC",
+     "Chelsea",
      2012
     ],
     [
-     "Bordeaux",
-     2013
+     "Werder Brême",
+     2012
     ],
     [
-     "Gazélec Ajaccio",
+     "Wolfsburg",
      2014
+    ],
+    [
+     "Man City",
+     2015
+    ],
+    [
+     "Società Sportiva Napoli",
+     2025
+    ]
+   ]
+  },
+  {
+   "name": "Arnaud Kalimuendo",
+   "clubs": [
+    [
+     "PSG",
+     2020
+    ],
+    [
+     "Lens",
+     2020
+    ],
+    [
+     "Rennes",
+     2022
+    ],
+    [
+     "Nottingham Forest",
+     2025
+    ],
+    [
+     "Eintracht Francfort",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Cheick Diabaté",
+   "clubs": [
+    [
+     "Bordeaux",
+     2008
+    ],
+    [
+     "Athletic club ajaccien",
+     2008
+    ],
+    [
+     "Nancy",
+     2009
+    ],
+    [
+     "Ankaraspor",
+     2016
+    ],
+    [
+     "Metz",
+     2017
+    ],
+    [
+     "Bénévent",
+     2018
+    ],
+    [
+     "Emirates Club",
+     2018
+    ],
+    [
+     "Esteghlal",
+     2019
+    ],
+    [
+     "Al-Gharafa Sports Club",
+     2021
+    ],
+    [
+     "Persépolis",
+     2022
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-031.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-032.mp4"
 }

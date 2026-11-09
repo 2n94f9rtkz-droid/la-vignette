@@ -278,6 +278,15 @@
     "Terem Moffi",
     "Jérémie Bréchet"
    ]
+  },
+  {
+   "num": 32,
+   "date": "2026-11-09",
+   "players": [
+    "Kevin De Bruyne",
+    "Arnaud Kalimuendo",
+    "Cheick Diabaté"
+   ]
   }
  ],
  "used": [
@@ -463,7 +472,13 @@
   "Jérémie Bréchet",
   "Q1835",
   "Q65261290",
-  "Q60530"
+  "Q60530",
+  "Kevin De Bruyne",
+  "Arnaud Kalimuendo",
+  "Cheick Diabaté",
+  "Q357984",
+  "Q70068408",
+  "Q31744"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
