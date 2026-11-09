@@ -1,101 +1,105 @@
 {
- "num": 30,
+ "num": 31,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #030",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Marcus Thuram : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg)\n- Memphis Depay : Derivative work: Joe Sins, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Memphis_Depay_2019.jpg)\n- Modeste Mbami : Якушкин Иван, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Modeste_M%27bami.jpg)",
- "answers": "Marcus Thuram, Memphis Depay, Modeste Mbami",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #031",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Zinedine Zidane : Hadi Abyar, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg)\n- Terem Moffi : Sese le Merlu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Terem_Moffi.jpg)\n- Jérémie Bréchet : Lempkesfabriek, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%A9mie_Br%C3%A9che.jpg)",
+ "answers": "Zinedine Zidane, Terem Moffi, Jérémie Bréchet",
  "players": [
   {
-   "name": "Marcus Thuram",
+   "name": "Zinedine Zidane",
    "clubs": [
     [
-     "Sochaux-Montbéliard",
-     2015
+     "AS Cannes",
+     1989
     ],
     [
-     "Guingamp",
+     "Bordeaux",
+     1992
+    ],
+    [
+     "Juventus",
+     1996
+    ],
+    [
+     "Real Madrid",
+     2001
+    ]
+   ]
+  },
+  {
+   "name": "Terem Moffi",
+   "clubs": [
+    [
+     "Spyris Kaunas",
      2017
     ],
     [
-     "Borussia Mönchengladbach",
+     "Riteriai",
      2019
     ],
     [
-     "Inter",
+     "KV Courtrai",
+     2020
+    ],
+    [
+     "Lorient",
+     2020
+    ],
+    [
+     "Nice",
      2023
+    ],
+    [
+     "Futebol Clube do Porto",
+     2026
+    ],
+    [
+     "Hambourg",
+     2026
     ]
    ]
   },
   {
-   "name": "Memphis Depay",
+   "name": "Jérémie Bréchet",
    "clubs": [
-    [
-     "PSV",
-     2011
-    ],
-    [
-     "Man United",
-     2015
-    ],
     [
      "Lyon",
-     2017
+     1998
     ],
     [
-     "Barça",
-     2021
-    ],
-    [
-     "Atlético",
-     2023
-    ],
-    [
-     "Corinthians Paulista",
-     2024
-    ]
-   ]
-  },
-  {
-   "name": "Modeste Mbami",
-   "clubs": [
-    [
-     "CS Sedan Ardennes",
-     2000
-    ],
-    [
-     "PSG",
+     "Inter",
      2003
     ],
     [
-     "Marseille",
+     "Real Sociedad",
+     2004
+    ],
+    [
+     "Sochaux-Montbéliard",
      2006
     ],
     [
-     "UD Almería",
+     "PSV",
+     2008
+    ],
+    [
+     "Sochaux-Montbéliard",
      2009
     ],
     [
-     "Dalian Professional",
-     2011
-    ],
-    [
-     "Changchun Yatai",
-     2011
-    ],
-    [
-     "Ittihad",
+     "ES Troyes AC",
      2012
     ],
     [
-     "Club Deportivo Los Millonarios",
-     2014
+     "Bordeaux",
+     2013
     ],
     [
-     "Le Havre",
+     "Gazélec Ajaccio",
      2014
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-030.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-031.mp4"
 }

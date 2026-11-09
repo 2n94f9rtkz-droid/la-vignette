@@ -269,6 +269,15 @@
     "Memphis Depay",
     "Modeste Mbami"
    ]
+  },
+  {
+   "num": 31,
+   "date": "2026-11-09",
+   "players": [
+    "Zinedine Zidane",
+    "Terem Moffi",
+    "Jérémie Bréchet"
+   ]
   }
  ],
  "used": [
@@ -448,7 +457,13 @@
   "Modeste M'bami",
   "Q19903718",
   "Q1894",
-  "Q443684"
+  "Q443684",
+  "Zinédine Zidane",
+  "Terem Moffi",
+  "Jérémie Bréchet",
+  "Q1835",
+  "Q65261290",
+  "Q60530"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -501,6 +516,9 @@
   "Xavier Gravelaine": "infobox EN illisible",
   "Gaëtan Charbonnier": "infobox EN illisible",
   "Stéphane Mbia": "club non identifiable",
-  "Folarin Balogun": "parcours EN et FR différents"
+  "Folarin Balogun": "parcours EN et FR différents",
+  "Eden Hazard": "parcours trop court (3 clubs)",
+  "Yaya Touré": "parcours EN et FR différents",
+  "Serge Aurier": "parcours EN et FR différents"
  }
 }

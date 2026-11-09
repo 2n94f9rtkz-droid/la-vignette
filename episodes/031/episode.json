@@ -1,0 +1,182 @@
+{
+ "num": 31,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q1835",
+   "name": "Zinedine Zidane",
+   "first": "ZINEDINE",
+   "last": "ZIDANE",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "AS Cannes",
+     1989
+    ],
+    [
+     "Bordeaux",
+     1992
+    ],
+    [
+     "Juventus",
+     1996
+    ],
+    [
+     "Real Madrid",
+     2001
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Zinedine Zidane by Tasnim 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "artist": "Hadi Abyar",
+    "license": "CC BY 4.0"
+   },
+   "credit": "Photo : Hadi Abyar · CC BY 4.0",
+   "src": "Zinédine Zidane",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q65261290",
+   "name": "Terem Moffi",
+   "first": "TEREM",
+   "last": "MOFFI",
+   "pos": "ATTAQUANT",
+   "nat": "NIGERIA",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#FFFFFF",
+     "#1F7A4D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Spyris Kaunas",
+     2017
+    ],
+    [
+     "Riteriai",
+     2019
+    ],
+    [
+     "KV Courtrai",
+     2020
+    ],
+    [
+     "Lorient",
+     2020
+    ],
+    [
+     "Nice",
+     2023
+    ],
+    [
+     "Futebol Clube do Porto",
+     2026
+    ],
+    [
+     "Hambourg",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Terem Moffi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Terem_Moffi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Terem_Moffi.jpg",
+    "artist": "Sese le Merlu",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Sese le Merlu · CC BY-SA 4.0",
+   "src": "Terem Moffi",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q60530",
+   "name": "Jérémie Bréchet",
+   "first": "JÉRÉMIE",
+   "last": "BRÉCHET",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lyon",
+     1998
+    ],
+    [
+     "Inter",
+     2003
+    ],
+    [
+     "Real Sociedad",
+     2004
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2006
+    ],
+    [
+     "PSV",
+     2008
+    ],
+    [
+     "Sochaux-Montbéliard",
+     2009
+    ],
+    [
+     "ES Troyes AC",
+     2012
+    ],
+    [
+     "Bordeaux",
+     2013
+    ],
+    [
+     "Gazélec Ajaccio",
+     2014
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Jérémie Bréche.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%A9mie_Br%C3%A9che.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/J%C3%A9r%C3%A9mie_Br%C3%A9che.jpg",
+    "artist": "Lempkesfabriek",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Lempkesfabriek · CC BY-SA 3.0",
+   "src": "Jérémie Bréchet",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #031",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Zinedine Zidane : Hadi Abyar, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg)\n- Terem Moffi : Sese le Merlu, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Terem_Moffi.jpg)\n- Jérémie Bréchet : Lempkesfabriek, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%A9mie_Br%C3%A9che.jpg)",
+ "answers": "Zinedine Zidane, Terem Moffi, Jérémie Bréchet"
+}
