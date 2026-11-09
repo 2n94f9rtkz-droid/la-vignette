@@ -1,0 +1,182 @@
+{
+ "num": 26,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q47075606",
+   "name": "Viktor Gyökeres",
+   "first": "VIKTOR",
+   "last": "GYÖKERES",
+   "pos": "ATTAQUANT",
+   "nat": "SUÈDE",
+   "flag": [
+    "h",
+    [
+     "#1B3A8C",
+     "#F2C14E",
+     "#1B3A8C"
+    ]
+   ],
+   "clubs": [
+    [
+     "IF Brommapojkarna",
+     2015
+    ],
+    [
+     "Brighton & Hove",
+     2018
+    ],
+    [
+     "Sankt Pauli",
+     2019
+    ],
+    [
+     "Swansea City",
+     2020
+    ],
+    [
+     "Coventry City",
+     2021
+    ],
+    [
+     "Sporting",
+     2023
+    ],
+    [
+     "Arsenal",
+     2025
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Viktor Gyokeres France v Sweden 6.30.26-123 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Viktor_Gyokeres_France_v_Sweden_6.30.26-123_%28cropped%29.jpg/960px-Viktor_Gyokeres_France_v_Sweden_6.30.26-123_%28cropped%29.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Viktor Gyökeres",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q1938",
+   "name": "Bacary Sagna",
+   "first": "BACARY",
+   "last": "SAGNA",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Auxerre",
+     2004
+    ],
+    [
+     "Arsenal",
+     2007
+    ],
+    [
+     "Man City",
+     2014
+    ],
+    [
+     "Bénévent",
+     2018
+    ],
+    [
+     "Montréal",
+     2018
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Bacary Sagna 2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bacary_Sagna_2012.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bacary_Sagna_2012.jpg/960px-Bacary_Sagna_2012.jpg",
+    "artist": "Doha Stadium Plus Qatar from Doha, Qatar",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : Doha Stadium Plus Qatar from Doha, Qatar · CC BY 2.0",
+   "src": "Bacary Sagna",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q194579",
+   "name": "Lucas Ocampos",
+   "first": "LUCAS",
+   "last": "OCAMPOS",
+   "pos": "MILIEU",
+   "nat": "ARGENTINE",
+   "flag": [
+    "h",
+    [
+     "#7EB6E6",
+     "#FFFFFF",
+     "#7EB6E6"
+    ]
+   ],
+   "clubs": [
+    [
+     "River Plate",
+     2011
+    ],
+    [
+     "Monaco",
+     2012
+    ],
+    [
+     "Marseille",
+     2015
+    ],
+    [
+     "Genoa",
+     2016
+    ],
+    [
+     "AC Milan",
+     2017
+    ],
+    [
+     "Sevilla",
+     2019
+    ],
+    [
+     "Ajax Amsterdam",
+     2022
+    ],
+    [
+     "Monterrey",
+     2024
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Lucas Ocampos 2022.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucas_Ocampos_2022.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lucas_Ocampos_2022.jpeg",
+    "artist": "jmmuguerza",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : jmmuguerza · CC BY-SA 3.0",
+   "src": "Lucas Ocampos",
+   "raw": "p3_raw.jpeg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #026",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Viktor Gyökeres : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg)\n- Bacary Sagna : Doha Stadium Plus Qatar from Doha, Qatar, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Bacary_Sagna_2012.jpg)\n- Lucas Ocampos : jmmuguerza, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lucas_Ocampos_2022.jpeg)",
+ "answers": "Viktor Gyökeres, Bacary Sagna, Lucas Ocampos"
+}

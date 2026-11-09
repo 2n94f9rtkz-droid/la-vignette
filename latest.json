@@ -1,129 +1,105 @@
 {
- "num": 25,
- "date": "2026-11-08",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #025",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Pierre-Emerick Aubameyang : Chensiyuan, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:1_Pierre-Emerick_Aubameyang_(cropped).jpg)\n- Moussa Sow : Екатерина Лаут, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Moussa_Sow.jpg)\n- Kévin Monnet-Paquet : User Kermaguer on Flickr : https://www.f, CC BY-SA 2.0 (https://commons.wikimedia.org/wiki/File:FC_Lorient_2010-2011_-_K%C3%A9vin_Monnet-Paquet.jpg)",
- "answers": "Pierre-Emerick Aubameyang, Moussa Sow, Kévin Monnet-Paquet",
+ "num": 26,
+ "date": "2026-11-09",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #026",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Viktor Gyökeres : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg)\n- Bacary Sagna : Doha Stadium Plus Qatar from Doha, Qatar, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Bacary_Sagna_2012.jpg)\n- Lucas Ocampos : jmmuguerza, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lucas_Ocampos_2022.jpeg)",
+ "answers": "Viktor Gyökeres, Bacary Sagna, Lucas Ocampos",
  "players": [
   {
-   "name": "Pierre-Emerick Aubameyang",
+   "name": "Viktor Gyökeres",
    "clubs": [
     [
-     "AC Milan",
-     2008
-    ],
-    [
-     "Dijon FCO",
-     2008
-    ],
-    [
-     "Lille",
-     2009
-    ],
-    [
-     "Monaco",
-     2010
-    ],
-    [
-     "Saint-Étienne",
-     2011
-    ],
-    [
-     "BV 09 Borussia Dortmund",
-     2013
-    ],
-    [
-     "Arsenal",
-     2018
-    ],
-    [
-     "Barça",
-     2022
-    ],
-    [
-     "Chelsea",
-     2022
-    ],
-    [
-     "Marseille",
-     2023
-    ],
-    [
-     "Al-Qadsiah",
-     2024
-    ],
-    [
-     "Marseille",
-     2025
-    ],
-    [
-     "portivo LC",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Moussa Sow",
-   "clubs": [
-    [
-     "Rennes",
-     2004
-    ],
-    [
-     "CS Sedan Ardennes",
-     2007
-    ],
-    [
-     "Lille",
-     2010
-    ],
-    [
-     "Fenerbahçe",
-     2012
-    ],
-    [
-     "Al-Ahli Dubaï",
+     "IF Brommapojkarna",
      2015
     ],
     [
-     "Fenerbahçe",
-     2016
-    ],
-    [
-     "Bursaspor",
+     "Brighton & Hove",
      2018
     ],
     [
-     "Gaziantep Büyükşehir Belediyespor",
+     "Sankt Pauli",
      2019
     ],
     [
-     "Ümraniyespor",
+     "Swansea City",
      2020
+    ],
+    [
+     "Coventry City",
+     2021
+    ],
+    [
+     "Sporting",
+     2023
+    ],
+    [
+     "Arsenal",
+     2025
     ]
    ]
   },
   {
-   "name": "Kévin Monnet-Paquet",
+   "name": "Bacary Sagna",
    "clubs": [
     [
-     "Lens",
-     2006
+     "Auxerre",
+     2004
     ],
     [
-     "Lorient",
-     2010
+     "Arsenal",
+     2007
     ],
     [
-     "Saint-Étienne",
+     "Man City",
      2014
     ],
     [
-     "Aris Limassol",
-     2021
+     "Bénévent",
+     2018
+    ],
+    [
+     "Montréal",
+     2018
+    ]
+   ]
+  },
+  {
+   "name": "Lucas Ocampos",
+   "clubs": [
+    [
+     "River Plate",
+     2011
+    ],
+    [
+     "Monaco",
+     2012
+    ],
+    [
+     "Marseille",
+     2015
+    ],
+    [
+     "Genoa",
+     2016
+    ],
+    [
+     "AC Milan",
+     2017
+    ],
+    [
+     "Sevilla",
+     2019
+    ],
+    [
+     "Ajax Amsterdam",
+     2022
+    ],
+    [
+     "Monterrey",
+     2024
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-025.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-026.mp4"
 }

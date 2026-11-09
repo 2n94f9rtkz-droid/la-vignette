@@ -224,6 +224,15 @@
     "Moussa Sow",
     "Kévin Monnet-Paquet"
    ]
+  },
+  {
+   "num": 26,
+   "date": "2026-11-09",
+   "players": [
+    "Viktor Gyökeres",
+    "Bacary Sagna",
+    "Lucas Ocampos"
+   ]
   }
  ],
  "used": [
@@ -373,7 +382,13 @@
   "Kévin Monnet-Paquet",
   "Q44977",
   "Q314373",
-  "Q568977"
+  "Q568977",
+  "Viktor Gyökeres",
+  "Bacary Sagna",
+  "Lucas Ocampos",
+  "Q47075606",
+  "Q1938",
+  "Q194579"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -411,6 +426,7 @@
   "Mathieu Valbuena": "parcours EN et FR différents",
   "Benjamin Moukandjo": "parcours EN et FR différents",
   "Yohan Mollo": "infobox EN illisible",
-  "Robert Lewandowski": "infobox EN illisible"
+  "Robert Lewandowski": "infobox EN illisible",
+  "Manu Koné": "parcours EN et FR différents"
  }
 }
