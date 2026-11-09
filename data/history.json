@@ -233,6 +233,15 @@
     "Bacary Sagna",
     "Lucas Ocampos"
    ]
+  },
+  {
+   "num": 27,
+   "date": "2026-11-09",
+   "players": [
+    "Paul Pogba",
+    "Jérôme Rothen",
+    "Benoît Cheyrou"
+   ]
   }
  ],
  "used": [
@@ -388,7 +397,13 @@
   "Lucas Ocampos",
   "Q47075606",
   "Q1938",
-  "Q194579"
+  "Q194579",
+  "Paul Pogba",
+  "Jérôme Rothen",
+  "Benoît Cheyrou",
+  "Q129027",
+  "Q27649",
+  "Q317079"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -427,6 +442,10 @@
   "Benjamin Moukandjo": "parcours EN et FR différents",
   "Yohan Mollo": "infobox EN illisible",
   "Robert Lewandowski": "infobox EN illisible",
-  "Manu Koné": "parcours EN et FR différents"
+  "Manu Koné": "parcours EN et FR différents",
+  "Khéphren Thuram": "parcours trop court (3 clubs)",
+  "Stéphane Guivarc'h": "parcours EN et FR différents",
+  "Abdelaziz Barrada": "parcours EN et FR différents",
+  "Guillaume Hoarau": "infobox EN illisible"
  }
 }

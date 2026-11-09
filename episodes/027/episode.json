@@ -1,0 +1,170 @@
+{
+ "num": 27,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q129027",
+   "name": "Paul Pogba",
+   "first": "PAUL",
+   "last": "POGBA",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Man United",
+     2011
+    ],
+    [
+     "Juventus",
+     2012
+    ],
+    [
+     "Man United",
+     2016
+    ],
+    [
+     "Juventus",
+     2022
+    ],
+    [
+     "Monaco",
+     2025
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Paul Pogba at the 2025 Cannes Film Festival 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg/960px-Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg",
+    "artist": "Gabriel Hutchinson",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Gabriel Hutchinson · CC BY-SA 4.0",
+   "src": "Paul Pogba",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q27649",
+   "name": "Jérôme Rothen",
+   "first": "JÉRÔME",
+   "last": "ROTHEN",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Caen",
+     1997
+    ],
+    [
+     "ES Troyes AC",
+     2000
+    ],
+    [
+     "Monaco",
+     2002
+    ],
+    [
+     "PSG",
+     2004
+    ],
+    [
+     "Rangers",
+     2009
+    ],
+    [
+     "MKE Ankaragücü",
+     2010
+    ],
+    [
+     "Bastia",
+     2011
+    ],
+    [
+     "Caen",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Rothen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rothen.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rothen.jpg",
+    "artist": "Steeve foot",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Steeve foot · CC BY-SA 3.0",
+   "src": "Jérôme Rothen",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q317079",
+   "name": "Benoît Cheyrou",
+   "first": "BENOÎT",
+   "last": "CHEYROU",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lille",
+     1999
+    ],
+    [
+     "Auxerre",
+     2004
+    ],
+    [
+     "Marseille",
+     2007
+    ],
+    [
+     "Toronto",
+     2015
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Benoît Cheyrou 2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beno%C3%AEt_Cheyrou_2013.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Beno%C3%AEt_Cheyrou_2013.jpg",
+    "artist": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Clément Bucco-Lechat · CC BY-SA 3.0",
+   "src": "Benoît Cheyrou",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #027",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Paul Pogba : Gabriel Hutchinson, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg)\n- Jérôme Rothen : Steeve foot, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Rothen.jpg)\n- Benoît Cheyrou : Clément Bucco-Lechat, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Beno%C3%AEt_Cheyrou_2013.jpg)",
+ "answers": "Paul Pogba, Jérôme Rothen, Benoît Cheyrou"
+}

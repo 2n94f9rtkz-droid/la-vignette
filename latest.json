@@ -1,105 +1,93 @@
 {
- "num": 26,
+ "num": 27,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #026",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Viktor Gyökeres : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg)\n- Bacary Sagna : Doha Stadium Plus Qatar from Doha, Qatar, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Bacary_Sagna_2012.jpg)\n- Lucas Ocampos : jmmuguerza, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Lucas_Ocampos_2022.jpeg)",
- "answers": "Viktor Gyökeres, Bacary Sagna, Lucas Ocampos",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #027",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Paul Pogba : Gabriel Hutchinson, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg)\n- Jérôme Rothen : Steeve foot, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Rothen.jpg)\n- Benoît Cheyrou : Clément Bucco-Lechat, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Beno%C3%AEt_Cheyrou_2013.jpg)",
+ "answers": "Paul Pogba, Jérôme Rothen, Benoît Cheyrou",
  "players": [
   {
-   "name": "Viktor Gyökeres",
+   "name": "Paul Pogba",
    "clubs": [
     [
-     "IF Brommapojkarna",
-     2015
+     "Man United",
+     2011
     ],
     [
-     "Brighton & Hove",
-     2018
+     "Juventus",
+     2012
     ],
     [
-     "Sankt Pauli",
-     2019
+     "Man United",
+     2016
     ],
     [
-     "Swansea City",
-     2020
+     "Juventus",
+     2022
     ],
     [
-     "Coventry City",
-     2021
-    ],
-    [
-     "Sporting",
-     2023
-    ],
-    [
-     "Arsenal",
+     "Monaco",
      2025
     ]
    ]
   },
   {
-   "name": "Bacary Sagna",
+   "name": "Jérôme Rothen",
    "clubs": [
+    [
+     "Caen",
+     1997
+    ],
+    [
+     "ES Troyes AC",
+     2000
+    ],
+    [
+     "Monaco",
+     2002
+    ],
+    [
+     "PSG",
+     2004
+    ],
+    [
+     "Rangers",
+     2009
+    ],
+    [
+     "MKE Ankaragücü",
+     2010
+    ],
+    [
+     "Bastia",
+     2011
+    ],
+    [
+     "Caen",
+     2013
+    ]
+   ]
+  },
+  {
+   "name": "Benoît Cheyrou",
+   "clubs": [
+    [
+     "Lille",
+     1999
+    ],
     [
      "Auxerre",
      2004
     ],
     [
-     "Arsenal",
+     "Marseille",
      2007
     ],
     [
-     "Man City",
-     2014
-    ],
-    [
-     "Bénévent",
-     2018
-    ],
-    [
-     "Montréal",
-     2018
-    ]
-   ]
-  },
-  {
-   "name": "Lucas Ocampos",
-   "clubs": [
-    [
-     "River Plate",
-     2011
-    ],
-    [
-     "Monaco",
-     2012
-    ],
-    [
-     "Marseille",
+     "Toronto",
      2015
-    ],
-    [
-     "Genoa",
-     2016
-    ],
-    [
-     "AC Milan",
-     2017
-    ],
-    [
-     "Sevilla",
-     2019
-    ],
-    [
-     "Ajax Amsterdam",
-     2022
-    ],
-    [
-     "Monterrey",
-     2024
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-026.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-027.mp4"
 }
