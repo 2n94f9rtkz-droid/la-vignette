@@ -287,6 +287,15 @@
     "Arnaud Kalimuendo",
     "Cheick Diabaté"
    ]
+  },
+  {
+   "num": 33,
+   "date": "2026-11-10",
+   "players": [
+    "Achraf Hakimi",
+    "Kurt Zouma",
+    "Alou Diarra"
+   ]
   }
  ],
  "used": [
@@ -478,7 +487,13 @@
   "Cheick Diabaté",
   "Q357984",
   "Q70068408",
-  "Q31744"
+  "Q31744",
+  "Achraf Hakimi",
+  "Kurt Zouma",
+  "Alou Diarra",
+  "Q26932598",
+  "Q211271",
+  "Q1926"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -534,6 +549,7 @@
   "Folarin Balogun": "parcours EN et FR différents",
   "Eden Hazard": "parcours trop court (3 clubs)",
   "Yaya Touré": "parcours EN et FR différents",
-  "Serge Aurier": "parcours EN et FR différents"
+  "Serge Aurier": "parcours EN et FR différents",
+  "Taye Taiwo": "infobox EN illisible"
  }
 }

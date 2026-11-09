@@ -1,109 +1,133 @@
 {
- "num": 32,
- "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #032",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Kevin De Bruyne : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg)\n- Arnaud Kalimuendo : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Kalimuendo_asse_srfc_2425.png)\n- Cheick Diabaté : Mehdi Zare/Fars, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Persepolis_vs_Zob_Ahan_20_Jan_2023_03.jpg)",
- "answers": "Kevin De Bruyne, Arnaud Kalimuendo, Cheick Diabaté",
+ "num": 33,
+ "date": "2026-11-10",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #033",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Achraf Hakimi : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg)\n- Kurt Zouma : Egghead06, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kurt_Zouma_West_Ham_(cropped).jpg)\n- Alou Diarra : Stanislav Vedmid, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:AlouDiarra.JPG)",
+ "answers": "Achraf Hakimi, Kurt Zouma, Alou Diarra",
  "players": [
   {
-   "name": "Kevin De Bruyne",
+   "name": "Achraf Hakimi",
    "clubs": [
     [
-     "KRC Genk",
-     2008
+     "Real Madrid",
+     2017
     ],
     [
-     "Chelsea",
-     2012
+     "BV 09 Borussia Dortmund",
+     2018
     ],
     [
-     "Werder Brême",
-     2012
+     "Inter",
+     2020
     ],
     [
-     "Wolfsburg",
-     2014
-    ],
-    [
-     "Man City",
-     2015
-    ],
-    [
-     "Società Sportiva Napoli",
-     2025
+     "PSG",
+     2021
     ]
    ]
   },
   {
-   "name": "Arnaud Kalimuendo",
+   "name": "Kurt Zouma",
    "clubs": [
     [
-     "PSG",
-     2020
+     "Saint-Étienne",
+     2011
     ],
     [
-     "Lens",
-     2020
+     "Chelsea",
+     2014
     ],
     [
-     "Rennes",
-     2022
+     "Saint-Étienne",
+     2014
     ],
     [
-     "Nottingham Forest",
+     "Stoke City",
+     2017
+    ],
+    [
+     "Everton",
+     2018
+    ],
+    [
+     "West Ham",
+     2021
+    ],
+    [
+     "Al-Orobah",
+     2024
+    ],
+    [
+     "CFR Cluj",
      2025
     ],
     [
-     "Eintracht Francfort",
+     "Al Wasl Dubaï",
+     2026
+    ],
+    [
+     "Palm City",
      2026
     ]
    ]
   },
   {
-   "name": "Cheick Diabaté",
+   "name": "Alou Diarra",
    "clubs": [
     [
-     "Bordeaux",
-     2008
+     "Louhans-Cuiseaux",
+     1999
     ],
     [
-     "Athletic club ajaccien",
-     2008
+     "Bayern",
+     2000
+    ],
+    [
+     "Liverpool",
+     2002
+    ],
+    [
+     "Le Havre",
+     2002
+    ],
+    [
+     "Bastia",
+     2003
+    ],
+    [
+     "Lens",
+     2004
+    ],
+    [
+     "Lyon",
+     2006
+    ],
+    [
+     "Bordeaux",
+     2007
+    ],
+    [
+     "Marseille",
+     2011
+    ],
+    [
+     "West Ham",
+     2012
+    ],
+    [
+     "Rennes",
+     2013
+    ],
+    [
+     "Charlton Athletic",
+     2015
     ],
     [
      "Nancy",
-     2009
-    ],
-    [
-     "Ankaraspor",
      2016
-    ],
-    [
-     "Metz",
-     2017
-    ],
-    [
-     "Bénévent",
-     2018
-    ],
-    [
-     "Emirates Club",
-     2018
-    ],
-    [
-     "Esteghlal",
-     2019
-    ],
-    [
-     "Al-Gharafa Sports Club",
-     2021
-    ],
-    [
-     "Persépolis",
-     2022
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-032.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-033.mp4"
 }
