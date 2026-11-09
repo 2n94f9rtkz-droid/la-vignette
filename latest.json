@@ -1,101 +1,105 @@
 {
- "num": 28,
+ "num": 29,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #028",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Lionel Messi : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg)\n- Patrick Vieira : Simon Heseltine, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG)\n- Steve Marlet : Chris93, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Steve_Marlet_2024.jpg)",
- "answers": "Lionel Messi, Patrick Vieira, Steve Marlet",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #029",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Serhou Guirassy : feguifoot, Public domain (https://commons.wikimedia.org/wiki/File:Serhou_Guirassy_2024_(cropped).jpg)\n- Robert Pires : Zack, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Robert_Pir%C3%A8s.jpg)\n- Bernard Diomède : Academie-diomede, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Bernard_Diomede.jpg)",
+ "answers": "Serhou Guirassy, Robert Pires, Bernard Diomède",
  "players": [
   {
-   "name": "Lionel Messi",
+   "name": "Serhou Guirassy",
    "clubs": [
     [
-     "Barcelone C",
-     2003
+     "Stade Lavallois MFC",
+     2013
     ],
     [
-     "Barça",
-     2004
-    ],
-    [
-     "PSG",
-     2021
-    ],
-    [
-     "Inter Miami",
-     2023
-    ]
-   ]
-  },
-  {
-   "name": "Patrick Vieira",
-   "clubs": [
-    [
-     "AS Cannes",
-     1993
-    ],
-    [
-     "AC Milan",
-     1995
-    ],
-    [
-     "Arsenal",
-     1996
-    ],
-    [
-     "Juventus",
-     2005
-    ],
-    [
-     "Inter",
-     2006
-    ],
-    [
-     "Man City",
-     2010
-    ]
-   ]
-  },
-  {
-   "name": "Steve Marlet",
-   "clubs": [
-    [
-     "Red Star",
-     1991
+     "Lille",
+     2015
     ],
     [
      "Auxerre",
-     1996
+     2016
     ],
     [
-     "Lyon",
-     2000
+     "1. Cologne",
+     2016
     ],
     [
-     "Fulham",
-     2001
+     "Amiens",
+     2018
+    ],
+    [
+     "Rennes",
+     2020
+    ],
+    [
+     "Stuttgart",
+     2022
+    ],
+    [
+     "BV 09 Borussia Dortmund",
+     2024
+    ]
+   ]
+  },
+  {
+   "name": "Robert Pires",
+   "clubs": [
+    [
+     "Reims",
+     1991
+    ],
+    [
+     "Metz",
+     1993
     ],
     [
      "Marseille",
-     2003
+     1998
     ],
     [
-     "Wolfsburg",
-     2005
+     "Arsenal",
+     2000
     ],
     [
-     "Lorient",
+     "Villarreal Club de Fútbol",
      2006
     ],
     [
-     "municipal d'Aubervilliers",
-     2009
+     "Aston Villa",
+     2010
     ],
     [
-     "Red Star",
-     2011
+     "Goa",
+     2014
+    ]
+   ]
+  },
+  {
+   "name": "Bernard Diomède",
+   "clubs": [
+    [
+     "Auxerre",
+     1992
+    ],
+    [
+     "Liverpool",
+     2000
+    ],
+    [
+     "Athletic club ajaccien",
+     2003
+    ],
+    [
+     "US Créteil-Lusitanos",
+     2005
+    ],
+    [
+     "Clermont Foot 63",
+     2006
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-028.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-029.mp4"
 }

@@ -251,6 +251,15 @@
     "Patrick Vieira",
     "Steve Marlet"
    ]
+  },
+  {
+   "num": 29,
+   "date": "2026-11-09",
+   "players": [
+    "Serhou Guirassy",
+    "Robert Pires",
+    "Bernard Diomède"
+   ]
   }
  ],
  "used": [
@@ -418,7 +427,13 @@
   "Steve Marlet",
   "Q615",
   "Q46347",
-  "Q504087"
+  "Q504087",
+  "Serhou Guirassy",
+  "Robert Pirès",
+  "Bernard Diomède",
+  "Q18637429",
+  "Q113156",
+  "Q372046"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -467,6 +482,9 @@
   "Emmanuel Adebayor": "licence photo non libre: Copyrighted free use",
   "Eduardo Vargas": "parcours EN et FR différents",
   "Romain Alessandrini": "années EN et FR différentes",
-  "Jimmy Briand": "parcours EN et FR différents"
+  "Jimmy Briand": "parcours EN et FR différents",
+  "Xavier Gravelaine": "infobox EN illisible",
+  "Gaëtan Charbonnier": "infobox EN illisible",
+  "Stéphane Mbia": "club non identifiable"
  }
 }

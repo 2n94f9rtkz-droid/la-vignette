@@ -1,0 +1,182 @@
+{
+ "num": 29,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q18637429",
+   "name": "Serhou Guirassy",
+   "first": "SERHOU",
+   "last": "GUIRASSY",
+   "pos": "ATTAQUANT",
+   "nat": "GUINÉE",
+   "flag": [
+    "v",
+    [
+     "#D7263D",
+     "#F2C14E",
+     "#1F7A4D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Stade Lavallois MFC",
+     2013
+    ],
+    [
+     "Lille",
+     2015
+    ],
+    [
+     "Auxerre",
+     2016
+    ],
+    [
+     "1. Cologne",
+     2016
+    ],
+    [
+     "Amiens",
+     2018
+    ],
+    [
+     "Rennes",
+     2020
+    ],
+    [
+     "Stuttgart",
+     2022
+    ],
+    [
+     "BV 09 Borussia Dortmund",
+     2024
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Serhou Guirassy 2024 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Serhou_Guirassy_2024_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Serhou_Guirassy_2024_%28cropped%29.jpg/960px-Serhou_Guirassy_2024_%28cropped%29.jpg",
+    "artist": "feguifoot",
+    "license": "Public domain"
+   },
+   "credit": "Photo : feguifoot · Public domain",
+   "src": "Serhou Guirassy",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q113156",
+   "name": "Robert Pires",
+   "first": "ROBERT",
+   "last": "PIRES",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Reims",
+     1991
+    ],
+    [
+     "Metz",
+     1993
+    ],
+    [
+     "Marseille",
+     1998
+    ],
+    [
+     "Arsenal",
+     2000
+    ],
+    [
+     "Villarreal Club de Fútbol",
+     2006
+    ],
+    [
+     "Aston Villa",
+     2010
+    ],
+    [
+     "Goa",
+     2014
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Robert Pirès.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Pir%C3%A8s.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Robert_Pir%C3%A8s.jpg/960px-Robert_Pir%C3%A8s.jpg",
+    "artist": "Zack",
+    "license": "CC BY 4.0"
+   },
+   "credit": "Photo : Zack · CC BY 4.0",
+   "src": "Robert Pirès",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q372046",
+   "name": "Bernard Diomède",
+   "first": "BERNARD",
+   "last": "DIOMÈDE",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Auxerre",
+     1992
+    ],
+    [
+     "Liverpool",
+     2000
+    ],
+    [
+     "Athletic club ajaccien",
+     2003
+    ],
+    [
+     "US Créteil-Lusitanos",
+     2005
+    ],
+    [
+     "Clermont Foot 63",
+     2006
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Bernard Diomede.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bernard_Diomede.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bernard_Diomede.jpg/960px-Bernard_Diomede.jpg",
+    "artist": "Academie-diomede",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Academie-diomede · CC BY-SA 3.0",
+   "src": "Bernard Diomède",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #029",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Serhou Guirassy : feguifoot, Public domain (https://commons.wikimedia.org/wiki/File:Serhou_Guirassy_2024_(cropped).jpg)\n- Robert Pires : Zack, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Robert_Pir%C3%A8s.jpg)\n- Bernard Diomède : Academie-diomede, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Bernard_Diomede.jpg)",
+ "answers": "Serhou Guirassy, Robert Pires, Bernard Diomède"
+}
