@@ -242,6 +242,15 @@
     "Jérôme Rothen",
     "Benoît Cheyrou"
    ]
+  },
+  {
+   "num": 28,
+   "date": "2026-11-09",
+   "players": [
+    "Lionel Messi",
+    "Patrick Vieira",
+    "Steve Marlet"
+   ]
   }
  ],
  "used": [
@@ -403,7 +412,13 @@
   "Benoît Cheyrou",
   "Q129027",
   "Q27649",
-  "Q317079"
+  "Q317079",
+  "Lionel Messi",
+  "Patrick Vieira",
+  "Steve Marlet",
+  "Q615",
+  "Q46347",
+  "Q504087"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -446,6 +461,12 @@
   "Khéphren Thuram": "parcours trop court (3 clubs)",
   "Stéphane Guivarc'h": "parcours EN et FR différents",
   "Abdelaziz Barrada": "parcours EN et FR différents",
-  "Guillaume Hoarau": "infobox EN illisible"
+  "Guillaume Hoarau": "infobox EN illisible",
+  "Dayot Upamecano": "parcours EN et FR différents",
+  "Jonathan Clauss": "parcours EN et FR différents",
+  "Emmanuel Adebayor": "licence photo non libre: Copyrighted free use",
+  "Eduardo Vargas": "parcours EN et FR différents",
+  "Romain Alessandrini": "années EN et FR différentes",
+  "Jimmy Briand": "parcours EN et FR différents"
  }
 }

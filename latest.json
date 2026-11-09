@@ -1,93 +1,101 @@
 {
- "num": 27,
+ "num": 28,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #027",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Paul Pogba : Gabriel Hutchinson, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Paul_Pogba_at_the_2025_Cannes_Film_Festival_02.jpg)\n- Jérôme Rothen : Steeve foot, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Rothen.jpg)\n- Benoît Cheyrou : Clément Bucco-Lechat, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Beno%C3%AEt_Cheyrou_2013.jpg)",
- "answers": "Paul Pogba, Jérôme Rothen, Benoît Cheyrou",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #028",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Lionel Messi : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg)\n- Patrick Vieira : Simon Heseltine, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG)\n- Steve Marlet : Chris93, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Steve_Marlet_2024.jpg)",
+ "answers": "Lionel Messi, Patrick Vieira, Steve Marlet",
  "players": [
   {
-   "name": "Paul Pogba",
+   "name": "Lionel Messi",
    "clubs": [
     [
-     "Man United",
-     2011
+     "Barcelone C",
+     2003
     ],
     [
-     "Juventus",
-     2012
-    ],
-    [
-     "Man United",
-     2016
-    ],
-    [
-     "Juventus",
-     2022
-    ],
-    [
-     "Monaco",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Jérôme Rothen",
-   "clubs": [
-    [
-     "Caen",
-     1997
-    ],
-    [
-     "ES Troyes AC",
-     2000
-    ],
-    [
-     "Monaco",
-     2002
+     "Barça",
+     2004
     ],
     [
      "PSG",
-     2004
+     2021
     ],
     [
-     "Rangers",
-     2009
-    ],
-    [
-     "MKE Ankaragücü",
-     2010
-    ],
-    [
-     "Bastia",
-     2011
-    ],
-    [
-     "Caen",
-     2013
+     "Inter Miami",
+     2023
     ]
    ]
   },
   {
-   "name": "Benoît Cheyrou",
+   "name": "Patrick Vieira",
    "clubs": [
     [
-     "Lille",
-     1999
+     "AS Cannes",
+     1993
+    ],
+    [
+     "AC Milan",
+     1995
+    ],
+    [
+     "Arsenal",
+     1996
+    ],
+    [
+     "Juventus",
+     2005
+    ],
+    [
+     "Inter",
+     2006
+    ],
+    [
+     "Man City",
+     2010
+    ]
+   ]
+  },
+  {
+   "name": "Steve Marlet",
+   "clubs": [
+    [
+     "Red Star",
+     1991
     ],
     [
      "Auxerre",
-     2004
+     1996
+    ],
+    [
+     "Lyon",
+     2000
+    ],
+    [
+     "Fulham",
+     2001
     ],
     [
      "Marseille",
-     2007
+     2003
     ],
     [
-     "Toronto",
-     2015
+     "Wolfsburg",
+     2005
+    ],
+    [
+     "Lorient",
+     2006
+    ],
+    [
+     "municipal d'Aubervilliers",
+     2009
+    ],
+    [
+     "Red Star",
+     2011
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-027.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-028.mp4"
 }

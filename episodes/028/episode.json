@@ -1,0 +1,178 @@
+{
+ "num": 28,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q615",
+   "name": "Lionel Messi",
+   "first": "LIONEL",
+   "last": "MESSI",
+   "pos": "ATTAQUANT",
+   "nat": "ARGENTINE",
+   "flag": [
+    "h",
+    [
+     "#7EB6E6",
+     "#FFFFFF",
+     "#7EB6E6"
+    ]
+   ],
+   "clubs": [
+    [
+     "Barcelone C",
+     2003
+    ],
+    [
+     "Barça",
+     2004
+    ],
+    [
+     "PSG",
+     2021
+    ],
+    [
+     "Inter Miami",
+     2023
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Leo Messi Argentina v Egypt 7 July 2026-1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Lionel Messi",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q46347",
+   "name": "Patrick Vieira",
+   "first": "PATRICK",
+   "last": "VIEIRA",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "AS Cannes",
+     1993
+    ],
+    [
+     "AC Milan",
+     1995
+    ],
+    [
+     "Arsenal",
+     1996
+    ],
+    [
+     "Juventus",
+     2005
+    ],
+    [
+     "Inter",
+     2006
+    ],
+    [
+     "Man City",
+     2010
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Patrick Vieira NYCFC.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Patrick_Vieira_NYCFC.JPG/960px-Patrick_Vieira_NYCFC.JPG",
+    "artist": "Simon Heseltine",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Simon Heseltine · CC BY-SA 4.0",
+   "src": "Patrick Vieira",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q504087",
+   "name": "Steve Marlet",
+   "first": "STEVE",
+   "last": "MARLET",
+   "pos": "MILIEU",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Red Star",
+     1991
+    ],
+    [
+     "Auxerre",
+     1996
+    ],
+    [
+     "Lyon",
+     2000
+    ],
+    [
+     "Fulham",
+     2001
+    ],
+    [
+     "Marseille",
+     2003
+    ],
+    [
+     "Wolfsburg",
+     2005
+    ],
+    [
+     "Lorient",
+     2006
+    ],
+    [
+     "municipal d'Aubervilliers",
+     2009
+    ],
+    [
+     "Red Star",
+     2011
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Steve Marlet 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Marlet_2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Steve_Marlet_2024.jpg/960px-Steve_Marlet_2024.jpg",
+    "artist": "Chris93",
+    "license": "CC BY 4.0"
+   },
+   "credit": "Photo : Chris93 · CC BY 4.0",
+   "src": "Steve Marlet",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #028",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Lionel Messi : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg)\n- Patrick Vieira : Simon Heseltine, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG)\n- Steve Marlet : Chris93, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Steve_Marlet_2024.jpg)",
+ "answers": "Lionel Messi, Patrick Vieira, Steve Marlet"
+}
