@@ -1,0 +1,178 @@
+{
+ "num": 30,
+ "date": "2026-11-09",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q19903718",
+   "name": "Marcus Thuram",
+   "first": "MARCUS",
+   "last": "THURAM",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Sochaux-Montbéliard",
+     2015
+    ],
+    [
+     "Guingamp",
+     2017
+    ],
+    [
+     "Borussia Mönchengladbach",
+     2019
+    ],
+    [
+     "Inter",
+     2023
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Marcus Thuram France v Senegal 16 June 2026-261 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marcus_Thuram_France_v_Senegal_16_June_2026-261_%28cropped%29.jpg/960px-Marcus_Thuram_France_v_Senegal_16_June_2026-261_%28cropped%29.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Marcus Thuram",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q1894",
+   "name": "Memphis Depay",
+   "first": "MEMPHIS",
+   "last": "DEPAY",
+   "pos": "ATTAQUANT",
+   "nat": "PAYS-BAS",
+   "flag": [
+    "h",
+    [
+     "#D7263D",
+     "#FFFFFF",
+     "#1B3A8C"
+    ]
+   ],
+   "clubs": [
+    [
+     "PSV",
+     2011
+    ],
+    [
+     "Man United",
+     2015
+    ],
+    [
+     "Lyon",
+     2017
+    ],
+    [
+     "Barça",
+     2021
+    ],
+    [
+     "Atlético",
+     2023
+    ],
+    [
+     "Corinthians Paulista",
+     2024
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Memphis Depay 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Memphis_Depay_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Memphis_Depay_2019.jpg",
+    "artist": "Derivative work: Joe Sins",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Derivative work: Joe Sins · CC BY-SA 4.0",
+   "src": "Memphis Depay",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q443684",
+   "name": "Modeste Mbami",
+   "first": "MODESTE",
+   "last": "MBAMI",
+   "pos": "MILIEU",
+   "nat": "CAMEROUN",
+   "flag": [
+    "v",
+    [
+     "#1F7A4D",
+     "#D7263D",
+     "#F2C14E"
+    ]
+   ],
+   "clubs": [
+    [
+     "CS Sedan Ardennes",
+     2000
+    ],
+    [
+     "PSG",
+     2003
+    ],
+    [
+     "Marseille",
+     2006
+    ],
+    [
+     "UD Almería",
+     2009
+    ],
+    [
+     "Dalian Professional",
+     2011
+    ],
+    [
+     "Changchun Yatai",
+     2011
+    ],
+    [
+     "Ittihad",
+     2012
+    ],
+    [
+     "Club Deportivo Los Millonarios",
+     2014
+    ],
+    [
+     "Le Havre",
+     2014
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Modeste M'bami.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Modeste_M%27bami.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Modeste_M%27bami.jpg",
+    "artist": "Якушкин Иван",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Якушкин Иван · CC BY-SA 3.0",
+   "src": "Modeste M'bami",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #030",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Marcus Thuram : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg)\n- Memphis Depay : Derivative work: Joe Sins, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Memphis_Depay_2019.jpg)\n- Modeste Mbami : Якушкин Иван, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Modeste_M%27bami.jpg)",
+ "answers": "Marcus Thuram, Memphis Depay, Modeste Mbami"
+}

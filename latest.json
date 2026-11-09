@@ -1,105 +1,101 @@
 {
- "num": 29,
+ "num": 30,
  "date": "2026-11-09",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #029",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Serhou Guirassy : feguifoot, Public domain (https://commons.wikimedia.org/wiki/File:Serhou_Guirassy_2024_(cropped).jpg)\n- Robert Pires : Zack, CC BY 4.0 (https://commons.wikimedia.org/wiki/File:Robert_Pir%C3%A8s.jpg)\n- Bernard Diomède : Academie-diomede, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Bernard_Diomede.jpg)",
- "answers": "Serhou Guirassy, Robert Pires, Bernard Diomède",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #030",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Marcus Thuram : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Marcus_Thuram_France_v_Senegal_16_June_2026-261_(cropped).jpg)\n- Memphis Depay : Derivative work: Joe Sins, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Memphis_Depay_2019.jpg)\n- Modeste Mbami : Якушкин Иван, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Modeste_M%27bami.jpg)",
+ "answers": "Marcus Thuram, Memphis Depay, Modeste Mbami",
  "players": [
   {
-   "name": "Serhou Guirassy",
+   "name": "Marcus Thuram",
    "clubs": [
     [
-     "Stade Lavallois MFC",
-     2013
-    ],
-    [
-     "Lille",
+     "Sochaux-Montbéliard",
      2015
     ],
     [
-     "Auxerre",
-     2016
+     "Guingamp",
+     2017
     ],
     [
-     "1. Cologne",
-     2016
+     "Borussia Mönchengladbach",
+     2019
     ],
     [
-     "Amiens",
-     2018
+     "Inter",
+     2023
+    ]
+   ]
+  },
+  {
+   "name": "Memphis Depay",
+   "clubs": [
+    [
+     "PSV",
+     2011
     ],
     [
-     "Rennes",
-     2020
+     "Man United",
+     2015
     ],
     [
-     "Stuttgart",
-     2022
+     "Lyon",
+     2017
     ],
     [
-     "BV 09 Borussia Dortmund",
+     "Barça",
+     2021
+    ],
+    [
+     "Atlético",
+     2023
+    ],
+    [
+     "Corinthians Paulista",
      2024
     ]
    ]
   },
   {
-   "name": "Robert Pires",
+   "name": "Modeste Mbami",
    "clubs": [
     [
-     "Reims",
-     1991
-    ],
-    [
-     "Metz",
-     1993
-    ],
-    [
-     "Marseille",
-     1998
-    ],
-    [
-     "Arsenal",
+     "CS Sedan Ardennes",
      2000
     ],
     [
-     "Villarreal Club de Fútbol",
-     2006
-    ],
-    [
-     "Aston Villa",
-     2010
-    ],
-    [
-     "Goa",
-     2014
-    ]
-   ]
-  },
-  {
-   "name": "Bernard Diomède",
-   "clubs": [
-    [
-     "Auxerre",
-     1992
-    ],
-    [
-     "Liverpool",
-     2000
-    ],
-    [
-     "Athletic club ajaccien",
+     "PSG",
      2003
     ],
     [
-     "US Créteil-Lusitanos",
-     2005
+     "Marseille",
+     2006
     ],
     [
-     "Clermont Foot 63",
-     2006
+     "UD Almería",
+     2009
+    ],
+    [
+     "Dalian Professional",
+     2011
+    ],
+    [
+     "Changchun Yatai",
+     2011
+    ],
+    [
+     "Ittihad",
+     2012
+    ],
+    [
+     "Club Deportivo Los Millonarios",
+     2014
+    ],
+    [
+     "Le Havre",
+     2014
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-029.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-030.mp4"
 }

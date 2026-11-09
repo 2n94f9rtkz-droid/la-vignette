@@ -260,6 +260,15 @@
     "Robert Pires",
     "Bernard Diomède"
    ]
+  },
+  {
+   "num": 30,
+   "date": "2026-11-09",
+   "players": [
+    "Marcus Thuram",
+    "Memphis Depay",
+    "Modeste Mbami"
+   ]
   }
  ],
  "used": [
@@ -433,7 +442,13 @@
   "Bernard Diomède",
   "Q18637429",
   "Q113156",
-  "Q372046"
+  "Q372046",
+  "Marcus Thuram",
+  "Memphis Depay",
+  "Modeste M'bami",
+  "Q19903718",
+  "Q1894",
+  "Q443684"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -485,6 +500,7 @@
   "Jimmy Briand": "parcours EN et FR différents",
   "Xavier Gravelaine": "infobox EN illisible",
   "Gaëtan Charbonnier": "infobox EN illisible",
-  "Stéphane Mbia": "club non identifiable"
+  "Stéphane Mbia": "club non identifiable",
+  "Folarin Balogun": "parcours EN et FR différents"
  }
 }
