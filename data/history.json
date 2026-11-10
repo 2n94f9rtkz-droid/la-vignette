@@ -296,6 +296,15 @@
     "Kurt Zouma",
     "Alou Diarra"
    ]
+  },
+  {
+   "num": 34,
+   "date": "2026-11-10",
+   "players": [
+    "Adrien Rabiot",
+    "Moise Kean",
+    "Florian Maurice"
+   ]
   }
  ],
  "used": [
@@ -493,7 +502,13 @@
   "Alou Diarra",
   "Q26932598",
   "Q211271",
-  "Q1926"
+  "Q1926",
+  "Adrien Rabiot",
+  "Moise Kean",
+  "Florian Maurice",
+  "Q18962",
+  "Q27889974",
+  "Q934848"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",

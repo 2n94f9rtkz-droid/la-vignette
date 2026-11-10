@@ -1,133 +1,101 @@
 {
- "num": 33,
+ "num": 34,
  "date": "2026-11-10",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #033",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Achraf Hakimi : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg)\n- Kurt Zouma : Egghead06, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Kurt_Zouma_West_Ham_(cropped).jpg)\n- Alou Diarra : Stanislav Vedmid, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:AlouDiarra.JPG)",
- "answers": "Achraf Hakimi, Kurt Zouma, Alou Diarra",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #034",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Adrien Rabiot : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Adrien_Rabiot_France_v_Senegal_16_June_2026-371_(cropped).jpg)\n- Moise Kean : Original: Kirill Venediktov / Derivative, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:FC_Zenit_Saint_Petersburg_vs._Juventus,_20_October_2021_64_-_Moise_Kean_(cropped).jpg)\n- Florian Maurice : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Entra%C3%AEnement_du_PSG_au_Camp_des_Loges_-_Florian_Maurice_(cropped).jpg)",
+ "answers": "Adrien Rabiot, Moise Kean, Florian Maurice",
  "players": [
   {
-   "name": "Achraf Hakimi",
+   "name": "Adrien Rabiot",
    "clubs": [
     [
-     "Real Madrid",
-     2017
-    ],
-    [
-     "BV 09 Borussia Dortmund",
-     2018
-    ],
-    [
-     "Inter",
-     2020
-    ],
-    [
      "PSG",
-     2021
+     2012
+    ],
+    [
+     "Toulouse",
+     2013
+    ],
+    [
+     "Juventus",
+     2019
+    ],
+    [
+     "Marseille",
+     2024
+    ],
+    [
+     "AC Milan",
+     2025
     ]
    ]
   },
   {
-   "name": "Kurt Zouma",
+   "name": "Moise Kean",
    "clubs": [
     [
-     "Saint-Étienne",
-     2011
+     "Juventus",
+     2016
     ],
     [
-     "Chelsea",
-     2014
-    ],
-    [
-     "Saint-Étienne",
-     2014
-    ],
-    [
-     "Stoke City",
+     "Hellas Vérone",
      2017
     ],
     [
      "Everton",
-     2018
+     2019
     ],
     [
-     "West Ham",
+     "PSG",
+     2020
+    ],
+    [
+     "Juventus",
      2021
     ],
     [
-     "Al-Orobah",
+     "Fiorentina",
      2024
     ],
     [
-     "CFR Cluj",
-     2025
-    ],
-    [
-     "Al Wasl Dubaï",
-     2026
-    ],
-    [
-     "Palm City",
+     "Côme",
      2026
     ]
    ]
   },
   {
-   "name": "Alou Diarra",
+   "name": "Florian Maurice",
    "clubs": [
     [
-     "Louhans-Cuiseaux",
-     1999
-    ],
-    [
-     "Bayern",
-     2000
-    ],
-    [
-     "Liverpool",
-     2002
-    ],
-    [
-     "Le Havre",
-     2002
-    ],
-    [
-     "Bastia",
-     2003
-    ],
-    [
-     "Lens",
-     2004
-    ],
-    [
      "Lyon",
-     2006
+     1991
     ],
     [
-     "Bordeaux",
-     2007
+     "PSG",
+     1997
     ],
     [
      "Marseille",
-     2011
+     1998
     ],
     [
-     "West Ham",
-     2012
+     "Celta de Vigo",
+     2001
     ],
     [
-     "Rennes",
-     2013
+     "Bastia",
+     2002
     ],
     [
-     "Charlton Athletic",
-     2015
+     "Istres",
+     2004
     ],
     [
-     "Nancy",
-     2016
+     "LB Châteauroux",
+     2005
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-033.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-034.mp4"
 }
