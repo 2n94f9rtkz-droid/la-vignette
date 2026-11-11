@@ -305,6 +305,15 @@
     "Moise Kean",
     "Florian Maurice"
    ]
+  },
+  {
+   "num": 35,
+   "date": "2026-11-11",
+   "players": [
+    "Steve Mandanda",
+    "Mauro Icardi",
+    "Bonaventure Kalou"
+   ]
   }
  ],
  "used": [
@@ -508,7 +517,13 @@
   "Florian Maurice",
   "Q18962",
   "Q27889974",
-  "Q934848"
+  "Q934848",
+  "Steve Mandanda",
+  "Mauro Icardi",
+  "Bonaventure Kalou",
+  "Q1924",
+  "Q136986",
+  "Q343965"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",

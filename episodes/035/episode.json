@@ -1,0 +1,166 @@
+{
+ "num": 35,
+ "date": "2026-11-11",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q1924",
+   "name": "Steve Mandanda",
+   "first": "STEVE",
+   "last": "MANDANDA",
+   "pos": "GARDIEN",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Le Havre",
+     2004
+    ],
+    [
+     "Marseille",
+     2007
+    ],
+    [
+     "Crystal Palace",
+     2016
+    ],
+    [
+     "Marseille",
+     2017
+    ],
+    [
+     "Rennes",
+     2022
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Steve Mandanda 2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Mandanda_2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Steve_Mandanda_2018.jpg",
+    "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0"
+   },
+   "credit": "Photo : Кирилл Венедиктов · CC BY-SA 3.0",
+   "src": "Steve Mandanda",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q136986",
+   "name": "Mauro Icardi",
+   "first": "MAURO",
+   "last": "ICARDI",
+   "pos": "ATTAQUANT",
+   "nat": "ARGENTINE",
+   "flag": [
+    "h",
+    [
+     "#7EB6E6",
+     "#FFFFFF",
+     "#7EB6E6"
+    ]
+   ],
+   "clubs": [
+    [
+     "UC Sampdoria",
+     2011
+    ],
+    [
+     "Inter",
+     2013
+    ],
+    [
+     "PSG",
+     2019
+    ],
+    [
+     "Galatasaray",
+     2022
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Mauro Icardi en 2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauro_Icardi_en_2025.jpg",
+    "artist": "Telefe",
+    "license": "CC BY 3.0"
+   },
+   "credit": "Photo : Telefe · CC BY 3.0",
+   "src": "Mauro Icardi",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q343965",
+   "name": "Bonaventure Kalou",
+   "first": "BONAVENTURE",
+   "last": "KALOU",
+   "pos": "ATTAQUANT",
+   "nat": "CÔTE D'IVOIRE",
+   "flag": [
+    "v",
+    [
+     "#F28C28",
+     "#FFFFFF",
+     "#1F7A4D"
+    ]
+   ],
+   "clubs": [
+    [
+     "ASEC Mimosas",
+     1996
+    ],
+    [
+     "Feyenoord",
+     1997
+    ],
+    [
+     "Auxerre",
+     2003
+    ],
+    [
+     "PSG",
+     2005
+    ],
+    [
+     "Lens",
+     2007
+    ],
+    [
+     "Al-Jazira Club",
+     2007
+    ],
+    [
+     "Heerenveen",
+     2008
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Bonaventure Kalou.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bonaventure_Kalou.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bonaventure_Kalou.jpg",
+    "artist": "Original uploader was User:Deeptrivia",
+    "license": "Public domain"
+   },
+   "credit": "Photo : Original uploader was User:Deeptrivia · Public domain",
+   "src": "Bonaventure Kalou",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #035",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Steve Mandanda : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Steve_Mandanda_2018.jpg)\n- Mauro Icardi : Telefe, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg)\n- Bonaventure Kalou : Original uploader was User:Deeptrivia, Public domain (https://commons.wikimedia.org/wiki/File:Bonaventure_Kalou.jpg)",
+ "answers": "Steve Mandanda, Mauro Icardi, Bonaventure Kalou"
+}

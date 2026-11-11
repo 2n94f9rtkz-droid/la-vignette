@@ -1,101 +1,89 @@
 {
- "num": 34,
- "date": "2026-11-10",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #034",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Adrien Rabiot : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Adrien_Rabiot_France_v_Senegal_16_June_2026-371_(cropped).jpg)\n- Moise Kean : Original: Kirill Venediktov / Derivative, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:FC_Zenit_Saint_Petersburg_vs._Juventus,_20_October_2021_64_-_Moise_Kean_(cropped).jpg)\n- Florian Maurice : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Entra%C3%AEnement_du_PSG_au_Camp_des_Loges_-_Florian_Maurice_(cropped).jpg)",
- "answers": "Adrien Rabiot, Moise Kean, Florian Maurice",
+ "num": 35,
+ "date": "2026-11-11",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #035",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Steve Mandanda : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Steve_Mandanda_2018.jpg)\n- Mauro Icardi : Telefe, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg)\n- Bonaventure Kalou : Original uploader was User:Deeptrivia, Public domain (https://commons.wikimedia.org/wiki/File:Bonaventure_Kalou.jpg)",
+ "answers": "Steve Mandanda, Mauro Icardi, Bonaventure Kalou",
  "players": [
   {
-   "name": "Adrien Rabiot",
+   "name": "Steve Mandanda",
    "clubs": [
     [
-     "PSG",
-     2012
-    ],
-    [
-     "Toulouse",
-     2013
-    ],
-    [
-     "Juventus",
-     2019
-    ],
-    [
-     "Marseille",
-     2024
-    ],
-    [
-     "AC Milan",
-     2025
-    ]
-   ]
-  },
-  {
-   "name": "Moise Kean",
-   "clubs": [
-    [
-     "Juventus",
-     2016
-    ],
-    [
-     "Hellas Vérone",
-     2017
-    ],
-    [
-     "Everton",
-     2019
-    ],
-    [
-     "PSG",
-     2020
-    ],
-    [
-     "Juventus",
-     2021
-    ],
-    [
-     "Fiorentina",
-     2024
-    ],
-    [
-     "Côme",
-     2026
-    ]
-   ]
-  },
-  {
-   "name": "Florian Maurice",
-   "clubs": [
-    [
-     "Lyon",
-     1991
-    ],
-    [
-     "PSG",
-     1997
-    ],
-    [
-     "Marseille",
-     1998
-    ],
-    [
-     "Celta de Vigo",
-     2001
-    ],
-    [
-     "Bastia",
-     2002
-    ],
-    [
-     "Istres",
+     "Le Havre",
      2004
     ],
     [
-     "LB Châteauroux",
+     "Marseille",
+     2007
+    ],
+    [
+     "Crystal Palace",
+     2016
+    ],
+    [
+     "Marseille",
+     2017
+    ],
+    [
+     "Rennes",
+     2022
+    ]
+   ]
+  },
+  {
+   "name": "Mauro Icardi",
+   "clubs": [
+    [
+     "UC Sampdoria",
+     2011
+    ],
+    [
+     "Inter",
+     2013
+    ],
+    [
+     "PSG",
+     2019
+    ],
+    [
+     "Galatasaray",
+     2022
+    ]
+   ]
+  },
+  {
+   "name": "Bonaventure Kalou",
+   "clubs": [
+    [
+     "ASEC Mimosas",
+     1996
+    ],
+    [
+     "Feyenoord",
+     1997
+    ],
+    [
+     "Auxerre",
+     2003
+    ],
+    [
+     "PSG",
      2005
+    ],
+    [
+     "Lens",
+     2007
+    ],
+    [
+     "Al-Jazira Club",
+     2007
+    ],
+    [
+     "Heerenveen",
+     2008
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-034.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-035.mp4"
 }
