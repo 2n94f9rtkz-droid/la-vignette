@@ -1,89 +1,133 @@
 {
- "num": 35,
- "date": "2026-11-11",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #035",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Steve Mandanda : Кирилл Венедиктов, CC BY-SA 3.0 (https://commons.wikimedia.org/wiki/File:Steve_Mandanda_2018.jpg)\n- Mauro Icardi : Telefe, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg)\n- Bonaventure Kalou : Original uploader was User:Deeptrivia, Public domain (https://commons.wikimedia.org/wiki/File:Bonaventure_Kalou.jpg)",
- "answers": "Steve Mandanda, Mauro Icardi, Bonaventure Kalou",
+ "num": 36,
+ "date": "2026-11-12",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #036",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Victor Osimhen : Fédération Guinéenne Football, Public domain (https://commons.wikimedia.org/wiki/File:Victor-osimhen-nigeria-2024-3-4.jpg)\n- Gaëtan Laborde : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Laborde_asse_ogcn_2425.png)\n- Mevlüt Erdinç : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Mevl%C3%BCt_Erding_20110724.jpg)",
+ "answers": "Victor Osimhen, Gaëtan Laborde, Mevlüt Erdinç",
  "players": [
   {
-   "name": "Steve Mandanda",
+   "name": "Victor Osimhen",
    "clubs": [
     [
-     "Le Havre",
-     2004
-    ],
-    [
-     "Marseille",
-     2007
-    ],
-    [
-     "Crystal Palace",
-     2016
-    ],
-    [
-     "Marseille",
+     "Wolfsburg",
      2017
     ],
     [
-     "Rennes",
-     2022
-    ]
-   ]
-  },
-  {
-   "name": "Mauro Icardi",
-   "clubs": [
-    [
-     "UC Sampdoria",
-     2011
+     "Royal Charleroi",
+     2018
     ],
     [
-     "Inter",
-     2013
-    ],
-    [
-     "PSG",
+     "Lille",
      2019
     ],
     [
+     "Società Sportiva Napoli",
+     2020
+    ],
+    [
      "Galatasaray",
-     2022
+     2024
     ]
    ]
   },
   {
-   "name": "Bonaventure Kalou",
+   "name": "Gaëtan Laborde",
    "clubs": [
     [
-     "ASEC Mimosas",
-     1996
+     "Bordeaux",
+     2013
     ],
     [
-     "Feyenoord",
-     1997
+     "Red Star",
+     2013
     ],
     [
-     "Auxerre",
-     2003
+     "Brest",
+     2014
     ],
     [
-     "PSG",
+     "Clermont Foot 63",
+     2016
+    ],
+    [
+     "Montpellier",
+     2018
+    ],
+    [
+     "Rennes",
+     2021
+    ],
+    [
+     "Nice",
+     2022
+    ],
+    [
+     "Diriyah Club",
+     2025
+    ]
+   ]
+  },
+  {
+   "name": "Mevlüt Erdinç",
+   "clubs": [
+    [
+     "Sochaux-Montbéliard",
      2005
     ],
     [
-     "Lens",
-     2007
+     "PSG",
+     2009
     ],
     [
-     "Al-Jazira Club",
-     2007
+     "Rennes",
+     2012
     ],
     [
-     "Heerenveen",
-     2008
+     "Saint-Étienne",
+     2013
+    ],
+    [
+     "Hanovre 96",
+     2015
+    ],
+    [
+     "Guingamp",
+     2016
+    ],
+    [
+     "Metz",
+     2016
+    ],
+    [
+     "İstanbul BB",
+     2017
+    ],
+    [
+     "Antalyaspor",
+     2018
+    ],
+    [
+     "Fenerbahçe",
+     2019
+    ],
+    [
+     "Fatih Karagümrük",
+     2020
+    ],
+    [
+     "Kocaelispor",
+     2021
+    ],
+    [
+     "Ümraniyespor",
+     2022
+    ],
+    [
+     "Racing Besançon",
+     2022
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-035.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-036.mp4"
 }

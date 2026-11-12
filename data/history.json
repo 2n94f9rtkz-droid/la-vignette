@@ -314,6 +314,15 @@
     "Mauro Icardi",
     "Bonaventure Kalou"
    ]
+  },
+  {
+   "num": 36,
+   "date": "2026-11-12",
+   "players": [
+    "Victor Osimhen",
+    "Gaëtan Laborde",
+    "Mevlüt Erdinç"
+   ]
   }
  ],
  "used": [
@@ -523,7 +532,13 @@
   "Bonaventure Kalou",
   "Q1924",
   "Q136986",
-  "Q343965"
+  "Q343965",
+  "Victor Osimhen",
+  "Gaëtan Laborde",
+  "Mevlüt Erdinç",
+  "Q25253293",
+  "Q18001481",
+  "Q440846"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -580,6 +595,8 @@
   "Eden Hazard": "parcours trop court (3 clubs)",
   "Yaya Touré": "parcours EN et FR différents",
   "Serge Aurier": "parcours EN et FR différents",
-  "Taye Taiwo": "infobox EN illisible"
+  "Taye Taiwo": "infobox EN illisible",
+  "Theo Hernandez": "parcours EN et FR différents",
+  "Diego Costa": "parcours EN et FR différents"
  }
 }
