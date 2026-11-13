@@ -1,133 +1,105 @@
 {
- "num": 36,
- "date": "2026-11-12",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #036",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Victor Osimhen : Fédération Guinéenne Football, Public domain (https://commons.wikimedia.org/wiki/File:Victor-osimhen-nigeria-2024-3-4.jpg)\n- Gaëtan Laborde : Paté kroute, CC0 (https://commons.wikimedia.org/wiki/File:Laborde_asse_ogcn_2425.png)\n- Mevlüt Erdinç : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Mevl%C3%BCt_Erding_20110724.jpg)",
- "answers": "Victor Osimhen, Gaëtan Laborde, Mevlüt Erdinç",
+ "num": 37,
+ "date": "2026-11-13",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #037",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Franck Ribéry : Sven Mandel, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Franck_Ribery_2019_(cropped).jpg)\n- Layvin Kurzawa : Sandro Halank, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93168.jpg)\n- Charles Kaboré : Gilzetbase, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Charles_Kabor%C3%A9_1.jpg)",
+ "answers": "Franck Ribéry, Layvin Kurzawa, Charles Kaboré",
  "players": [
   {
-   "name": "Victor Osimhen",
+   "name": "Franck Ribéry",
    "clubs": [
     [
-     "Wolfsburg",
-     2017
+     "Boulogne",
+     2000
     ],
     [
-     "Royal Charleroi",
-     2018
-    ],
-    [
-     "Lille",
-     2019
-    ],
-    [
-     "Società Sportiva Napoli",
-     2020
-    ],
-    [
-     "Galatasaray",
-     2024
-    ]
-   ]
-  },
-  {
-   "name": "Gaëtan Laborde",
-   "clubs": [
-    [
-     "Bordeaux",
-     2013
-    ],
-    [
-     "Red Star",
-     2013
+     "Alès",
+     2002
     ],
     [
      "Brest",
-     2014
+     2003
     ],
     [
-     "Clermont Foot 63",
-     2016
+     "Metz",
+     2004
     ],
     [
-     "Montpellier",
-     2018
+     "Galatasaray",
+     2005
     ],
     [
-     "Rennes",
+     "Marseille",
+     2005
+    ],
+    [
+     "Bayern",
+     2007
+    ],
+    [
+     "Fiorentina",
+     2019
+    ],
+    [
+     "Salernitana",
      2021
-    ],
-    [
-     "Nice",
-     2022
-    ],
-    [
-     "Diriyah Club",
-     2025
     ]
    ]
   },
   {
-   "name": "Mevlüt Erdinç",
+   "name": "Layvin Kurzawa",
    "clubs": [
     [
-     "Sochaux-Montbéliard",
-     2005
+     "Monaco",
+     2010
     ],
     [
      "PSG",
-     2009
-    ],
-    [
-     "Rennes",
-     2012
-    ],
-    [
-     "Saint-Étienne",
-     2013
-    ],
-    [
-     "Hanovre 96",
      2015
     ],
     [
-     "Guingamp",
-     2016
-    ],
-    [
-     "Metz",
-     2016
-    ],
-    [
-     "İstanbul BB",
-     2017
-    ],
-    [
-     "Antalyaspor",
-     2018
-    ],
-    [
-     "Fenerbahçe",
-     2019
-    ],
-    [
-     "Fatih Karagümrük",
-     2020
-    ],
-    [
-     "Kocaelispor",
-     2021
-    ],
-    [
-     "Ümraniyespor",
+     "Fulham",
      2022
     ],
     [
-     "Racing Besançon",
+     "Boavista",
+     2025
+    ],
+    [
+     "Persib Maung Bandung",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Charles Kaboré",
+   "clubs": [
+    [
+     "Libourne FA",
+     2006
+    ],
+    [
+     "Marseille",
+     2008
+    ],
+    [
+     "Kouban Krasnodar",
+     2013
+    ],
+    [
+     "Krasnodar",
+     2015
+    ],
+    [
+     "Dynamo Moscou",
+     2019
+    ],
+    [
+     "Chamois niortais",
      2022
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-036.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-037.mp4"
 }

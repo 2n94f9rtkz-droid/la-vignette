@@ -323,6 +323,15 @@
     "Gaëtan Laborde",
     "Mevlüt Erdinç"
    ]
+  },
+  {
+   "num": 37,
+   "date": "2026-11-13",
+   "players": [
+    "Franck Ribéry",
+    "Layvin Kurzawa",
+    "Charles Kaboré"
+   ]
   }
  ],
  "used": [
@@ -538,7 +547,13 @@
   "Mevlüt Erdinç",
   "Q25253293",
   "Q18001481",
-  "Q440846"
+  "Q440846",
+  "Franck Ribéry",
+  "Layvin Kurzawa",
+  "Charles Kaboré",
+  "Q1918",
+  "Q1809423",
+  "Q439430"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -597,6 +612,9 @@
   "Serge Aurier": "parcours EN et FR différents",
   "Taye Taiwo": "infobox EN illisible",
   "Theo Hernandez": "parcours EN et FR différents",
-  "Diego Costa": "parcours EN et FR différents"
+  "Diego Costa": "parcours EN et FR différents",
+  "Kader Keïta": "parcours EN et FR différents",
+  "Ricardo Faty": "parcours EN et FR différents",
+  "Bakari Koné": "années EN et FR différentes"
  }
 }
