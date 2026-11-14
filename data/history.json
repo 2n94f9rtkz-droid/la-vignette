@@ -332,6 +332,15 @@
     "Layvin Kurzawa",
     "Charles Kaboré"
    ]
+  },
+  {
+   "num": 38,
+   "date": "2026-11-14",
+   "players": [
+    "Jonathan David",
+    "Lucas Digne",
+    "Peguy Luyindula"
+   ]
   }
  ],
  "used": [
@@ -553,7 +562,13 @@
   "Charles Kaboré",
   "Q1918",
   "Q1809423",
-  "Q439430"
+  "Q439430",
+  "Jonathan David",
+  "Lucas Digne",
+  "Péguy Luyindula",
+  "Q56085180",
+  "Q72648",
+  "Q342608"
  ],
  "rejected": {
   "Lilian Laslandes": "pas de photo libre",
@@ -615,6 +630,8 @@
   "Diego Costa": "parcours EN et FR différents",
   "Kader Keïta": "parcours EN et FR différents",
   "Ricardo Faty": "parcours EN et FR différents",
-  "Bakari Koné": "années EN et FR différentes"
+  "Bakari Koné": "années EN et FR différentes",
+  "Didier Drogba": "parcours EN et FR différents",
+  "Habib Bamogo": "parcours EN et FR différents"
  }
 }

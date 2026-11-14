@@ -1,105 +1,101 @@
 {
- "num": 37,
- "date": "2026-11-13",
- "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #037",
- "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Franck Ribéry : Sven Mandel, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Franck_Ribery_2019_(cropped).jpg)\n- Layvin Kurzawa : Sandro Halank, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93168.jpg)\n- Charles Kaboré : Gilzetbase, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Charles_Kabor%C3%A9_1.jpg)",
- "answers": "Franck Ribéry, Layvin Kurzawa, Charles Kaboré",
+ "num": 38,
+ "date": "2026-11-14",
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #038",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Jonathan David : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Jonathan_David_Canada_v_Qatar_18_June_2026-242_(cropped).jpg)\n- Lucas Digne : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Lucas_Digne_France_v_Norway_26_June_26-043.jpg)\n- Peguy Luyindula : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Peguy_Luyindula_20110724_(cropped).jpg)",
+ "answers": "Jonathan David, Lucas Digne, Peguy Luyindula",
  "players": [
   {
-   "name": "Franck Ribéry",
+   "name": "Jonathan David",
    "clubs": [
     [
-     "Boulogne",
-     2000
+     "La Gantoise",
+     2018
     ],
     [
-     "Alès",
-     2002
+     "Lille",
+     2020
     ],
     [
-     "Brest",
-     2003
-    ],
-    [
-     "Metz",
-     2004
-    ],
-    [
-     "Galatasaray",
-     2005
-    ],
-    [
-     "Marseille",
-     2005
-    ],
-    [
-     "Bayern",
-     2007
-    ],
-    [
-     "Fiorentina",
-     2019
-    ],
-    [
-     "Salernitana",
-     2021
-    ]
-   ]
-  },
-  {
-   "name": "Layvin Kurzawa",
-   "clubs": [
-    [
-     "Monaco",
-     2010
-    ],
-    [
-     "PSG",
-     2015
-    ],
-    [
-     "Fulham",
-     2022
-    ],
-    [
-     "Boavista",
+     "Juventus",
      2025
     ],
     [
-     "Persib Maung Bandung",
+     "Atlético",
      2026
     ]
    ]
   },
   {
-   "name": "Charles Kaboré",
+   "name": "Lucas Digne",
    "clubs": [
     [
-     "Libourne FA",
-     2006
+     "Lille",
+     2011
     ],
     [
-     "Marseille",
-     2008
-    ],
-    [
-     "Kouban Krasnodar",
+     "PSG",
      2013
     ],
     [
-     "Krasnodar",
+     "AS Roma",
      2015
     ],
     [
-     "Dynamo Moscou",
-     2019
+     "Barça",
+     2016
     ],
     [
-     "Chamois niortais",
+     "Everton",
+     2018
+    ],
+    [
+     "Aston Villa",
      2022
+    ],
+    [
+     "PSG",
+     2026
+    ]
+   ]
+  },
+  {
+   "name": "Peguy Luyindula",
+   "clubs": [
+    [
+     "Chamois niortais",
+     1997
+    ],
+    [
+     "Strasbourg",
+     1998
+    ],
+    [
+     "Lyon",
+     2002
+    ],
+    [
+     "Marseille",
+     2004
+    ],
+    [
+     "Auxerre",
+     2005
+    ],
+    [
+     "Levante UD",
+     2006
+    ],
+    [
+     "PSG",
+     2007
+    ],
+    [
+     "Red Bulls de New York",
+     2013
     ]
    ]
   }
  ],
- "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-037.mp4"
+ "video_url": "https://raw.githubusercontent.com/2n94f9rtkz-droid/la-vignette/media/la-vignette-038.mp4"
 }

@@ -1,0 +1,171 @@
+{
+ "num": 38,
+ "date": "2026-11-14",
+ "players": [
+  {
+   "lvl": "FACILE",
+   "qid": "Q56085180",
+   "name": "Jonathan David",
+   "first": "JONATHAN",
+   "last": "DAVID",
+   "pos": "ATTAQUANT",
+   "nat": "CANADA",
+   "flag": null,
+   "clubs": [
+    [
+     "La Gantoise",
+     2018
+    ],
+    [
+     "Lille",
+     2020
+    ],
+    [
+     "Juventus",
+     2025
+    ],
+    [
+     "Atlético",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Jonathan David Canada v Qatar 18 June 2026-242 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jonathan_David_Canada_v_Qatar_18_June_2026-242_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jonathan_David_Canada_v_Qatar_18_June_2026-242_%28cropped%29.jpg/960px-Jonathan_David_Canada_v_Qatar_18_June_2026-242_%28cropped%29.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Jonathan David",
+   "raw": "p1_raw.jpg",
+   "img": "p1_ht.png"
+  },
+  {
+   "lvl": "MOYEN",
+   "qid": "Q72648",
+   "name": "Lucas Digne",
+   "first": "LUCAS",
+   "last": "DIGNE",
+   "pos": "DÉFENSEUR",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Lille",
+     2011
+    ],
+    [
+     "PSG",
+     2013
+    ],
+    [
+     "AS Roma",
+     2015
+    ],
+    [
+     "Barça",
+     2016
+    ],
+    [
+     "Everton",
+     2018
+    ],
+    [
+     "Aston Villa",
+     2022
+    ],
+    [
+     "PSG",
+     2026
+    ]
+   ],
+   "status": "actif",
+   "photo": {
+    "file": "Lucas Digne France v Norway 26 June 26-043.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucas_Digne_France_v_Norway_26_June_26-043.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lucas_Digne_France_v_Norway_26_June_26-043.jpg/960px-Lucas_Digne_France_v_Norway_26_June_26-043.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0"
+   },
+   "credit": "Photo : Bryan Berlin · CC BY-SA 4.0",
+   "src": "Lucas Digne",
+   "raw": "p2_raw.jpg",
+   "img": "p2_ht.png"
+  },
+  {
+   "lvl": "EXPERT",
+   "qid": "Q342608",
+   "name": "Peguy Luyindula",
+   "first": "PEGUY",
+   "last": "LUYINDULA",
+   "pos": "ATTAQUANT",
+   "nat": "FRANCE",
+   "flag": [
+    "v",
+    [
+     "#1B3A8C",
+     "#FFFFFF",
+     "#D7263D"
+    ]
+   ],
+   "clubs": [
+    [
+     "Chamois niortais",
+     1997
+    ],
+    [
+     "Strasbourg",
+     1998
+    ],
+    [
+     "Lyon",
+     2002
+    ],
+    [
+     "Marseille",
+     2004
+    ],
+    [
+     "Auxerre",
+     2005
+    ],
+    [
+     "Levante UD",
+     2006
+    ],
+    [
+     "PSG",
+     2007
+    ],
+    [
+     "Red Bulls de New York",
+     2013
+    ]
+   ],
+   "status": "ok",
+   "photo": {
+    "file": "Peguy Luyindula 20110724 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peguy_Luyindula_20110724_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Peguy_Luyindula_20110724_%28cropped%29.jpg/960px-Peguy_Luyindula_20110724_%28cropped%29.jpg",
+    "artist": "PSGMAG.NET",
+    "license": "CC BY 2.0"
+   },
+   "credit": "Photo : PSGMAG.NET · CC BY 2.0",
+   "src": "Péguy Luyindula",
+   "raw": "p3_raw.jpg",
+   "img": "p3_ht.png"
+  }
+ ],
+ "title": "Devine les 3 joueurs grâce à leur parcours ! Qui suis-je ? #038",
+ "caption": "Qui suis-je ? 3 joueurs, 3 niveaux : facile, moyen, expert.\nTu en trouves combien ? Ton score en commentaire ↓\n\nNouvelle vignette chaque jour à 18h30.\n\n#foot #football #quizfoot #quisuisje #footballquiz #ligue1 #lavignette\n\nCrédits photos (Wikimedia Commons) :\n- Jonathan David : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Jonathan_David_Canada_v_Qatar_18_June_2026-242_(cropped).jpg)\n- Lucas Digne : Bryan Berlin, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Lucas_Digne_France_v_Norway_26_June_26-043.jpg)\n- Peguy Luyindula : PSGMAG.NET, CC BY 2.0 (https://commons.wikimedia.org/wiki/File:Peguy_Luyindula_20110724_(cropped).jpg)",
+ "answers": "Jonathan David, Lucas Digne, Peguy Luyindula"
+}
